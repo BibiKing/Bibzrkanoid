@@ -145,7 +145,7 @@ Transform:
   m_GameObject: {fileID: 277286809}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 5.065, z: 0}
+  m_LocalPosition: {x: 0, y: 5.088, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -398,7 +398,7 @@ Transform:
   m_GameObject: {fileID: 414108543}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.75, y: 0, z: 0}
+  m_LocalPosition: {x: -2.703, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -571,7 +571,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -269449393
-  m_SortingLayer: -2
+  m_SortingLayer: -3
   m_SortingOrder: 0
   m_Sprite: {fileID: -3493541660753083940, guid: f84c6d3815d5d6048a8027e5f9e0c025, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -680,8 +680,75 @@ Transform:
   m_Children:
   - {fileID: 510440432}
   - {fileID: 336473320}
+  - {fileID: 506108897}
+  - {fileID: 1952624266}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &506108896
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 506108897}
+  - component: {fileID: 506108898}
+  m_Layer: 0
+  m_Name: BricksManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &506108897
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 506108896}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 466014475}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &506108898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 506108896}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fcb4fb936340a74c9e4b89c6425ea32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxRows: 15
+  maxCols: 15
+  maxLevels: 15
+  brickPrefab: {fileID: 4486010254717290169, guid: fadf9d1db1fa90e42b85484e786a7fb9, type: 3}
+  sprites:
+  - {fileID: -1614582721, guid: 07294f365f171d54eb07e6b91297db46, type: 3}
+  - {fileID: -1413807641, guid: 07294f365f171d54eb07e6b91297db46, type: 3}
+  - {fileID: -3581127029532586042, guid: 12c9eefed55a6524496572d1a2387039, type: 3}
+  - {fileID: -3271834841568197018, guid: 12c9eefed55a6524496572d1a2387039, type: 3}
+  - {fileID: -4506956802181919417, guid: 12c9eefed55a6524496572d1a2387039, type: 3}
+  - {fileID: 1437503401646794464, guid: 12c9eefed55a6524496572d1a2387039, type: 3}
+  levelsFile: levels_15_progressivos
+  brickColors:
+  - {r: 1, g: 1, b: 1, a: 0}
+  - {r: 0, g: 0.8078432, b: 0.8196079, a: 1}
+  - {r: 0.1333333, g: 0.5450981, b: 0.1333333, a: 1}
+  - {r: 1, g: 0.8431373, b: 0, a: 1}
+  - {r: 0.854902, g: 0.6470588, b: 0.1254902, a: 1}
+  - {r: 0.8235294, g: 0.4117647, b: 0.11764706, a: 1}
+  - {r: 0.5450981, g: 0, b: 0, a: 1}
+  currentLevel: 13
 --- !u!1 &510440431
 GameObject:
   m_ObjectHideFlags: 0
@@ -900,7 +967,7 @@ MonoBehaviour:
   m_Intensity: 1
   m_LightVolumeIntensity: 1
   m_LightVolumeEnabled: 0
-  m_ApplyToSortingLayers: 000000004f87f0ef692f1556b11d09b7
+  m_ApplyToSortingLayers: 000000004f87f0ef692f1556b11d09b74776f2b8
   m_LightCookieSprite: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
   m_LightOrder: 0
@@ -973,7 +1040,7 @@ Transform:
   m_GameObject: {fileID: 1140809453}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.73, y: 0, z: 0}
+  m_LocalPosition: {x: 2.683, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1084,7 +1151,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1444228969
-  m_SortingLayer: -3
+  m_SortingLayer: -4
   m_SortingOrder: 0
   m_Sprite: {fileID: -3773988775388883341, guid: 543f957698636194c84ab13a90fadba7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1107,7 +1174,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0.08, z: 0}
-  m_LocalScale: {x: 2.55, y: 4.25, z: 1}
+  m_LocalScale: {x: 2.5, y: 4.25, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1147,6 +1214,51 @@ Transform:
   - {fileID: 291043447}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1952624265
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1952624266}
+  - component: {fileID: 1952624267}
+  m_Layer: 0
+  m_Name: LevelGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1952624266
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1952624265}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 466014475}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1952624267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1952624265}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 852b7178c58635e4fb240fc465702c15, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  seed: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
