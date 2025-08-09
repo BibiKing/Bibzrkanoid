@@ -1,0 +1,5402 @@
+fileFormatVersion: 2
+guid: 01baec064c38fab4f8327e6ca74f357d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3058918466827157691
+    second: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb08d148326737a20800000000000000
+      internalID: 3058918466827157691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fe75c70504d2f4395a1656b1332689
+      internalID: 1708105164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32e97f49a7aad94e8fd6166530b74a3
+      internalID: 172733395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b8274e53f0f244f97b15de662a2fd1
+      internalID: -1475848199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0b94ce9b86bb944b36514217012b9b
+      internalID: 859422001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294b5d6540070e34c8035aeb8e9ad394
+      internalID: -2091038278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3f979d436980846a7d523ffae1e828
+      internalID: -353118589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1174d6e91886d346825336f5454e63e
+      internalID: 196593364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d64b4cc4dff0fd40b40ef657e4cc957
+      internalID: 642144507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64fcf2dd4c3a28469fa92405854c9f5
+      internalID: -730312854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6988bc1e9a6b4d4479f97bf8743528c8
+      internalID: 1113166443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595a6a2d3db523d44a0d06a7a54c6035
+      internalID: -1775215044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fab10d1c3b13d47be65405cdc050a2
+      internalID: -1545493235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1797a8f9182f34883c6b358b26d67b
+      internalID: 824008864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6460031b3b72443b6d8cc7e217d37c
+      internalID: 1005482537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bbb2d639f66f84fa8d9ad7be31e9eb
+      internalID: -393153199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9551108079e4b1428ff1d2db1f4c684
+      internalID: -977484733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c23803ee332d641be83800daece03b
+      internalID: 1968008723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8498463ff734fc04c87cd4eb1b394dca
+      internalID: 1606269578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5bde9937b11e7418e2915f69ba5631
+      internalID: -1323169317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37dffa1cda89a34b81385c8831c7a18
+      internalID: 1822202938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0463c2c541720448d23ff020358657
+      internalID: 938770161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c226e5814bc394ba07b9a288294803
+      internalID: -2030849953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3483ef696992c0e47b94be4f6e726dd5
+      internalID: -320360988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be243e33c6907a0488963d86fd415108
+      internalID: 689883708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8ee3188dbd76049bfe1d7e1cd39d51
+      internalID: -1349077022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c80c6211293be49a9161eec4d43c49
+      internalID: -463291239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28cef813d00cdf4b9ff434ae0df9275
+      internalID: 1548767419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cca84a2e5b03ac48a2a6bc1e100468c
+      internalID: 1727177349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678e079d2077c424b806ee76746be261
+      internalID: 1986919260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079f0b189a40e614e92922c52d99f160
+      internalID: -1012616499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15af73163dce3474aa4f62b51dfea708
+      internalID: 2026230397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0137e32410232384bb989d574418ec12
+      internalID: -388766678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6124f62ecd53d478aca9e55a36531c
+      internalID: -1778719488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d90eae165704a48bc76120dbbe05b3
+      internalID: 522584578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b3768b9e4500d4f83c07b7ad45cb47
+      internalID: -581666862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed81c5ee8009174ea2bcfb5c126cb65
+      internalID: -1972739146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e057585828fa9a3489a8dd00ec090c84
+      internalID: -688975678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb37da5fe2d24a842a3b8bddcfd46ce1
+      internalID: 287368163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17050f15f8dec6a4b82e5b799101b67a
+      internalID: 1680729108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd273f10e70aa314da0b1a67b32906b7
+      internalID: -585558651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147b4fa1d381efb4ebf3312ba200af70
+      internalID: 1355832348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f426400f4a00208489850776163084f7
+      internalID: -1509590170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7f571f2f4f4484e84dc321d0dca244
+      internalID: 420178255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0d13c2418651245b6c3cc7a8843074
+      internalID: 1915030269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922ba4e1f12fe594ab1251c81598eb71
+      internalID: -835713015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6a5edad15fdb34fa2c50e4df3f688a
+      internalID: 1835026518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d0950e31fe2464dbdff45e90b4788a
+      internalID: 1600677581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_48
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93d9017a798de24caf323ad14a3abc5
+      internalID: 971363787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 72
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafd56b18bca1ef44b5d4a9015ae8f6d
+      internalID: -1291582997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3954a15aec91648a079e9580147c52
+      internalID: -404790153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_51
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83457fc5d1dac54c8cef1f5449e1e61
+      internalID: 517680767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31841b2869dad414e84bdd3aab9e8bdd
+      internalID: 1597734973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d55da345c44324f940616309242508
+      internalID: -1586762133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c300445ec0ee245b9725e0be31f322
+      internalID: 782776333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0ba0370bf74a24887e0911ada5449f
+      internalID: -99916235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412311c6e49cac54d88c1028e5439f28
+      internalID: 673872093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ff528c9e5676748b3862b88aa2040d
+      internalID: 658251255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8661d88fe3328e7409733dfadad30644
+      internalID: 1118406203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbb4d27a46f0dd49b07a50c8289e40f
+      internalID: -1472206333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9688120a8cbfe3a44ae3ed951b43c5a1
+      internalID: 1590316936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_61
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b3b0f64ebf3f14e814d5f280bead98
+      internalID: 878157750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfc09b0934964d44963c3c285fba25c
+      internalID: 1571861926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e46721a15e69d245902419cb3d5dfab
+      internalID: 1940702974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b4bc4dd5a843a40ba05c4974c778b7
+      internalID: 1605329142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1aca26a537b7d48aad965c338b4f9b
+      internalID: -108654135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e6c52609183954ca44e10f1fee1558
+      internalID: 1733783542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_67
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da215e87bc1b234c9350c0145c0e935
+      internalID: 356213982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88b6c6469d5ae645b449783bfabb202
+      internalID: 701949674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_69
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7e63499ad83d64aa59ea958a90e7f7
+      internalID: -860804546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8d80f9572af5942a286ac64ba658a5
+      internalID: -2146161334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77a52a71fe116943adfeed514a3e4f1
+      internalID: 948823977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_72
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25062fadbdd94254dabdb61f6d8c7c97
+      internalID: -118205434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_73
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e65b592693f8a4291781a50eb631c2
+      internalID: 2115329471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc389291d6eacb54faf29d77670c6000
+      internalID: -1484349860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41569d123078a2845acd995f2ecb876f
+      internalID: -1553050492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5bf8ea87392234eb6388e7a1cfa7dc
+      internalID: 339336136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90658e540b3c4f74b91afdcca69a4b03
+      internalID: 160084408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f449c77224882b24281a9b22d3af3f8e
+      internalID: -17706178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32685d787e0893d41a8f58951741320c
+      internalID: -484435844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50ca66733b42234c80e42022303b1a3
+      internalID: -2030126357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39766d63e7353284983a067b44849ed6
+      internalID: -1573763960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fe8187c90d91240b5919b53eff0cfc
+      internalID: -117778569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d1f39029dbc05448f96c5fec2ffdcb
+      internalID: 1714096307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d761f1a77ea984a478967af272150d69
+      internalID: 398733450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8ed2dab9c728c4392524403b0048ba
+      internalID: 445438836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1a8a91e9f50ef458cc95e4eabf78b7
+      internalID: 1056802595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bf2f283b98c704488061ca823598fb
+      internalID: -1368342837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9222ec34cf2ba4e83331a2b8612f49
+      internalID: -862640678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912b06977589c7a41960e6533315def8
+      internalID: -2042802164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9ddefea0aaf794c870041690a9073d
+      internalID: -19529607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f8e2de025f9e54ab9cdbaeb744e233
+      internalID: 380402562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_92
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecb473102bbd1242bd3011584a2cdaf
+      internalID: 40053506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abe46879dd9eec4ca106621cfd99d4c
+      internalID: -300902263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_94
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185530a1804530b4f92f19de3deb1fb1
+      internalID: -852093675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_95
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ce6c23c06215d449e8e43414f18520
+      internalID: 1813462866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_96
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b821b926b9488b84696fd89650e2c01f
+      internalID: -795611537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_97
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0104742172661a14e9226243927c5a83
+      internalID: -216431304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_98
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c5f5de81372ee44bb018fb511678c2
+      internalID: 1915896878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fba16d596e6fd94b9f34727e4543bda
+      internalID: -1359227232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab53b511916d15e42973603f49956184
+      internalID: 8344909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b42ca8d54ac0df4b92a25d888f8e674
+      internalID: -1086823305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86edc3bc40e381e4e8118cc09e3fc135
+      internalID: -1532224061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483958cd7903ec2409708cc159b26d15
+      internalID: 1986454782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8117c657ea2e364c9adaa4136bfb6f1
+      internalID: 1468109946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_105
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f337cecda121a8645b50421b2c9eaac5
+      internalID: -1911576350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea4c7355ab2dbc43aa65eb8c8caddcc
+      internalID: 478984778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_107
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b0b5a5586be7540b7311295b05ca0a
+      internalID: -2124173604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191a5c26ccb97c747b31f5f62069d96c
+      internalID: -1986228256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64d1f7e105864e4abf7eaeea373479b
+      internalID: -19020922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cfffa5392d86c479dae7b9b40ef11c
+      internalID: -983179727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_111
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faba398cd68ba6c4284f8d4e8e7d311d
+      internalID: 406989900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e963da52abc8e4db4c6007ff57efc9
+      internalID: -124220241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_113
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6336ea9911f20f24daaa016d19694c38
+      internalID: -1412663321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_114
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74ca1ab2742b644e8321999a1a42236
+      internalID: 990851255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_115
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c628c18271b5d8498f5300fd201fc2a
+      internalID: -696547361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2938aa51ef2a54eaf5aa213dbdef01
+      internalID: -440246768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947f4df38f7c3e4488e926e9cf74b63e
+      internalID: -1757177967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_118
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921f2022763c125459347230903b3b1e
+      internalID: -996565542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_119
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d69537259d49a4898b6d42705e9c22
+      internalID: -446609680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d189d08b318d2449b7c598d3fb9f98
+      internalID: 1907061111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1c2080d1e247d438a0d48c6504e167
+      internalID: -995780045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d972c1f0f2e0f34293ecaf433b758c8
+      internalID: -1272709158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a194757357182409a9f608688423fb
+      internalID: -2101223237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93f88f179c9bb34793ced6045652044
+      internalID: -928828839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a8969bd6eb0404a9a81cc8ad248dfc
+      internalID: 117174105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a28834c7425124180ce238234bd036
+      internalID: -1227399229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ed4083dee845f4ba564741f77961cf
+      internalID: 1459711108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f9e3f43f436ff4b9ce640d01493864
+      internalID: -165091414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ae5081b2fb2224d95a1c406018b0ca
+      internalID: 1278254174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafb40d80aef47f4c9624e98f8c8b502
+      internalID: 203033402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_131
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cdbb9ce24eda145b64df9e48f7b052
+      internalID: 1940655032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9fe9681d7d4fd4da33f95ed8db3508
+      internalID: -382122836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_133
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c96b09a8c637e74682e4be7f4ad7038
+      internalID: -1757132946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d84d69b201c01341b8796bf4bd348ac
+      internalID: -815268704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_135
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bd24fa8806ac747bf500c03bc53a77
+      internalID: -1337319018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11807390ed9fa1444a7026ad5f46e5f8
+      internalID: 1489178834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_137
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8446f1fb872ade4daa1921a46b6441e
+      internalID: -510638422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_138
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5905a2a9ce4228a4880954c35877b2c2
+      internalID: -1288941416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_139
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00012389283d8fa43befc84e69d1968b
+      internalID: -1261279229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_140
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 40
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8715e801ba1bb284caf712751a3c86db
+      internalID: -1061149474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587c481fb8557e645bdf820f8dd455d0
+      internalID: -176186669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_142
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab8bb4b9f3d23148a1f43c62756b7af
+      internalID: -802564086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_143
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfa2b2f574796c47bd7460502c542f0
+      internalID: -2012158323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_144
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863cddc662d990f428bdcc283f40eccb
+      internalID: 1208155127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40574092003bc0f4d883ceac4ca57b00
+      internalID: -1620127407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_146
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105ac047e846d3744b40c5a1929f0a8c
+      internalID: -1760034210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0e52b4fd35a9648a7a89927a54f0c1
+      internalID: 405117777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_148
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b789d3b81f610aa4e98c1475781e5b3f
+      internalID: -585166641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_149
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9cb26a8ac605045942425510ba688d
+      internalID: -206255661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_150
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7833de46a39dbdb41a94d2d13b29dc8e
+      internalID: -1101734673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_151
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0198e59bb5c1b614da3e992aeeceec5f
+      internalID: 1554838356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_152
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ba224d90b2cad4daab01ff7a056a65
+      internalID: 997818801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd336766d98a47b4b9c48a3bf09d5f53
+      internalID: -2132116478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_154
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8538d72b17a00bc4a8a9c88c48e3f9c0
+      internalID: 719885943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_155
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafee7749e6357743bca7b9cf62dd83c
+      internalID: 499643759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_156
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ee7c90afacd7b4591746f8dc16d990
+      internalID: -494239849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_157
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a4b77614e00b04186668322730fe7f
+      internalID: -748711206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_158
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab842ee5399e2454d869afa81daaf2cc
+      internalID: 1737559345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_159
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2878d6abc75331499b6c8d002b0e926
+      internalID: 1333248064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_160
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e462fb3e02e7174690b65da390dcfdd
+      internalID: -1752392531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_161
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cec7d61c3844a4181795d7302f0758
+      internalID: -2010041356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e4b55f2719ca040bde274fdb5c37f2
+      internalID: 1919414019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_163
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424336fe36635714b908e9c6580f629a
+      internalID: -1661296491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_164
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd66fe33f41f0254fb9a8f067b970e25
+      internalID: -34127878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_165
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadc06d8f50829c4aabd636eefaa2dc3
+      internalID: 1533596969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_166
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd77982c828319742bcfc9fd0ac0fe5d
+      internalID: -1989550075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_167
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4053f8ca04b7a394aaad057ace71a72a
+      internalID: 721640986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a05603dc9fa7d4a9ed6f99422079b3
+      internalID: -385597638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_169
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b10e5c31fa6ea4458fff90443c5ba5a
+      internalID: -312534940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8c242b0a6e6054abbeb19eef92eb80
+      internalID: -326583548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_171
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c05728fef0921940bfcd9c307624930
+      internalID: -1699709693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_172
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfbfdf2b16279c48816197873c806a5
+      internalID: -2099107071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_173
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f32a92e5dfcf6843a0e2cdd3f2355c0
+      internalID: 1189524355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e845513f032504043b0f3852b5a8c491
+      internalID: 848184578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_175
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b804418d1c62a540b4d6d3d379c7e0d
+      internalID: -540903953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_176
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a121d1c39487784a89aaccee6eaa03b
+      internalID: 1041165875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_177
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26092d2c0e2928e49aaade21dd5c4527
+      internalID: -2102306334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_178
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a6ec88c2ea2f448b586d80351962fd
+      internalID: -440361042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_179
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f85defd40cce84e9acd72be53689d9
+      internalID: -1579008813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_180
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14efccec6b2615c4f84408801a91da88
+      internalID: -1198260783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_181
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbf311e7bdfdc84b94608ec58c7dfdc
+      internalID: 785330656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_182
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e402274cb08548a4d82cf0dd1fc36057
+      internalID: -1369311691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_183
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3176483024a094883655d2152505c9
+      internalID: -443304421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_184
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d378e462b28c33d48a2c8c37eb2a1511
+      internalID: 2101432452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_185
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09529c4f071367d49bc1ce9f3add4466
+      internalID: -911463066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_186
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465c0ca031b47ca42b95b6c9d5419011
+      internalID: 1396591240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_187
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e75f547ac3e954b98b212798db1732
+      internalID: -1553038972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_188
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6be04d4cb30dd40bef55cf5093ac62
+      internalID: -1384801878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_189
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f2fae7485e8ce4b9cef048cfe83b5b
+      internalID: 595669348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_190
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b05eb2d0fa14d9419e93b283e0a2077
+      internalID: -2131959002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_191
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee809464a2ae57649ac62b0e59eae70a
+      internalID: -263153292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_192
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85227218c464b0a4baf158393d38d3a4
+      internalID: 323876240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_193
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cce78418208bb24eb3ab75d9de156a7
+      internalID: 1153479500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_194
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80a7143b4bc72f4fbbbf813770add98
+      internalID: 820139064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5b3e2595e965c42b0b090ee76f3dfc
+      internalID: 1451232726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_196
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a9d8241a534544d80d87cc2141ad00
+      internalID: 1168231514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_197
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8abc16eb6842e43859155b71824b62
+      internalID: -148001933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_198
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5091740679d22247ac7f155850fb254
+      internalID: -1287516532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_199
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f899509ca04494881b0d2435ae2202
+      internalID: 1773065497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_200
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734a168b6f01d3744a6c83707d440e86
+      internalID: 170640846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_201
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc439fea31626549bf1bc44cc6581d6
+      internalID: -1023415681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_202
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1536dad93170748858ae4fb53d2021
+      internalID: -926227673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_203
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ba2c062d5e4f14cb122842dcee38df
+      internalID: 20774536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_204
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8602fa15c786f4aaef45d623c55e9c
+      internalID: -1492394787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_205
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a65deab7900e845a6ec11ceeb15cef
+      internalID: 1667401856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_206
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9d2ee9d3e6e8e44a67f55c3b816009
+      internalID: 738633657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_207
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d278b110443ff914b9a7162ea40caf3d
+      internalID: -1177060160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_208
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5e587da48cc014e940012b66bea89f
+      internalID: 867130393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_209
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3b9862d3532bc46ac8335ce1ed72ab
+      internalID: -1731860216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_210
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd152c4f509cac4daa030f0a4de4099
+      internalID: 891783483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_211
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f7eee3fd6f1ec42be2677c6e446b6e
+      internalID: -1507041997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_212
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f458b4bbbdb67604abcc1d8e8642ec1b
+      internalID: -1336683342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_213
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d71f2198045b15418a677d643b9c632
+      internalID: 1388976587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee3a342e3431124ea1bddbd66ef99bc
+      internalID: 390098723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_215
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4243d07460cc0a34f8bf61f52807a1f2
+      internalID: 811481315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_216
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2618b6ab56a2b3748a91d9ee5bcb26bc
+      internalID: -1107021622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_217
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d74000597dbb44bb7b86e6f3ec75d0
+      internalID: 728214492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_218
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0d1b30d5b504947a4566e9f99608b0
+      internalID: -1565326617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_219
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fa9b1e365e19140ab8b57a1085ac48
+      internalID: -1911505170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_220
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710843b3dcbb3d24db6423f44659ac40
+      internalID: 1634903699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_221
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcabdd247962df40a29b011434f1a4d
+      internalID: 1368416002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_222
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2074997ba87bf424da175306dd1cd277
+      internalID: 455542916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_223
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffc1f78bd1cfa942a251becbe13c092
+      internalID: -1041547935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_224
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13653a5bcc660414c81607a1614f8f7c
+      internalID: 258631211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_225
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40704c317b09424f99e4ebaf35f2f42
+      internalID: 835192407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb433f04f9ad44748bb084ff974a0fa8
+      internalID: -1377067398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_227
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794adb22d00d110409500ae9d7103094
+      internalID: -107899621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_228
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6739b2c4c7671a41afdd003c33c4600
+      internalID: 1783970879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 10a90b3a04e7a85488cea70a40b50dad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":25.0,"y":11.0},"gridSpriteSize":{"x":16.0,"y":8.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_0: 3058918466827157691
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_1: 1708105164
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_10: 1113166443
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_100: 8344909
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_101: -1086823305
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_102: -1532224061
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_103: 1986454782
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_104: 1468109946
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_105: -1911576350
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_106: 478984778
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_107: -2124173604
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_108: -1986228256
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_109: -19020922
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_11: -1775215044
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_110: -983179727
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_111: 406989900
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_112: -124220241
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_113: -1412663321
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_114: 990851255
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_115: -696547361
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_116: -440246768
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_117: -1757177967
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_118: -996565542
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_119: -446609680
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_12: -1545493235
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_120: 1907061111
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_121: -995780045
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_122: -1272709158
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_123: -2101223237
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_124: -928828839
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_125: 117174105
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_126: -1227399229
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_127: 1459711108
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_128: -165091414
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_129: 1278254174
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_13: 824008864
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_130: 203033402
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_131: 1940655032
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_132: -382122836
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_133: -1757132946
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_134: -815268704
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_135: -1337319018
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_136: 1489178834
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_137: -510638422
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_138: -1288941416
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_139: -1261279229
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_14: 1005482537
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_140: -1061149474
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_141: -176186669
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_142: -802564086
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_143: -2012158323
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_144: 1208155127
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_145: -1620127407
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_146: -1760034210
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_147: 405117777
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_148: -585166641
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_149: -206255661
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_15: -393153199
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_150: -1101734673
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_151: 1554838356
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_152: 997818801
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_153: -2132116478
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_154: 719885943
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_155: 499643759
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_156: -494239849
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_157: -748711206
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_158: 1737559345
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_159: 1333248064
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_16: -977484733
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_160: -1752392531
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_161: -2010041356
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_162: 1919414019
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_163: -1661296491
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_164: -34127878
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_165: 1533596969
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_166: -1989550075
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_167: 721640986
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_168: -385597638
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_169: -312534940
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_17: 1968008723
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_170: -326583548
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_171: -1699709693
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_172: -2099107071
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_173: 1189524355
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_174: 848184578
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_175: -540903953
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_176: 1041165875
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_177: -2102306334
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_178: -440361042
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_179: -1579008813
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_18: 1606269578
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_180: -1198260783
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_181: 785330656
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_182: -1369311691
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_183: -443304421
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_184: 2101432452
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_185: -911463066
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_186: 1396591240
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_187: -1553038972
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_188: -1384801878
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_189: 595669348
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_19: -1323169317
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_190: -2131959002
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_191: -263153292
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_192: 323876240
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_193: 1153479500
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_194: 820139064
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_195: 1451232726
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_196: 1168231514
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_197: -148001933
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_198: -1287516532
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_199: 1773065497
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_2: 172733395
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_20: 1822202938
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_200: 170640846
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_201: -1023415681
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_202: -926227673
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_203: 20774536
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_204: -1492394787
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_205: 1667401856
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_206: 738633657
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_207: -1177060160
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_208: 867130393
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_209: -1731860216
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_21: 938770161
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_210: 891783483
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_211: -1507041997
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_212: -1336683342
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_213: 1388976587
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_214: 390098723
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_215: 811481315
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_216: -1107021622
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_217: 728214492
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_218: -1565326617
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_219: -1911505170
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_22: -2030849953
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_220: 1634903699
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_221: 1368416002
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_222: 455542916
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_223: -1041547935
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_224: 258631211
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_225: 835192407
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_226: -1377067398
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_227: -107899621
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_228: 1783970879
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_23: -320360988
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_24: 689883708
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_25: -1349077022
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_26: -463291239
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_27: 1548767419
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_28: 1727177349
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_29: 1986919260
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_3: -1475848199
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_30: -1012616499
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_31: 2026230397
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_32: -388766678
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_33: -1778719488
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_34: 522584578
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_35: -581666862
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_36: -1972739146
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_37: -688975678
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_38: 287368163
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_39: 1680729108
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_4: 859422001
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_40: -585558651
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_41: 1355832348
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_42: -1509590170
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_43: 420178255
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_44: 1915030269
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_45: -835713015
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_46: 1835026518
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_47: 1600677581
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_48: 971363787
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_49: -1291582997
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_5: -2091038278
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_50: -404790153
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_51: 517680767
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_52: 1597734973
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_53: -1586762133
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_54: 782776333
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_55: -99916235
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_56: 673872093
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_57: 658251255
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_58: 1118406203
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_59: -1472206333
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_6: -353118589
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_60: 1590316936
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_61: 878157750
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_62: 1571861926
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_63: 1940702974
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_64: 1605329142
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_65: -108654135
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_66: 1733783542
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_67: 356213982
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_68: 701949674
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_69: -860804546
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_7: 196593364
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_70: -2146161334
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_71: 948823977
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_72: -118205434
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_73: 2115329471
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_74: -1484349860
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_75: -1553050492
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_76: 339336136
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_77: 160084408
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_78: -17706178
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_79: -484435844
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_8: 642144507
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_80: -2030126357
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_81: -1573763960
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_82: -117778569
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_83: 1714096307
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_84: 398733450
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_85: 445438836
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_86: 1056802595
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_87: -1368342837
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_88: -862640678
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_89: -2042802164
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_9: -730312854
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_90: -19529607
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_91: 380402562
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_92: 40053506
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_93: -300902263
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_94: -852093675
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_95: 1813462866
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_96: -795611537
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_97: -216431304
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_98: 1915896878
+      custom_breakout_arkanoid_blocks_by_superjustinbros_d6nuup1_99: -1359227232
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
