@@ -1,7 +1,9 @@
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
+using UnityEngine.Rendering.Universal;
 
 public class BricksManager : MonoBehaviour
 {
@@ -10,6 +12,8 @@ public class BricksManager : MonoBehaviour
     private static BricksManager _instance;
 
     public static BricksManager Instance => _instance;
+
+    public static event Action OnLevelLoaded;
 
     private void Awake()
     {
@@ -37,7 +41,7 @@ public class BricksManager : MonoBehaviour
     public Brick brickPrefab;
 
     public Sprite[] sprites;
-    public string levelsFile = "levels_15_hp6";
+    //public string levelsFile = "levels_15_hp6";
 
     public Color[] brickColors;
     public List<Brick> remainingBricks { get; set; }
@@ -46,19 +50,19 @@ public class BricksManager : MonoBehaviour
 
     public int initialBricksCount { get; set; }
 
-    public int currentLevel = 0;
+    public int currentLevel;
     
 
     private void Start()
     {
-        this.bricksContainer = new GameObject("BricksContainer");
-        this.remainingBricks = new List<Brick>();
+        this.bricksContainer = new GameObject("BricksContainer");        
         this.levelsData = this.LoadLevelsData();
-        this.GenerateBricks();
+        this.GenerateBricks();        
     }
 
     private void GenerateBricks()
     {
+        this.remainingBricks = new List<Brick>();
         int[,] currentLevelData = this.levelsData[this.currentLevel];
         float currentSpawnX = initialBrickStartPositionX;
         float currentSpawnY = initialBrickStartPositionY;
@@ -91,7 +95,7 @@ public class BricksManager : MonoBehaviour
         }
 
         this.initialBricksCount = this.remainingBricks.Count;
-
+        OnLevelLoaded?.Invoke();
     }
 
     /*
@@ -135,4 +139,31 @@ public class BricksManager : MonoBehaviour
         return LevelGenerator.Instance.GetAllLevels();
     }
 
+    public void LoadLevel(int level)
+    {
+        this.currentLevel = level;
+        this.ClearRemainingBricks();
+        this.GenerateBricks();
     }
+
+    private void ClearRemainingBricks()
+    {
+        foreach(var brick in this.remainingBricks.ToList())
+        {
+            Destroy(brick.gameObject);
+        }
+    }
+
+    public void LoadNextLevel()
+    {
+        this.currentLevel++;
+
+        if(this.currentLevel >= this.levelsData.Count())
+        {
+            GameManager.Instance.ShowVictoryScreen();
+        } else
+        {
+            this.LoadLevel(this.currentLevel);
+        }
+    }
+}

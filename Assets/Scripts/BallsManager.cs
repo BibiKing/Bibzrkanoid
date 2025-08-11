@@ -2,6 +2,7 @@ using NUnit.Framework;
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -65,19 +66,37 @@ public class BallsManager : MonoBehaviour
         initialBall = Instantiate(ballPrefab, StartingBallPosition(), Quaternion.identity);
         initialBallRb = initialBall.GetComponent<Rigidbody2D>();
 
-        this.balls = new List<Ball>()
-        {
-            initialBall
-        };
+        // Garante que a bola fique “presa” ao paddle até o clique
+        initialBallRb.bodyType = RigidbodyType2D.Kinematic;
+        initialBallRb.linearVelocity = Vector2.zero;
+        initialBallRb.angularVelocity = 0f;
+        initialBallRb.gravityScale = 0f; // se usar gravidade no projeto
+
+        this.balls = this.balls ?? new List<Ball>();
+        this.balls.Add(initialBall);
     }
 
     private Vector3 StartingBallPosition()
     {
-        float ballRadius = ballPrefab.GetComponentInChildren<SpriteRenderer>().bounds.size.y;
+        float ballRadius = ballPrefab.GetComponentInChildren<CircleCollider2D>().bounds.size.y;
         float paddleHeight = Paddle.Instance.gameObject.GetComponent<SpriteRenderer>().bounds.size.y;
         float offset = (ballRadius / 2) + (paddleHeight / 2);
 
         Vector3 paddlePosition = Paddle.Instance.gameObject.transform.position;
         return new Vector3(paddlePosition.x, paddlePosition.y + offset, 0);
     }
+
+    public void ResetBalls()
+    {
+        foreach (var ball in this.balls.ToList())
+        {
+            if (ball != null) Destroy(ball.gameObject);
+            
+        }
+
+        // Limpa a lista e cria uma única bola inicial
+        this.balls.Clear();
+        InitBall();
+    }
+
 }
