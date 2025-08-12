@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: eb4599da84a550841bf56b03f49a0dab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3884115100167570156
+    second: arkanoid_tilable_tiles_large_spaced_0
+  - first:
+      213: 5973699488817810929
+    second: arkanoid_tilable_tiles_large_spaced_1
+  - first:
+      213: -499391942914380058
+    second: arkanoid_tilable_tiles_large_spaced_2
+  - first:
+      213: 203991916048303714
+    second: arkanoid_tilable_tiles_large_spaced_3
+  - first:
+      213: 6763294248020266026
+    second: arkanoid_tilable_tiles_large_spaced_4
+  - first:
+      213: -4883069552707282963
+    second: arkanoid_tilable_tiles_large_spaced_5
+  - first:
+      213: 4877228122053346067
+    second: arkanoid_tilable_tiles_large_spaced_6
+  - first:
+      213: 4673810207566801781
+    second: arkanoid_tilable_tiles_large_spaced_7
+  - first:
+      213: -5972133960740760992
+    second: arkanoid_tilable_tiles_large_spaced_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arkanoid_tilable_tiles_large_spaced_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 330
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2083cca1627e530800000000000000
+      internalID: 3884115100167570156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_tilable_tiles_large_spaced_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 331
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd0be9f808d6e250800000000000000
+      internalID: 5973699488817810929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_tilable_tiles_large_spaced_2
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 0
+        width: 331
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee65ee7cadc119f0800000000000000
+      internalID: -499391942914380058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_tilable_tiles_large_spaced_3
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 0
+        width: 331
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2664c1d1199b4d200800000000000000
+      internalID: 203991916048303714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_tilable_tiles_large_spaced_4
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 0
+        width: 331
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cc0bcf84c0cdd50800000000000000
+      internalID: 6763294248020266026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_tilable_tiles_large_spaced_5
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 0
+        width: 331
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de75b590d1adb3cb0800000000000000
+      internalID: -4883069552707282963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_tilable_tiles_large_spaced_6
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 0
+        width: 331
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3130987e2256fa340800000000000000
+      internalID: 4877228122053346067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_tilable_tiles_large_spaced_7
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 0
+        width: 331
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b2d91fe95bcd040800000000000000
+      internalID: 4673810207566801781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_tilable_tiles_large_spaced_8
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 0
+        width: 330
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062100fedc7be1da0800000000000000
+      internalID: -5972133960740760992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arkanoid_tilable_tiles_large_spaced_0: 3884115100167570156
+      arkanoid_tilable_tiles_large_spaced_1: 5973699488817810929
+      arkanoid_tilable_tiles_large_spaced_2: -499391942914380058
+      arkanoid_tilable_tiles_large_spaced_3: 203991916048303714
+      arkanoid_tilable_tiles_large_spaced_4: 6763294248020266026
+      arkanoid_tilable_tiles_large_spaced_5: -4883069552707282963
+      arkanoid_tilable_tiles_large_spaced_6: 4877228122053346067
+      arkanoid_tilable_tiles_large_spaced_7: 4673810207566801781
+      arkanoid_tilable_tiles_large_spaced_8: -5972133960740760992
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

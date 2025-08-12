@@ -4,12 +4,15 @@
 TagManager:
   serializedVersion: 3
   tags:
+  - Paddle
   - Ball
+  - DeathWall
+  - Projectile
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Bullet
   - Water
   - UI
   - 
@@ -50,6 +53,9 @@ TagManager:
     locked: 0
   - name: Bricks
     uniqueID: 3102897735
+    locked: 0
+  - name: Bullet
+    uniqueID: 3672485015
     locked: 0
   - name: Default
     uniqueID: 0

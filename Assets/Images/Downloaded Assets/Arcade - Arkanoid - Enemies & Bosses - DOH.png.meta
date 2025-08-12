@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 1781fb99a45bca74ebde2c0633c3d3a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6072813377766253036
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_0
+  - first:
+      213: -1365376399182155044
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_1
+  - first:
+      213: 6619239500418519088
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_2
+  - first:
+      213: 6052623729445699344
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_3
+  - first:
+      213: 7296844041453436996
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_4
+  - first:
+      213: 1873495872816958226
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_5
+  - first:
+      213: -5383301751180426748
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_6
+  - first:
+      213: 6107541171455188213
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_7
+  - first:
+      213: 5655010359256648864
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_8
+  - first:
+      213: 2371733487965640645
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_9
+  - first:
+      213: 6294258445273597751
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_10
+  - first:
+      213: -3783399334148444890
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_11
+  - first:
+      213: -8770466667201983255
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_12
+  - first:
+      213: 4539129139359763839
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_13
+  - first:
+      213: -1957399436686705193
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_14
+  - first:
+      213: -6360895127641840238
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_15
+  - first:
+      213: 5291981925020958914
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_16
+  - first:
+      213: -7291792058765663377
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_17
+  - first:
+      213: 2303664615277244633
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_18
+  - first:
+      213: 2442633525487648907
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_19
+  - first:
+      213: -5865407275145817804
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_20
+  - first:
+      213: 7466872493627202720
+    second: Arcade - Arkanoid - Enemies & Bosses - DOH_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 89
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce16ff88797f64450800000000000000
+      internalID: 6072813377766253036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 63
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2bb0626653d0de0800000000000000
+      internalID: -1365376399182155044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0301ea161434cdb50800000000000000
+      internalID: 6619239500418519088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 95
+        width: 65
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ff5b8b63d3ff350800000000000000
+      internalID: 6052623729445699344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95
+        width: 68
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4400240def8934560800000000000000
+      internalID: 7296844041453436996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 754
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b4a63f19efff910800000000000000
+      internalID: 1873495872816958226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 754
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402072a449baa45b0800000000000000
+      internalID: -5383301751180426748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 754
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcd8a7165852c450800000000000000
+      internalID: 6107541171455188213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 754
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac85a0d5f1aa7e40800000000000000
+      internalID: 5655010359256648864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 754
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c717149a071ae020800000000000000
+      internalID: 2371733487965640645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_10
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 754
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737090325b2b95750800000000000000
+      internalID: 6294258445273597751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 658
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62de1a4d95aae7bc0800000000000000
+      internalID: -3783399334148444890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 658
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec850bb80b094680800000000000000
+      internalID: -8770466667201983255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 658
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dc92527e93efe30800000000000000
+      internalID: 4539129139359763839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_14
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 562
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd3db4459be5d4e0800000000000000
+      internalID: -1957399436686705193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 562
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2952567359f89b7a0800000000000000
+      internalID: -6360895127641840238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 562
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c089aec585e07940800000000000000
+      internalID: 5291981925020958914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 274
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63224191c95eca90800000000000000
+      internalID: -7291792058765663377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 274
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0bc3323c248ff10800000000000000
+      internalID: 2303664615277244633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 274
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80c623ff3af5e120800000000000000
+      internalID: 2442633525487648907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 274
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43111f5d823e99ea0800000000000000
+      internalID: -5865407275145817804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid - Enemies & Bosses - DOH_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 274
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acd8c5c8f8af9760800000000000000
+      internalID: 7466872493627202720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade - Arkanoid - Enemies & Bosses - DOH_0: 6072813377766253036
+      Arcade - Arkanoid - Enemies & Bosses - DOH_1: -1365376399182155044
+      Arcade - Arkanoid - Enemies & Bosses - DOH_10: 6294258445273597751
+      Arcade - Arkanoid - Enemies & Bosses - DOH_11: -3783399334148444890
+      Arcade - Arkanoid - Enemies & Bosses - DOH_12: -8770466667201983255
+      Arcade - Arkanoid - Enemies & Bosses - DOH_13: 4539129139359763839
+      Arcade - Arkanoid - Enemies & Bosses - DOH_14: -1957399436686705193
+      Arcade - Arkanoid - Enemies & Bosses - DOH_15: -6360895127641840238
+      Arcade - Arkanoid - Enemies & Bosses - DOH_16: 5291981925020958914
+      Arcade - Arkanoid - Enemies & Bosses - DOH_17: -7291792058765663377
+      Arcade - Arkanoid - Enemies & Bosses - DOH_18: 2303664615277244633
+      Arcade - Arkanoid - Enemies & Bosses - DOH_19: 2442633525487648907
+      Arcade - Arkanoid - Enemies & Bosses - DOH_2: 6619239500418519088
+      Arcade - Arkanoid - Enemies & Bosses - DOH_20: -5865407275145817804
+      Arcade - Arkanoid - Enemies & Bosses - DOH_21: 7466872493627202720
+      Arcade - Arkanoid - Enemies & Bosses - DOH_3: 6052623729445699344
+      Arcade - Arkanoid - Enemies & Bosses - DOH_4: 7296844041453436996
+      Arcade - Arkanoid - Enemies & Bosses - DOH_5: 1873495872816958226
+      Arcade - Arkanoid - Enemies & Bosses - DOH_6: -5383301751180426748
+      Arcade - Arkanoid - Enemies & Bosses - DOH_7: 6107541171455188213
+      Arcade - Arkanoid - Enemies & Bosses - DOH_8: 5655010359256648864
+      Arcade - Arkanoid - Enemies & Bosses - DOH_9: 2371733487965640645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

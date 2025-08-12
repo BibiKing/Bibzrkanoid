@@ -1,0 +1,4342 @@
+fileFormatVersion: 2
+guid: 5aa71d65d1fd13247ab4566b4866ced8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7504350185084180197
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_0
+  - first:
+      213: 6235465892630740708
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_1
+  - first:
+      213: -7484924777988905271
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_2
+  - first:
+      213: 8694964142538491165
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_3
+  - first:
+      213: -669849486347065386
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_4
+  - first:
+      213: 9111125943116506935
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_5
+  - first:
+      213: 5210966777263943144
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_6
+  - first:
+      213: -7494564473175426675
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_7
+  - first:
+      213: 302563998145820548
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_8
+  - first:
+      213: -5334488860730010748
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_9
+  - first:
+      213: 7798881839505933468
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_10
+  - first:
+      213: 4936819622919220117
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_11
+  - first:
+      213: 6358768840650775814
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_12
+  - first:
+      213: 5199733199451464248
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_13
+  - first:
+      213: -6219721118719905538
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_14
+  - first:
+      213: 3039539508228176052
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_15
+  - first:
+      213: 115536294943686141
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_16
+  - first:
+      213: 7737138530961672797
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_17
+  - first:
+      213: 7363486714870574911
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_18
+  - first:
+      213: 1315886964551574299
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_19
+  - first:
+      213: -6273128151178919848
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_20
+  - first:
+      213: -1630495604086736097
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_21
+  - first:
+      213: -7386148819696845950
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_22
+  - first:
+      213: -4925925290361665264
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_23
+  - first:
+      213: -62457062715283247
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_24
+  - first:
+      213: 6000831934218429725
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_25
+  - first:
+      213: -5948680405134415347
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_26
+  - first:
+      213: 3746008979876020219
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_27
+  - first:
+      213: -8269639447494351285
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_28
+  - first:
+      213: 5415336767476036475
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_29
+  - first:
+      213: -577097654732116452
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_30
+  - first:
+      213: 4907378413918510993
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_31
+  - first:
+      213: -7505247066044049529
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_32
+  - first:
+      213: 4158465502607432270
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_33
+  - first:
+      213: -1806003113222456946
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_34
+  - first:
+      213: 6427768989409936441
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_35
+  - first:
+      213: -3220174186780353193
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_36
+  - first:
+      213: -9009439599020716989
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_37
+  - first:
+      213: -6060289151691012668
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_38
+  - first:
+      213: 5673882333647517790
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_39
+  - first:
+      213: 4818076457028703177
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_40
+  - first:
+      213: 4781286475204686546
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_41
+  - first:
+      213: -7910602522631871844
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_42
+  - first:
+      213: -1588394701912856178
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_43
+  - first:
+      213: 884143259377465488
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_44
+  - first:
+      213: -1408324047971637726
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_45
+  - first:
+      213: -6523264571996913115
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_46
+  - first:
+      213: -2196454626333490441
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_47
+  - first:
+      213: 2803031169207356173
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_48
+  - first:
+      213: 5350632867303825182
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_49
+  - first:
+      213: -342267718784217758
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_50
+  - first:
+      213: -7980770978122339529
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_51
+  - first:
+      213: -8563625812106194567
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_52
+  - first:
+      213: 2017726781244156933
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_53
+  - first:
+      213: -8382459696714494212
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_54
+  - first:
+      213: 271924239792723443
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_55
+  - first:
+      213: 1220144323722947936
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_56
+  - first:
+      213: -6817704105045197277
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_57
+  - first:
+      213: 5886332529041604853
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_58
+  - first:
+      213: 6219509302715534090
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_59
+  - first:
+      213: 7934038452760993070
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_60
+  - first:
+      213: -3433266172822448961
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_61
+  - first:
+      213: -6316298530254601070
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_62
+  - first:
+      213: -4316666014231355226
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_63
+  - first:
+      213: -6713909148662623358
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_64
+  - first:
+      213: -3481921061295690421
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_65
+  - first:
+      213: 263055966506722125
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_66
+  - first:
+      213: -2784810294779437129
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_67
+  - first:
+      213: -3683949176097823069
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_68
+  - first:
+      213: -9178961906957461627
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_69
+  - first:
+      213: -2010779194254261214
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_70
+  - first:
+      213: 8231902700810127123
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_71
+  - first:
+      213: 1375951766503611547
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_72
+  - first:
+      213: -5422894486742357279
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_73
+  - first:
+      213: 1337946318083086565
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_74
+  - first:
+      213: -5034532180066401837
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_75
+  - first:
+      213: -9022137875743421969
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_76
+  - first:
+      213: 5566361883508513743
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_77
+  - first:
+      213: -1650272045636604651
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_78
+  - first:
+      213: 2715315693515717025
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_79
+  - first:
+      213: -7319127947637866199
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_80
+  - first:
+      213: 1482070181630633208
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_81
+  - first:
+      213: 8046847539738625618
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_82
+  - first:
+      213: -2212929879027886870
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_83
+  - first:
+      213: -1960892877493311995
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_84
+  - first:
+      213: 4204265248966076012
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_85
+  - first:
+      213: 6029147305947552448
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_86
+  - first:
+      213: 7696268221605352843
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_87
+  - first:
+      213: 5502965082781664140
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_88
+  - first:
+      213: -513934813057184586
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_89
+  - first:
+      213: 3298344411933886584
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_90
+  - first:
+      213: -7583094840636974409
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_91
+  - first:
+      213: 2493633248497374316
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_92
+  - first:
+      213: 5219806963309608222
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_93
+  - first:
+      213: 3158856810427316096
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_94
+  - first:
+      213: 6788800075519478885
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_95
+  - first:
+      213: -3334853737069903508
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_96
+  - first:
+      213: -3485954386047675011
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_97
+  - first:
+      213: -7257166365641473609
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_98
+  - first:
+      213: -6119759183247726639
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_99
+  - first:
+      213: -3547404160944772255
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_100
+  - first:
+      213: 8025029755256091994
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_101
+  - first:
+      213: -7267455730017518382
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_102
+  - first:
+      213: -4958929691600535633
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_103
+  - first:
+      213: 809230603867787803
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_104
+  - first:
+      213: 9166254177944508981
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_105
+  - first:
+      213: -8694109061803535675
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_106
+  - first:
+      213: -2998600619129834627
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_107
+  - first:
+      213: 5630569058252248951
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_108
+  - first:
+      213: -2715203617334087896
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_109
+  - first:
+      213: 5867222923974747644
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_110
+  - first:
+      213: -2184572257162689604
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_111
+  - first:
+      213: 6563275950799439896
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_112
+  - first:
+      213: 2092224556381428087
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_113
+  - first:
+      213: 4914512794776457649
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_114
+  - first:
+      213: 6259300748070086084
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_115
+  - first:
+      213: 6512901364662139295
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_116
+  - first:
+      213: 6448283689881975956
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_117
+  - first:
+      213: -504268042037982568
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_118
+  - first:
+      213: -6894979253004500727
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_119
+  - first:
+      213: 8971463663641810730
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_120
+  - first:
+      213: -999587148285525960
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_121
+  - first:
+      213: 7377533802467589902
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_122
+  - first:
+      213: 3635477813752606520
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_123
+  - first:
+      213: -9125821238725035339
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_124
+  - first:
+      213: -2711484729340265681
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_125
+  - first:
+      213: -7562989483441004512
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_126
+  - first:
+      213: 6573661336304958401
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_127
+  - first:
+      213: -556098130894033620
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_128
+  - first:
+      213: 4831220671603485579
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_129
+  - first:
+      213: 3591470463162614725
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_130
+  - first:
+      213: 8596882584129306601
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_131
+  - first:
+      213: 5729820365475226452
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_132
+  - first:
+      213: -4282584968172625963
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_133
+  - first:
+      213: 8256474588744963356
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_134
+  - first:
+      213: -1814922741186422956
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_135
+  - first:
+      213: -8224573825918818359
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_136
+  - first:
+      213: -3540557207929923151
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_137
+  - first:
+      213: 8370225522163559053
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_138
+  - first:
+      213: 8787832554376505650
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_139
+  - first:
+      213: -4209877883801849235
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_140
+  - first:
+      213: 8988667428465818127
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_141
+  - first:
+      213: 4421504351031040278
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_142
+  - first:
+      213: -5940322571174525585
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_143
+  - first:
+      213: 3702326275980112997
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_144
+  - first:
+      213: 1444468271186242456
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_145
+  - first:
+      213: 6245039775170541283
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_146
+  - first:
+      213: -2625486574351879728
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_147
+  - first:
+      213: 782775544121669323
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_148
+  - first:
+      213: -2323885607469640829
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_149
+  - first:
+      213: -6664215508326313873
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_150
+  - first:
+      213: -4038461016033135707
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_151
+  - first:
+      213: 2156204859213008995
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_152
+  - first:
+      213: -8324375287751480896
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_153
+  - first:
+      213: 5719853505507879732
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_154
+  - first:
+      213: 3064949756928828909
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_155
+  - first:
+      213: 1763573049611834769
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_156
+  - first:
+      213: -5748343578955178010
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_157
+  - first:
+      213: 8803019576060225387
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_158
+  - first:
+      213: -7953075453585167089
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_159
+  - first:
+      213: 5190869306445446049
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_160
+  - first:
+      213: 4422305429554301158
+    second: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_161
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 699
+        width: 871
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6541ccbbec42860800000000000000
+      internalID: 7504350185084180197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 963
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eeb1534133d88650800000000000000
+      internalID: 6235465892630740708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 705
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6a37d3294302890800000000000000
+      internalID: -7484924777988905271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 705
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1504cad1d7baa870800000000000000
+      internalID: 8694964142538491165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 705
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d72e41f07734b6f0800000000000000
+      internalID: -669849486347065386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 705
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7372e4fb5c8317e70800000000000000
+      internalID: 9111125943116506935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 579
+        width: 705
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eded2fcca2115840800000000000000
+      internalID: 5210966777263943144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 705
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89bd1ec155fdf790800000000000000
+      internalID: -7494564473175426675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 531
+        width: 705
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487bd4f6a5ce23400800000000000000
+      internalID: 302563998145820548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 705
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483d8edf4a618f5b0800000000000000
+      internalID: -5334488860730010748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 705
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c940ff876b13b3c60800000000000000
+      internalID: 7798881839505933468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 353
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b27486a4b138440800000000000000
+      internalID: 4936819622919220117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 441
+        width: 172
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ddfc30292ee3850800000000000000
+      internalID: 6358768840650775814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 398
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8322c18abc9292840800000000000000
+      internalID: 5199733199451464248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 398
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef074b4989c1fa9a0800000000000000
+      internalID: -6219721118719905538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 398
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8b4bc141d9e2a20800000000000000
+      internalID: 3039539508228176052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 398
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd78cae5a77a9100800000000000000
+      internalID: 115536294943686141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 398
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a45f33086df5b60800000000000000
+      internalID: 7737138530961672797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 398
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f2b2c572c503660800000000000000
+      internalID: 7363486714870574911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 398
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13e9aee838f24210800000000000000
+      internalID: 1315886964551574299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 398
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8504a76de2f51f8a0800000000000000
+      internalID: -6273128151178919848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 399
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bf29603e05f59e0800000000000000
+      internalID: -1630495604086736097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 400
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b7ccf28c02f7990800000000000000
+      internalID: -7386148819696845950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 401
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01941ed0c0993abb0800000000000000
+      internalID: -4925925290361665264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 399
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d82423e1ab122ff0800000000000000
+      internalID: -62457062715283247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 397
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15e8e3b9dc374350800000000000000
+      internalID: 6000831934218429725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 397
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ae2a160ba027da0800000000000000
+      internalID: -5948680405134415347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 397
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfffeeae15f7cf330800000000000000
+      internalID: 3746008979876020219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 354
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46aa87acb65c3d80800000000000000
+      internalID: -8269639447494351285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 354
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73758c2914272b40800000000000000
+      internalID: 5415336767476036475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 354
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e2bf89dbcbdf7f0800000000000000
+      internalID: -577097654732116452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 354
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f5804caa28a1440800000000000000
+      internalID: 4907378413918510993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 354
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787d6e4de8108d790800000000000000
+      internalID: -7505247066044049529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 358
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ad1a59756d5b930800000000000000
+      internalID: 4158465502607432270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 360
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e893025bcb9cfe6e0800000000000000
+      internalID: -1806003113222456946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 359
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9340d0017d5043950800000000000000
+      internalID: 6427768989409936441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 360
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d131a63a4af43d0800000000000000
+      internalID: -3220174186780353193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 358
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c48033b6a08f280800000000000000
+      internalID: -9009439599020716989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 353
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5cd45102785eba0800000000000000
+      internalID: -6060289151691012668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 353
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58bc62cbedadbe40800000000000000
+      internalID: 5673882333647517790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 355
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c35ed9a20f3dd240800000000000000
+      internalID: 4818076457028703177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 357
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d274f387ba8a5240800000000000000
+      internalID: 4781286475204686546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 355
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92e737fae4e73290800000000000000
+      internalID: -7910602522631871844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 310
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e892f5d2f63e4f9e0800000000000000
+      internalID: -1588394701912856178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 310
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098ffb92c9b154c00800000000000000
+      internalID: 884143259377465488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 310
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226a2007db0a47ce0800000000000000
+      internalID: -1408324047971637726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 310
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522cb3afe65b875a0800000000000000
+      internalID: -6523264571996913115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 310
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f201289720a481e0800000000000000
+      internalID: -2196454626333490441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 312
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bc3fe4ffd56e620800000000000000
+      internalID: 2803031169207356173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 310
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f9c237e34414a40800000000000000
+      internalID: 5350632867303825182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 311
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d88cbb255004bf0800000000000000
+      internalID: -342267718784217758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 310
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b654f441b9e3190800000000000000
+      internalID: -7980770978122339529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 311
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9715b0822b3e72980800000000000000
+      internalID: -8563625812106194567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 309
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ca9d131d7600c10800000000000000
+      internalID: 2017726781244156933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 309
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfecd4961558bab80800000000000000
+      internalID: -8382459696714494212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 309
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5d9a6c7a116c300800000000000000
+      internalID: 271924239792723443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 309
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d273e3cc2dee010800000000000000
+      internalID: 1220144323722947936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 309
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32efe0bfc36a261a0800000000000000
+      internalID: -6817704105045197277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 266
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f00a5f7f3470b150800000000000000
+      internalID: 5886332529041604853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 266
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bc89922c2205650800000000000000
+      internalID: 6219509302715534090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 266
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ddb1bbfed5b1e60800000000000000
+      internalID: 7934038452760993070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 266
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb49d852b969a50d0800000000000000
+      internalID: -3433266172822448961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 266
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2944ad0b3fff758a0800000000000000
+      internalID: -6316298530254601070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 269
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a02db7712f1814c0800000000000000
+      internalID: -4316666014231355226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 270
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28318bb733763d2a0800000000000000
+      internalID: -6713909148662623358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 270
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4de4852e3bbdafc0800000000000000
+      internalID: -3481921061295690421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 272
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d432eaff10096a300800000000000000
+      internalID: 263055966506722125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 270
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf12dc9acd5a59d0800000000000000
+      internalID: -2784810294779437129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 266
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6a8142ebbffdcc0800000000000000
+      internalID: -3683949176097823069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 268
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58755f027c6cd9080800000000000000
+      internalID: -9178961906957461627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 268
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2248ab4f9f64814e0800000000000000
+      internalID: -2010779194254261214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 266
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317cd5354e79d3270800000000000000
+      internalID: 8231902700810127123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 265
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cd48e67dc581310800000000000000
+      internalID: 1375951766503611547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 222
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea2c4f22320eb4b0800000000000000
+      internalID: -5422894486742357279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 222
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e852e96617519210800000000000000
+      internalID: 1337946318083086565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 222
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d18ed408afb12ab0800000000000000
+      internalID: -5034532180066401837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 222
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe947b1476deac280800000000000000
+      internalID: -9022137875743421969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 222
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb9cc524a0bf3d40800000000000000
+      internalID: 5566361883508513743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 226
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51da219615e0919e0800000000000000
+      internalID: -1650272045636604651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 225
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a93c05ac3dbea520800000000000000
+      internalID: 2715315693515717025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 223
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9214967f8eb3d6a90800000000000000
+      internalID: -7319127947637866199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 222
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4ea445afe519410800000000000000
+      internalID: 1482070181630633208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 222
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256c8df04352caf60800000000000000
+      internalID: 8046847539738625618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 219
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4d1b7eff71a41e0800000000000000
+      internalID: -2212929879027886870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 220
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506ea62315289c4e0800000000000000
+      internalID: -1960892877493311995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 221
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66642208fc885a30800000000000000
+      internalID: 4204265248966076012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 221
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cad18de785dba350800000000000000
+      internalID: 6029147305947552448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 223
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b851ae4cb23aeca60800000000000000
+      internalID: 7696268221605352843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 186
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83449a36957e5c40800000000000000
+      internalID: 5502965082781664140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 183
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc050ea2032ed8f0800000000000000
+      internalID: -513934813057184586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 179
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878c63c64c216cd20800000000000000
+      internalID: 3298344411933886584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 176
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba5cbd5b6f63c690800000000000000
+      internalID: -7583094840636974409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 175
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c641ac84a3a2b9220800000000000000
+      internalID: 2493633248497374316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 178
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dfd2407ca707840800000000000000
+      internalID: 5219806963309608222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 176
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087f7d1688386db20800000000000000
+      internalID: 3158856810427316096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 178
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ccb7833b9a63e50800000000000000
+      internalID: 6788800075519478885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 180
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c618018e13838b1d0800000000000000
+      internalID: -3334853737069903508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 179
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75d96c84f66f9fc0800000000000000
+      internalID: -3485954386047675011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 179
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1070cf3ad594b90800000000000000
+      internalID: -7257166365641473609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 179
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7a59b527f321ba0800000000000000
+      internalID: -6119759183247726639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 178
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16be428e5b615cec0800000000000000
+      internalID: -3547404160944772255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 178
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55baf14b02ae5f60800000000000000
+      internalID: 8025029755256091994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 177
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcbd67a48fc42b90800000000000000
+      internalID: -7267455730017518382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf330218b75e2bb0800000000000000
+      internalID: -4958929691600535633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 131
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b121aec52f6fa3b00800000000000000
+      internalID: 809230603867787803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 136
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a92552c93153f70800000000000000
+      internalID: 9166254177944508981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 140
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c212b42fd1585780800000000000000
+      internalID: -8694109061803535675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 145
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73ff79cf94d266d0800000000000000
+      internalID: -2998600619129834627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 131
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7775e68f9bcc32e40800000000000000
+      internalID: 5630569058252248951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 135
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f22ff12b8a15ad0800000000000000
+      internalID: -2715203617334087896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 134
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf52b89d9209c6150800000000000000
+      internalID: 5867222923974747644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 134
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305a14b17dea1e0800000000000000
+      internalID: -2184572257162689604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 133
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818c34a14b0751b50800000000000000
+      internalID: 6563275950799439896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 132
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779d6712623190d10800000000000000
+      internalID: 2092224556381428087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 133
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b153c0495bd33440800000000000000
+      internalID: 4914512794776457649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 131
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5ed0ffdd08dd650800000000000000
+      internalID: 6259300748070086084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 131
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99f7d9c849726a50800000000000000
+      internalID: 6512901364662139295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 87
+        width: 38
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c3c5af9d7ec7950800000000000000
+      internalID: 6448283689881975956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a8eb233ea7009f0800000000000000
+      internalID: -504268042037982568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 98
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9018afa86ec1050a0800000000000000
+      internalID: -6894979253004500727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27d1b25baa018c70800000000000000
+      internalID: 8971463663641810730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 93
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8304560e8c0c022f0800000000000000
+      internalID: -999587148285525960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 94
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f748ec7e3426660800000000000000
+      internalID: 7377533802467589902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 91
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fa98d5fcfc37230800000000000000
+      internalID: 3635477813752606520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 90
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba341e1fe19a5180800000000000000
+      internalID: -9125821238725035339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 88
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bf6c5310fde5ad0800000000000000
+      internalID: -2711484729340265681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 92
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020eb7f922dda0790800000000000000
+      internalID: -7562989483441004512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 91
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb3d2818265a3b50800000000000000
+      internalID: 6573661336304958401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 87
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d6dcf32b75848f0800000000000000
+      internalID: -556098130894033620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 87
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b237a9a91fb0340800000000000000
+      internalID: 4831220671603485579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 87
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c38d1a9b5777d130800000000000000
+      internalID: 3591470463162614725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_131
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 87
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eff4ca79234e4770800000000000000
+      internalID: 8596882584129306601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_132
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 50
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45323f6b349648f40800000000000000
+      internalID: 5729820365475226452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_133
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 51
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df94ab59a33194c0800000000000000
+      internalID: -4282584968172625963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_134
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 53
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15de2fc4e3e49270800000000000000
+      internalID: 8256474588744963356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_135
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 53
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4571eccf16910d6e0800000000000000
+      internalID: -1814922741186422956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_136
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 48
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c722255ea17cdd80800000000000000
+      internalID: -8224573825918818359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_137
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 47
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b953626af96ddec0800000000000000
+      internalID: -3540557207929923151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_138
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 51
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8aa77ad3c3092470800000000000000
+      internalID: 8370225522163559053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_139
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 51
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239a935f527a4f970800000000000000
+      internalID: 8787832554376505650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_140
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62b73c9e528395c0800000000000000
+      internalID: -4209877883801849235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_141
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a34d5f6692ebc70800000000000000
+      internalID: 8988667428465818127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_142
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 43
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6199c08f7c65c5d30800000000000000
+      internalID: 4421504351031040278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_143
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 43
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6548ed381cbf8da0800000000000000
+      internalID: -5940322571174525585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_144
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 43
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564b36ad12e416330800000000000000
+      internalID: 3702326275980112997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_145
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 44
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89be0615d38cb0410800000000000000
+      internalID: 1444468271186242456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_146
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 44
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6b93f7696daa650800000000000000
+      internalID: 6245039775170541283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_147
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1f23dfed5609bd0800000000000000
+      internalID: -2625486574351879728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_148
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc63c36c53afcda00800000000000000
+      internalID: 782775544121669323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383112c3a56efbfd0800000000000000
+      internalID: -2323885607469640829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_150
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f609f8fbd43f383a0800000000000000
+      internalID: -6664215508326313873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_151
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 6
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3f4144a1184f7c0800000000000000
+      internalID: -4038461016033135707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_152
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 7
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360dc5835e06ced10800000000000000
+      internalID: 2156204859213008995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_153
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 7
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9688cb7c0e97c80800000000000000
+      internalID: -8324375287751480896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_154
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43be11b4570016f40800000000000000
+      internalID: 5719853505507879732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_155
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5a92ca093e88a20800000000000000
+      internalID: 3064949756928828909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_156
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195d0954858797810800000000000000
+      internalID: 1763573049611834769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_157
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef9a7198f7c930b0800000000000000
+      internalID: -5748343578955178010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_158
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6721edf9ab9a2a70800000000000000
+      internalID: 8803019576060225387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_159
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d6d2d130001a190800000000000000
+      internalID: -7953075453585167089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_160
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abb82eb12ca90840800000000000000
+      internalID: 5190869306445446049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_161
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 3
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e88dd89b5f2f5d30800000000000000
+      internalID: 4422305429554301158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_0: 7504350185084180197
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_1: 6235465892630740708
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_10: 7798881839505933468
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_100: -3547404160944772255
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_101: 8025029755256091994
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_102: -7267455730017518382
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_103: -4958929691600535633
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_104: 809230603867787803
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_105: 9166254177944508981
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_106: -8694109061803535675
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_107: -2998600619129834627
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_108: 5630569058252248951
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_109: -2715203617334087896
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_11: 4936819622919220117
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_110: 5867222923974747644
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_111: -2184572257162689604
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_112: 6563275950799439896
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_113: 2092224556381428087
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_114: 4914512794776457649
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_115: 6259300748070086084
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_116: 6512901364662139295
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_117: 6448283689881975956
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_118: -504268042037982568
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_119: -6894979253004500727
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_12: 6358768840650775814
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_120: 8971463663641810730
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_121: -999587148285525960
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_122: 7377533802467589902
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_123: 3635477813752606520
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_124: -9125821238725035339
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_125: -2711484729340265681
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_126: -7562989483441004512
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_127: 6573661336304958401
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_128: -556098130894033620
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_129: 4831220671603485579
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_13: 5199733199451464248
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_130: 3591470463162614725
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_131: 8596882584129306601
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_132: 5729820365475226452
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_133: -4282584968172625963
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_134: 8256474588744963356
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_135: -1814922741186422956
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_136: -8224573825918818359
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_137: -3540557207929923151
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_138: 8370225522163559053
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_139: 8787832554376505650
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_14: -6219721118719905538
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_140: -4209877883801849235
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_141: 8988667428465818127
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_142: 4421504351031040278
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_143: -5940322571174525585
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_144: 3702326275980112997
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_145: 1444468271186242456
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_146: 6245039775170541283
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_147: -2625486574351879728
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_148: 782775544121669323
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_149: -2323885607469640829
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_15: 3039539508228176052
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_150: -6664215508326313873
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_151: -4038461016033135707
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_152: 2156204859213008995
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_153: -8324375287751480896
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_154: 5719853505507879732
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_155: 3064949756928828909
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_156: 1763573049611834769
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_157: -5748343578955178010
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_158: 8803019576060225387
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_159: -7953075453585167089
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_16: 115536294943686141
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_160: 5190869306445446049
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_161: 4422305429554301158
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_17: 7737138530961672797
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_18: 7363486714870574911
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_19: 1315886964551574299
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_2: -7484924777988905271
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_20: -6273128151178919848
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_21: -1630495604086736097
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_22: -7386148819696845950
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_23: -4925925290361665264
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_24: -62457062715283247
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_25: 6000831934218429725
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_26: -5948680405134415347
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_27: 3746008979876020219
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_28: -8269639447494351285
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_29: 5415336767476036475
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_3: 8694964142538491165
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_30: -577097654732116452
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_31: 4907378413918510993
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_32: -7505247066044049529
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_33: 4158465502607432270
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_34: -1806003113222456946
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_35: 6427768989409936441
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_36: -3220174186780353193
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_37: -9009439599020716989
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_38: -6060289151691012668
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_39: 5673882333647517790
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_4: -669849486347065386
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_40: 4818076457028703177
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_41: 4781286475204686546
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_42: -7910602522631871844
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_43: -1588394701912856178
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_44: 884143259377465488
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_45: -1408324047971637726
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_46: -6523264571996913115
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_47: -2196454626333490441
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_48: 2803031169207356173
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_49: 5350632867303825182
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_5: 9111125943116506935
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_50: -342267718784217758
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_51: -7980770978122339529
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_52: -8563625812106194567
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_53: 2017726781244156933
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_54: -8382459696714494212
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_55: 271924239792723443
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_56: 1220144323722947936
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_57: -6817704105045197277
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_58: 5886332529041604853
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_59: 6219509302715534090
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_6: 5210966777263943144
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_60: 7934038452760993070
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_61: -3433266172822448961
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_62: -6316298530254601070
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_63: -4316666014231355226
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_64: -6713909148662623358
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_65: -3481921061295690421
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_66: 263055966506722125
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_67: -2784810294779437129
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_68: -3683949176097823069
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_69: -9178961906957461627
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_7: -7494564473175426675
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_70: -2010779194254261214
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_71: 8231902700810127123
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_72: 1375951766503611547
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_73: -5422894486742357279
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_74: 1337946318083086565
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_75: -5034532180066401837
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_76: -9022137875743421969
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_77: 5566361883508513743
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_78: -1650272045636604651
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_79: 2715315693515717025
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_8: 302563998145820548
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_80: -7319127947637866199
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_81: 1482070181630633208
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_82: 8046847539738625618
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_83: -2212929879027886870
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_84: -1960892877493311995
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_85: 4204265248966076012
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_86: 6029147305947552448
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_87: 7696268221605352843
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_88: 5502965082781664140
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_89: -513934813057184586
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_9: -5334488860730010748
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_90: 3298344411933886584
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_91: -7583094840636974409
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_92: 2493633248497374316
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_93: 5219806963309608222
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_94: 3158856810427316096
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_95: 6788800075519478885
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_96: -3334853737069903508
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_97: -3485954386047675011
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_98: -7257166365641473609
+      Mobile - Arkanoid (iOS) - Miscellaneous - General Sprites_99: -6119759183247726639
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

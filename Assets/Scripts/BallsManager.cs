@@ -36,6 +36,7 @@ public class BallsManager : MonoBehaviour
     public float initialBallSpeed = 250;
     
     public List<Ball> balls {  get; private set; }
+    public int maxBallsSpawned;
 
     private void Start()
     {
@@ -99,4 +100,25 @@ public class BallsManager : MonoBehaviour
         InitBall();
     }
 
+    public void SpawnBalls(Vector3 position, int count, bool isLightningBall)
+    {
+        for (int i = 0; i < count; i++)
+        {
+            if (this.balls.Count >= maxBallsSpawned)
+            {
+                return;
+            }
+            Ball spawnedBall = Instantiate(ballPrefab, position, Quaternion.identity) as Ball;
+            if (isLightningBall)
+            {
+                spawnedBall.StartLightningBall();
+            }
+
+            Rigidbody2D spawnedBallRigidBody = spawnedBall.GetComponent<Rigidbody2D>();
+            spawnedBallRigidBody.bodyType = RigidbodyType2D.Dynamic;
+            spawnedBallRigidBody.AddForce(new Vector2(0, initialBallSpeed));
+            this.balls.Add(spawnedBall);
+            
+        }
+    }
 }

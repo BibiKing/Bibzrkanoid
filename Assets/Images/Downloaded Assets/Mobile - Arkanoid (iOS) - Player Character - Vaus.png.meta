@@ -1,0 +1,6292 @@
+fileFormatVersion: 2
+guid: 097b44b31bd6545418c0ed31a1d34f99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6448128267531994873
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_0
+  - first:
+      213: 6795837202474424047
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_1
+  - first:
+      213: 8627469665910696123
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_2
+  - first:
+      213: 6569222552760698453
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_3
+  - first:
+      213: -8608100699326240501
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_4
+  - first:
+      213: -3135955175248325156
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_5
+  - first:
+      213: 8158919011654492084
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_6
+  - first:
+      213: -7749855865589052348
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_7
+  - first:
+      213: -8593043009231490610
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_8
+  - first:
+      213: -8000628438472121710
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_9
+  - first:
+      213: 6966048578400677928
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_10
+  - first:
+      213: 2669374833161240301
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_11
+  - first:
+      213: 4440773900387916469
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_12
+  - first:
+      213: -5900044504696833172
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_13
+  - first:
+      213: 2985485261315976783
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_14
+  - first:
+      213: 1649370697257787064
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_15
+  - first:
+      213: 2952950110906386331
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_16
+  - first:
+      213: 864948280956720778
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_17
+  - first:
+      213: 305994529982583054
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_18
+  - first:
+      213: -2934598509557501758
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_19
+  - first:
+      213: 1631925260868293639
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_20
+  - first:
+      213: -289578799080487539
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_21
+  - first:
+      213: -8811523420348699025
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_22
+  - first:
+      213: -3748597112550197545
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_23
+  - first:
+      213: 1293309042355258409
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_24
+  - first:
+      213: 2213491605831070108
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_25
+  - first:
+      213: 7539643723873280253
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_26
+  - first:
+      213: 1924759318338001378
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_27
+  - first:
+      213: 1473380308230743001
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_28
+  - first:
+      213: -1088141045412836477
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_29
+  - first:
+      213: -8233105055017658530
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_30
+  - first:
+      213: 4926909664614821953
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_31
+  - first:
+      213: -3712165276304687784
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_32
+  - first:
+      213: 2409188607580797056
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_33
+  - first:
+      213: -2546829350894520540
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_34
+  - first:
+      213: 8543357637470233594
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_35
+  - first:
+      213: -4957282807872895666
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_36
+  - first:
+      213: -1355632738835988478
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_37
+  - first:
+      213: -2074041424245326085
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_38
+  - first:
+      213: -4176819908192797389
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_39
+  - first:
+      213: -8677251886236331193
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_40
+  - first:
+      213: -3280940190428764202
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_41
+  - first:
+      213: -7437068292515103212
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_42
+  - first:
+      213: 4508419487139273067
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_43
+  - first:
+      213: 6432137156264487419
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_44
+  - first:
+      213: 7019343383373730628
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_45
+  - first:
+      213: -12046230067274859
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_46
+  - first:
+      213: 5081703608136736273
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_47
+  - first:
+      213: -8262983387129114763
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_48
+  - first:
+      213: -5283270135198689050
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_49
+  - first:
+      213: -5561077897654997406
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_50
+  - first:
+      213: -2292737057263645798
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_51
+  - first:
+      213: 9077101226362022403
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_52
+  - first:
+      213: -1783930227065548364
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_53
+  - first:
+      213: 4063984761584357766
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_54
+  - first:
+      213: 4966603980461655759
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_55
+  - first:
+      213: 1551142683033662675
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_56
+  - first:
+      213: 823251679784886243
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_57
+  - first:
+      213: -1496101808571735986
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_58
+  - first:
+      213: -5126658181045225559
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_59
+  - first:
+      213: 5523519631443962878
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_60
+  - first:
+      213: -941453022736837670
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_61
+  - first:
+      213: 314188329645907162
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_62
+  - first:
+      213: 1309769203853534235
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_63
+  - first:
+      213: -3821998089456152080
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_64
+  - first:
+      213: -5295215119004088849
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_65
+  - first:
+      213: -4117075158430249566
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_66
+  - first:
+      213: -6100506052148865703
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_67
+  - first:
+      213: 7051261267542288257
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_68
+  - first:
+      213: 3072860220865595248
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_69
+  - first:
+      213: -2912821916983025570
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_70
+  - first:
+      213: -5375271184732596673
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_71
+  - first:
+      213: 3227543418075016013
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_72
+  - first:
+      213: -8876212631785935251
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_73
+  - first:
+      213: -8271109244314123736
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_74
+  - first:
+      213: 3199727827542961658
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_75
+  - first:
+      213: -2128015441612506285
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_76
+  - first:
+      213: -8995376577846815020
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_77
+  - first:
+      213: -3268499838005110323
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_78
+  - first:
+      213: -8694672081965814876
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_79
+  - first:
+      213: -9095642568887553247
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_80
+  - first:
+      213: 7553411417672440010
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_81
+  - first:
+      213: 8279553612521082376
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_82
+  - first:
+      213: 3342586919123692048
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_83
+  - first:
+      213: 4210031785375381055
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_84
+  - first:
+      213: 3365147190703559096
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_85
+  - first:
+      213: -8203044995525513622
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_86
+  - first:
+      213: -3710930310607458380
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_87
+  - first:
+      213: 2062367303336224583
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_88
+  - first:
+      213: 6490310666521316432
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_89
+  - first:
+      213: -4215595317191823800
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_90
+  - first:
+      213: 2247163375668458574
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_91
+  - first:
+      213: -6786372092573933924
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_92
+  - first:
+      213: -8990116211575268743
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_93
+  - first:
+      213: -8297316856579417572
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_94
+  - first:
+      213: -7973140013328758769
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_95
+  - first:
+      213: 5161574026273246353
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_96
+  - first:
+      213: 9110329991817249091
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_97
+  - first:
+      213: 8660488519334764379
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_98
+  - first:
+      213: -7042331604193013734
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_99
+  - first:
+      213: 2907091527370955067
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_100
+  - first:
+      213: 636863308930365641
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_101
+  - first:
+      213: 3166777526715939481
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_102
+  - first:
+      213: 2962834740057354591
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_103
+  - first:
+      213: 798000626719072175
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_104
+  - first:
+      213: 2562820476822744118
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_105
+  - first:
+      213: 7606026429817081875
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_106
+  - first:
+      213: 6000631167113733281
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_107
+  - first:
+      213: 3398182800126567684
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_108
+  - first:
+      213: 4606870890839910472
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_109
+  - first:
+      213: 8246279233648719795
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_110
+  - first:
+      213: 7057983325587790220
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_111
+  - first:
+      213: -1688310598885044172
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_112
+  - first:
+      213: -3231228949491553298
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_113
+  - first:
+      213: 4809919522656205488
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_114
+  - first:
+      213: 6835809261714664702
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_115
+  - first:
+      213: 2284261639803731822
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_116
+  - first:
+      213: -6145065090869060655
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_117
+  - first:
+      213: -7608596126319302379
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_118
+  - first:
+      213: -228387047923484102
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_119
+  - first:
+      213: 2888099130373770359
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_120
+  - first:
+      213: -4912389123636173431
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_121
+  - first:
+      213: -2493943714044963862
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_122
+  - first:
+      213: -1055500613791828210
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_123
+  - first:
+      213: -6788132159051372533
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_124
+  - first:
+      213: -6436656329255833960
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_125
+  - first:
+      213: -9102128539631504533
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_126
+  - first:
+      213: -4441327069623239019
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_127
+  - first:
+      213: -7902146354824967826
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_128
+  - first:
+      213: 2287006059947847157
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_129
+  - first:
+      213: 8781267282172706300
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_130
+  - first:
+      213: -7199431457879859772
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_131
+  - first:
+      213: 2276050106648663318
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_132
+  - first:
+      213: -4222032169875079423
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_133
+  - first:
+      213: 2505727394211611560
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_134
+  - first:
+      213: 7761093735033634072
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_135
+  - first:
+      213: 7275327124954297622
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_136
+  - first:
+      213: -4951667481804326753
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_137
+  - first:
+      213: -9039438139608822398
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_138
+  - first:
+      213: -3108001202981733714
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_139
+  - first:
+      213: -3414536336093583763
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_140
+  - first:
+      213: -3598621579775245069
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_141
+  - first:
+      213: -800758722998447911
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_142
+  - first:
+      213: 1129421387946590198
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_143
+  - first:
+      213: -2526923750855483292
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_144
+  - first:
+      213: -4509142952058174874
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_145
+  - first:
+      213: -8702607026005671098
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_146
+  - first:
+      213: 5637242724782563770
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_147
+  - first:
+      213: -702841317355853853
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_148
+  - first:
+      213: -6516574818775273406
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_149
+  - first:
+      213: -4454012818990798581
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_150
+  - first:
+      213: -2938275183846374774
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_151
+  - first:
+      213: -6248919967832730823
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_152
+  - first:
+      213: -2091840076107781454
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_153
+  - first:
+      213: 761388888982758464
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_154
+  - first:
+      213: -2271926171393695197
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_155
+  - first:
+      213: 3231470860798596729
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_156
+  - first:
+      213: -2274881392788251927
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_157
+  - first:
+      213: 6119784606269434455
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_158
+  - first:
+      213: -7837665031294547878
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_159
+  - first:
+      213: -3976004168703856165
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_160
+  - first:
+      213: 4161080883095748143
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_161
+  - first:
+      213: -1321257286630188414
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_162
+  - first:
+      213: -2941231097422955168
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_163
+  - first:
+      213: -3244875162242279714
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_164
+  - first:
+      213: 8321785031137103425
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_165
+  - first:
+      213: 8829521190563676189
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_166
+  - first:
+      213: 8552542357665190126
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_167
+  - first:
+      213: 4690706757892487586
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_168
+  - first:
+      213: 2142801746535796000
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_169
+  - first:
+      213: 5747744368896601935
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_170
+  - first:
+      213: 6946313030016629458
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_171
+  - first:
+      213: 5255591704389650722
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_172
+  - first:
+      213: -2316535308812599981
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_173
+  - first:
+      213: 7469059133519826573
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_174
+  - first:
+      213: -553124145735389829
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_175
+  - first:
+      213: 4820715047672761913
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_176
+  - first:
+      213: -2049747758650783400
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_177
+  - first:
+      213: -8063496963163494387
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_178
+  - first:
+      213: -41209244834986465
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_179
+  - first:
+      213: 7691048169920006476
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_180
+  - first:
+      213: 364577710785323894
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_181
+  - first:
+      213: 7026925218873825246
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_182
+  - first:
+      213: -8399236945848375683
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_183
+  - first:
+      213: -1786296475885443231
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_184
+  - first:
+      213: 5841212387309495861
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_185
+  - first:
+      213: 8870032725447899705
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_186
+  - first:
+      213: -4787637606328208748
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_187
+  - first:
+      213: -6258417581286374126
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_188
+  - first:
+      213: -7135563722863782146
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_189
+  - first:
+      213: -1484414630812154961
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_190
+  - first:
+      213: 162384484967077735
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_191
+  - first:
+      213: 8454358165500463619
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_192
+  - first:
+      213: -639145584575018744
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_193
+  - first:
+      213: -6622417348193548244
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_194
+  - first:
+      213: -1567522434376543333
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_195
+  - first:
+      213: -5815126224789557527
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_196
+  - first:
+      213: 6274240435478669547
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_197
+  - first:
+      213: -3773977125702358199
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_198
+  - first:
+      213: 7462758040827252467
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_199
+  - first:
+      213: -7237816444363638519
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_200
+  - first:
+      213: 4590734802807568600
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_201
+  - first:
+      213: 7702622443340004710
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_202
+  - first:
+      213: 7570663312650615035
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_203
+  - first:
+      213: -3981106873346189877
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_204
+  - first:
+      213: -8589466777797623093
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_205
+  - first:
+      213: -8681607079447165573
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_206
+  - first:
+      213: -8248367126272932461
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_207
+  - first:
+      213: 859301951197523713
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_208
+  - first:
+      213: -2819650333779994661
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_209
+  - first:
+      213: -6494749718196522751
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_210
+  - first:
+      213: -6775138636397588852
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_211
+  - first:
+      213: 4235673468039142050
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_212
+  - first:
+      213: 3183488100900805975
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_213
+  - first:
+      213: -6855145512791328843
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_214
+  - first:
+      213: -5473333541531658472
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_215
+  - first:
+      213: -5590754282994825276
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_216
+  - first:
+      213: -1632016347110400953
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_217
+  - first:
+      213: -2430102187702194299
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_218
+  - first:
+      213: -2263319960527296402
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_219
+  - first:
+      213: -3325213553048427096
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_220
+  - first:
+      213: 3798316436184228876
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_221
+  - first:
+      213: -1782928646268216394
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_222
+  - first:
+      213: 4984603642089922765
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_223
+  - first:
+      213: -9220972320343036549
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_224
+  - first:
+      213: 7816624292039407299
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_225
+  - first:
+      213: 5600324703674246630
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_226
+  - first:
+      213: 7232991907814798975
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_227
+  - first:
+      213: 8596604660339503751
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_228
+  - first:
+      213: -4825433196796583606
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_229
+  - first:
+      213: -4466937238965321519
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_230
+  - first:
+      213: 4914471622724496510
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_231
+  - first:
+      213: 2688866275427085766
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_232
+  - first:
+      213: 4282240174183851665
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_233
+  - first:
+      213: 5356742952579096007
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_234
+  - first:
+      213: -6517586120860690807
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_235
+  - first:
+      213: 667048650705497556
+    second: Mobile - Arkanoid (iOS) - Player Character - Vaus_236
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 946
+        height: 1322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709b99b1185a386a0800000000000000
+      internalID: -6448128267531994873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe65fd40ee9af4e50800000000000000
+      internalID: 6795837202474424047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 227
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8a01b63fdeab770800000000000000
+      internalID: 8627469665910696123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 205
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55649c34b119a2b50800000000000000
+      internalID: 6569222552760698453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 183
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b092ed98502e98880800000000000000
+      internalID: -8608100699326240501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 176
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd596c31269da74d0800000000000000
+      internalID: -3135955175248325156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfd8d00d9d4a3170800000000000000
+      internalID: 8158919011654492084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 221
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c4617962bf27490800000000000000
+      internalID: -7749855865589052348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec17a1739e06fb880800000000000000
+      internalID: -8593043009231490610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 204
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2922bf803de08f090800000000000000
+      internalID: -8000628438472121710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 190
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820ffab36406ca060800000000000000
+      internalID: 6966048578400677928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 178
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee71fe84468b0520800000000000000
+      internalID: 2669374833161240301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 221
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba927c855cc0ad30800000000000000
+      internalID: 4440773900387916469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 207
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bbc8268c4de1ea0800000000000000
+      internalID: -5900044504696833172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 185
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e27e207039e6920800000000000000
+      internalID: 2985485261315976783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 273
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be1df019edb3e610800000000000000
+      internalID: 1649370697257787064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 251
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9786000b7cfaf820800000000000000
+      internalID: 2952950110906386331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 200
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86928bf0e9e00c00800000000000000
+      internalID: 864948280956720778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0113de576c1f3400800000000000000
+      internalID: 305994529982583054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 276
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c03f6724363647d0800000000000000
+      internalID: -2934598509557501758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 253
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7049a02e063c5a610800000000000000
+      internalID: 1631925260868293639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 231
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85c252dd953bfbf0800000000000000
+      internalID: -289578799080487539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 209
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ea418722e27b580800000000000000
+      internalID: -8811523420348699025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 187
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6f36c79ce4afbc0800000000000000
+      internalID: -3748597112550197545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 176
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924c266c8b1c2f110800000000000000
+      internalID: 1293309042355258409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 245
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91bede43e6e7be10800000000000000
+      internalID: 2213491605831070108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_26
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 223
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df06876250232a860800000000000000
+      internalID: 7539643723873280253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 201
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9d8a7f66e16ba10800000000000000
+      internalID: 1924759318338001378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 231
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d32623859f727410800000000000000
+      internalID: 1473380308230743001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 209
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b45a20c7526e0f0800000000000000
+      internalID: -1088141045412836477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_30
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 187
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e571335c2922ebd80800000000000000
+      internalID: -8233105055017658530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 220
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1403ecf6c36ef5440800000000000000
+      internalID: 4926909664614821953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 198
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85db15e595dbb7cc0800000000000000
+      internalID: -3712165276304687784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 267
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08875cf26482f6120800000000000000
+      internalID: 2409188607580797056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 245
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427b464f238d7acd0800000000000000
+      internalID: -2546829350894520540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_35
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 251
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3a882b18a109670800000000000000
+      internalID: 8543357637470233594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 229
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45c5911d81343bb0800000000000000
+      internalID: -4957282807872895666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 207
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2008acbd433df2de0800000000000000
+      internalID: -1355632738835988478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 185
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe796a30568733e0800000000000000
+      internalID: -2074041424245326085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_39
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 177
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d73695c64f806c0800000000000000
+      internalID: -4176819908192797389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 221
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7439b4e2265349780800000000000000
+      internalID: -8677251886236331193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 199
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7e03ca742c772d0800000000000000
+      internalID: -3280940190428764202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 212
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ef05e8ac93ac890800000000000000
+      internalID: -7437068292515103212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 189
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69926d03af119e30800000000000000
+      internalID: 4508419487139273067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 183
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf96cb92aaa834950800000000000000
+      internalID: 6432137156264487419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_45
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 200
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443da7afd97b96160800000000000000
+      internalID: 7019343383373730628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 178
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b15ff740435dff0800000000000000
+      internalID: -12046230067274859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_47
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 204
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e9fc0f186d58640800000000000000
+      internalID: 5081703608136736273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 182
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f0739736cf35d80800000000000000
+      internalID: -8262983387129114763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_49
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 227
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e85d03ddcd0ea6b0800000000000000
+      internalID: -5283270135198689050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_50
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 205
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e6ffdad1513d2b0800000000000000
+      internalID: -5561077897654997406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_51
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 183
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b0d6a3bcf8e20e0800000000000000
+      internalID: -2292737057263645798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_52
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 176
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a229b097758fd70800000000000000
+      internalID: 9077101226362022403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 221
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b11daff8e43e37e0800000000000000
+      internalID: -1783930227065548364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68116d6db9c266830800000000000000
+      internalID: 4063984761584357766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_55
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 190
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6457b810cece440800000000000000
+      internalID: 4966603980461655759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 204
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4fa2a4d04c68510800000000000000
+      internalID: 1551142683033662675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_57
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 182
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef525e7a07cc6b00800000000000000
+      internalID: 823251679784886243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_58
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 229
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e402340f457cc3be0800000000000000
+      internalID: -1496101808571735986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 207
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7f2f9eb837ad8b0800000000000000
+      internalID: -5126658181045225559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_60
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 185
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb2d1607db77ac40800000000000000
+      internalID: 5523519631443962878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_61
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 178
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad39d0fb6794fe2f0800000000000000
+      internalID: -941453022736837670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 273
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc1e150f983c5400800000000000000
+      internalID: 314188329645907162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 251
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14af65c62c3d2210800000000000000
+      internalID: 1309769203853534235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_64
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 200
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f19eb9ccf885fac0800000000000000
+      internalID: -3821998089456152080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_65
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5cb7e87ed9386b0800000000000000
+      internalID: -5295215119004088849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_66
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 276
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad0e24e4f53dd6c0800000000000000
+      internalID: -4117075158430249566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_67
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 253
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955db834116a65ba0800000000000000
+      internalID: -6100506052148865703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_68
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 231
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187245e73cc1bd160800000000000000
+      internalID: 7051261267542288257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_69
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 209
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0774f15171ef4aa20800000000000000
+      internalID: 3072860220865595248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_70
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 187
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50214836e39397d0800000000000000
+      internalID: -2912821916983025570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_71
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 176
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36de9e36533765b0800000000000000
+      internalID: -5375271184732596673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_72
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 245
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4be28373a98acc20800000000000000
+      internalID: 3227543418075016013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_73
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e609bb3ab51d480800000000000000
+      internalID: -8876212631785935251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_74
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 201
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822053ae6fd173d80800000000000000
+      internalID: -8271109244314123736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_75
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 231
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd61aa9187b76c20800000000000000
+      internalID: 3199727827542961658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_76
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 209
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bf3260b35c772e0800000000000000
+      internalID: -2128015441612506285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_77
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 187
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6529879a00a2380800000000000000
+      internalID: -8995376577846815020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_78
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 220
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9984fe6b4f3a2d0800000000000000
+      internalID: -3268499838005110323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_79
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 198
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abebebcec1565780800000000000000
+      internalID: -8694672081965814876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_80
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 267
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123398d3649c5c180800000000000000
+      internalID: -9095642568887553247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_81
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 245
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8deb82aab13d860800000000000000
+      internalID: 7553411417672440010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 251
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e0f15c422e6e270800000000000000
+      internalID: 8279553612521082376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_83
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 229
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a2c39d711436e20800000000000000
+      internalID: 3342586919123692048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_84
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 207
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3637646a990d6a30800000000000000
+      internalID: 4210031785375381055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_85
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 185
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b11ac66a8763be20800000000000000
+      internalID: 3365147190703559096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_86
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 177
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ee725c90ee82e80800000000000000
+      internalID: -8203044995525513622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_87
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 212
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf230a3b80208cc0800000000000000
+      internalID: -3710930310607458380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_88
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 189
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7476cbfa2200f9c10800000000000000
+      internalID: 2062367303336224583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_89
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 221
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c8eeff927321a50800000000000000
+      internalID: 6490310666521316432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_90
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 199
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e2bf9e4623f75c0800000000000000
+      internalID: -4215595317191823800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_91
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 266
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e447cf62f278f2f10800000000000000
+      internalID: 2247163375668458574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_92
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 244
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e918c9986f1d1a0800000000000000
+      internalID: -6786372092573933924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_93
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 228
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a539fefe0bc3380800000000000000
+      internalID: -8990116211575268743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_94
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 206
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a19bea7420adc80800000000000000
+      internalID: -8297316856579417572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 205
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f080611c667b95190800000000000000
+      internalID: -7973140013328758769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_96
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 198
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c46edca3891a740800000000000000
+      internalID: 5161574026273246353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_97
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 259
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341cad4ebd46e6e70800000000000000
+      internalID: 9110329991817249091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_98
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 234
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f1c405c6c303870800000000000000
+      internalID: 8660488519334764379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_99
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 182
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a109195c7bc944e90800000000000000
+      internalID: -7042331604193013734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_100
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 308
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b395e7a7750185820800000000000000
+      internalID: 2907091527370955067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_101
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 291
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c836432ec796d800800000000000000
+      internalID: 636863308930365641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_102
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 198
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99af79ad167a2fb20800000000000000
+      internalID: 3166777526715939481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_103
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 251
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f513e419f7a1e1920800000000000000
+      internalID: 2962834740057354591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_104
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 218
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf112e8751131b00800000000000000
+      internalID: 798000626719072175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_105
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 265
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ced1035a7f09320800000000000000
+      internalID: 2562820476822744118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_106
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 305
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310da7d4db80e8960800000000000000
+      internalID: 7606026429817081875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_107
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 180
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4a3f7f046864350800000000000000
+      internalID: 6000631167113733281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_108
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 235
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405e26b9045c82f20800000000000000
+      internalID: 3398182800126567684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_109
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 249
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848a99ebaa4eeef30800000000000000
+      internalID: 4606870890839910472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_110
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 225
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7ff48b54ba07270800000000000000
+      internalID: 8246279233648719795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_111
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 268
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c895a48907ef2f160800000000000000
+      internalID: 7057983325587790220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_112
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 315
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4301ee2947ae198e0800000000000000
+      internalID: -1688310598885044172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_113
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 292
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebe895e36e5823d0800000000000000
+      internalID: -3231228949491553298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_114
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 237
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bab322625440c240800000000000000
+      internalID: 4809919522656205488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_115
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 177
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efce3dc4e4cadde50800000000000000
+      internalID: 6835809261714664702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_116
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 253
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f7d8edbd353bf10800000000000000
+      internalID: 2284261639803731822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_117
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 237
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db98199bd758baa0800000000000000
+      internalID: -6145065090869060655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_118
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 220
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519235b9226d86690800000000000000
+      internalID: -7608596126319302379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_119
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 178
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a7831a03b94dcf0800000000000000
+      internalID: -228387047923484102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_120
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 240
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c0b067bd6941820800000000000000
+      internalID: 2888099130373770359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_121
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 264
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9856c277e10b3dbb0800000000000000
+      internalID: -4912389123636173431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_122
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 252
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae31882d76bb36dd0800000000000000
+      internalID: -2493943714044963862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_123
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e073bb6b8cb1a51f0800000000000000
+      internalID: -1055500613791828210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_124
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08665334c5bbc1a0800000000000000
+      internalID: -6788132159051372533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_125
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 218
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89eaf61eb276ca6a0800000000000000
+      internalID: -6436656329255833960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_126
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 194
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63b15f715ebea180800000000000000
+      internalID: -9102128539631504533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_127
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 198
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59eb7c3bf8c3d52c0800000000000000
+      internalID: -4441327069623239019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_128
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 259
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e698285f1cfe55290800000000000000
+      internalID: -7902146354824967826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_129
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 299
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd6b5af4e31dbf10800000000000000
+      internalID: 2287006059947847157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_130
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 240
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdf9a761145dd970800000000000000
+      internalID: 8781267282172706300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_131
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 181
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd5c48bb3b761c90800000000000000
+      internalID: -7199431457879859772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_132
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 198
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61598c15387269f10800000000000000
+      internalID: 2276050106648663318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_133
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 218
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ff25c5c145865c0800000000000000
+      internalID: -4222032169875079423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_134
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 251
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3c2f30ac126c220800000000000000
+      internalID: 2505727394211611560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_135
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 265
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d7039c1a1f4bb60800000000000000
+      internalID: 7761093735033634072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_136
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 313
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6153aab497727f460800000000000000
+      internalID: 7275327124954297622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_137
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 180
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98333d09a4284bb0800000000000000
+      internalID: -4951667481804326753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_138
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 300
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d8f7fa7e67d8280800000000000000
+      internalID: -9039438139608822398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_139
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 292
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa79ce6f592ed4d0800000000000000
+      internalID: -3108001202981733714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_140
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 236
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d666a761b412d90d0800000000000000
+      internalID: -3414536336093583763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_141
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 250
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f401705db02f0ec0800000000000000
+      internalID: -3598621579775245069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_142
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 225
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0d1ec1f2223e4f0800000000000000
+      internalID: -800758722998447911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_143
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 268
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fff846b4c28caf00800000000000000
+      internalID: 1129421387946590198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_144
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 314
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460e2cf9c309eecd0800000000000000
+      internalID: -2526923750855483292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_145
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 178
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662cd15206e4c61c0800000000000000
+      internalID: -4509142952058174874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_146
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 236
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6430d1ba4012a3780800000000000000
+      internalID: -8702607026005671098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_147
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 291
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1e15b04628b3e40800000000000000
+      internalID: 5637242724782563770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_148
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 259
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e76981bb810f36f0800000000000000
+      internalID: -702841317355853853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_149
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 225
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240f4a68ab97095a0800000000000000
+      internalID: -6516574818775273406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_150
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 295
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09640380fa2032c0800000000000000
+      internalID: -4454012818990798581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_151
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 238
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82cd76b9462937d0800000000000000
+      internalID: -2938275183846374774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_152
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 218
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9331c7fb5606749a0800000000000000
+      internalID: -6248919967832730823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_153
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 292
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba6ba8a88a48f2e0800000000000000
+      internalID: -2091840076107781454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_154
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 238
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0442fb7192ff09a00800000000000000
+      internalID: 761388888982758464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_155
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 263
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3226a2e2f2f7870e0800000000000000
+      internalID: -2271926171393695197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_156
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 250
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9761de770ad78dc20800000000000000
+      internalID: 3231470860798596729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_157
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 178
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ead5b41d6ffd60e0800000000000000
+      internalID: -2274881392788251927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_158
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 220
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ae796eca7dde450800000000000000
+      internalID: 6119784606269434455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_159
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 315
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5800350e250b3390800000000000000
+      internalID: -7837665031294547878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_160
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 271
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd13fea364562d8c0800000000000000
+      internalID: -3976004168703856165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_161
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 292
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e379e44012fb930800000000000000
+      internalID: 4161080883095748143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_162
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 178
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ad2858f73f9ade0800000000000000
+      internalID: -1321257286630188414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_163
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 236
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06db5c376e5ae27d0800000000000000
+      internalID: -2941231097422955168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_164
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 315
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed69f066b33e7f2d0800000000000000
+      internalID: -3244875162242279714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_165
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 268
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e0716256bec7370800000000000000
+      internalID: 8321785031137103425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_166
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 177
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d100554fdb2c88a70800000000000000
+      internalID: 8829521190563676189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_167
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 252
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee09d1306fbb0b670800000000000000
+      internalID: 8552542357665190126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_168
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 293
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9b4b1a1fcb81140800000000000000
+      internalID: 4690706757892487586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_169
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 264
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d4a5ed5d2ccbd10800000000000000
+      internalID: 2142801746535796000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_170
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 314
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f65d7fc0714cf40800000000000000
+      internalID: 5747744368896601935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_171
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 239
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dafeccc5e2466060800000000000000
+      internalID: 6946313030016629458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_172
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 220
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22982a05fcc9fe840800000000000000
+      internalID: 5255591704389650722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_173
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 178
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d339009630adfd0800000000000000
+      internalID: -2316535308812599981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_174
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 291
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e06db85bd67a760800000000000000
+      internalID: 7469059133519826573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_175
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 239
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d20c02588e258f0800000000000000
+      internalID: -553124145735389829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_176
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 305
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e4aeb6bce96e240800000000000000
+      internalID: 4820715047672761913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_177
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 265
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85987760645dd83e0800000000000000
+      internalID: -2049747758650783400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_178
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 253
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08e237fb34b81090800000000000000
+      internalID: -8063496963163494387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_179
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16062009689d6ff0800000000000000
+      internalID: -41209244834986465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_180
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c490086cf871cba60800000000000000
+      internalID: 7691048169920006476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_181
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 218
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67362601f7d3f0500800000000000000
+      internalID: 364577710785323894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_182
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 194
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7553e9147a48160800000000000000
+      internalID: 7026925218873825246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_183
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 198
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76ee52bf7aef6b80800000000000000
+      internalID: -8399236945848375683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_184
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 259
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167e053c1dcc537e0800000000000000
+      internalID: -1786296475885443231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_185
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 234
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536a13bd7b7201150800000000000000
+      internalID: 5841212387309495861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_186
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 182
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a7962b4cfa81b70800000000000000
+      internalID: 8870032725447899705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_187
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 235
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492718986f4ee8db0800000000000000
+      internalID: -4787637606328208748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_188
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 291
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215cd5b4e52a529a0800000000000000
+      internalID: -6258417581286374126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_189
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 198
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef65a82999269fc90800000000000000
+      internalID: -7135563722863782146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_190
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 218
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa38c0f02cc466be0800000000000000
+      internalID: -1484414630812154961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_191
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 184
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7675f7724d7e04200800000000000000
+      internalID: 162384484967077735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_192
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 180
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a049a55f9e35570800000000000000
+      internalID: 8454358165500463619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_193
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 222
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80985a72a7c4127f0800000000000000
+      internalID: -639145584575018744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_194
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 177
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c280a8642827814a0800000000000000
+      internalID: -6622417348193548244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_195
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 133
+        width: 470
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93d789a6aa0f3ae0800000000000000
+      internalID: -1567522434376543333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_196
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 220
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee2c5722858c4fa0800000000000000
+      internalID: -5815126224789557527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_197
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 200
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be829180f64921750800000000000000
+      internalID: 6274240435478669547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_198
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 191
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94baf00bcc320abc0800000000000000
+      internalID: -3773977125702358199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_199
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 218
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fec23416ea019760800000000000000
+      internalID: 7462758040827252467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_200
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 194
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909793c9a4c1e8b90800000000000000
+      internalID: -7237816444363638519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_201
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 198
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d83e5bfaf095bf30800000000000000
+      internalID: 4590734802807568600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_202
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 259
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d7b3e4d4635ea60800000000000000
+      internalID: 7702622443340004710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_203
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 299
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf83f98fb26601960800000000000000
+      internalID: 7570663312650615035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_204
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 240
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc59559346440c8c0800000000000000
+      internalID: -3981106873346189877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_205
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 181
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc28a5b79751cc880800000000000000
+      internalID: -8589466777797623093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_206
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 251
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75090ebb5cb48780800000000000000
+      internalID: -8681607079447165573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_207
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 218
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3950e75ecc9e78d80800000000000000
+      internalID: -8248367126272932461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_208
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 265
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fade3629adceb00800000000000000
+      internalID: 859301951197523713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_209
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 291
+        width: 126
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd75b38e5f69ed8d0800000000000000
+      internalID: -2819650333779994661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_210
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 307
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101f3ddba830ed5a0800000000000000
+      internalID: -6494749718196522751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_211
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 180
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e4f717e4fd9f1a0800000000000000
+      internalID: -6775138636397588852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_212
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 236
+        width: 102
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa150fd39228ca30800000000000000
+      internalID: 4235673468039142050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_213
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 225
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d10e89f850e2c20800000000000000
+      internalID: 3183488100900805975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_214
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 225
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7b57ae971add0a0800000000000000
+      internalID: -6855145512791328843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_215
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 197
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81756c79420da04b0800000000000000
+      internalID: -5473333541531658472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_216
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 215
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c78997c996a962b0800000000000000
+      internalID: -5590754282994825276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_217
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 191
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c9ad277c9e959e0800000000000000
+      internalID: -1632016347110400953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_218
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 201
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f6c1e7fea864ed0800000000000000
+      internalID: -2430102187702194299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_219
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 178
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6828bbcc721790e0800000000000000
+      internalID: -2263319960527296402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_220
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 177
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5eb3824e77ad1d0800000000000000
+      internalID: -3325213553048427096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_221
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 220
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04e943aca456b430800000000000000
+      internalID: 3798316436184228876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_222
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 239
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb9053b7d3c147e0800000000000000
+      internalID: -1782928646268216394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_223
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 253
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc063e85a9edc2540800000000000000
+      internalID: 4984603642089922765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_224
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 265
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d6e3a8786880080800000000000000
+      internalID: -9220972320343036549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_225
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6b2bd116a3a7c60800000000000000
+      internalID: 7816624292039407299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_226
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 218
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5295d65a958bd40800000000000000
+      internalID: 5600324703674246630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_227
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 194
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76739071dfb06460800000000000000
+      internalID: 7232991907814798975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_228
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 113
+        width: 103
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782f00e44664d4770800000000000000
+      internalID: 8596604660339503751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_229
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 113
+        width: 143
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41ef81e21e980db0800000000000000
+      internalID: -4825433196796583606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_230
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 113
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0028d7f304202c0800000000000000
+      internalID: -4466937238965321519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_231
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 94
+        width: 78
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c2b3327e5b33440800000000000000
+      internalID: 4914471622724496510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_232
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 94
+        width: 113
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdeb5b91a5c05520800000000000000
+      internalID: 2688866275427085766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_233
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 94
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196a22900c29d6b30800000000000000
+      internalID: 4282240174183851665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_234
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 74
+        width: 63
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cddd898559f65a40800000000000000
+      internalID: 5356742952579096007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_235
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 74
+        width: 91
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986151964f1ec85a0800000000000000
+      internalID: -6517586120860690807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid (iOS) - Player Character - Vaus_236
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 74
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd6431b635d14900800000000000000
+      internalID: 667048650705497556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_0: -6448128267531994873
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_1: 6795837202474424047
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_10: 6966048578400677928
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_100: 2907091527370955067
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_101: 636863308930365641
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_102: 3166777526715939481
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_103: 2962834740057354591
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_104: 798000626719072175
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_105: 2562820476822744118
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_106: 7606026429817081875
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_107: 6000631167113733281
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_108: 3398182800126567684
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_109: 4606870890839910472
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_11: 2669374833161240301
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_110: 8246279233648719795
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_111: 7057983325587790220
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_112: -1688310598885044172
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_113: -3231228949491553298
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_114: 4809919522656205488
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_115: 6835809261714664702
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_116: 2284261639803731822
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_117: -6145065090869060655
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_118: -7608596126319302379
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_119: -228387047923484102
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_12: 4440773900387916469
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_120: 2888099130373770359
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_121: -4912389123636173431
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_122: -2493943714044963862
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_123: -1055500613791828210
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_124: -6788132159051372533
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_125: -6436656329255833960
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_126: -9102128539631504533
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_127: -4441327069623239019
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_128: -7902146354824967826
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_129: 2287006059947847157
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_13: -5900044504696833172
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_130: 8781267282172706300
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_131: -7199431457879859772
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_132: 2276050106648663318
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_133: -4222032169875079423
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_134: 2505727394211611560
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_135: 7761093735033634072
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_136: 7275327124954297622
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_137: -4951667481804326753
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_138: -9039438139608822398
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_139: -3108001202981733714
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_14: 2985485261315976783
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_140: -3414536336093583763
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_141: -3598621579775245069
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_142: -800758722998447911
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_143: 1129421387946590198
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_144: -2526923750855483292
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_145: -4509142952058174874
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_146: -8702607026005671098
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_147: 5637242724782563770
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_148: -702841317355853853
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_149: -6516574818775273406
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_15: 1649370697257787064
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_150: -4454012818990798581
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_151: -2938275183846374774
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_152: -6248919967832730823
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_153: -2091840076107781454
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_154: 761388888982758464
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_155: -2271926171393695197
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_156: 3231470860798596729
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_157: -2274881392788251927
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_158: 6119784606269434455
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_159: -7837665031294547878
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_16: 2952950110906386331
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_160: -3976004168703856165
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_161: 4161080883095748143
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_162: -1321257286630188414
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_163: -2941231097422955168
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_164: -3244875162242279714
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_165: 8321785031137103425
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_166: 8829521190563676189
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_167: 8552542357665190126
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_168: 4690706757892487586
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_169: 2142801746535796000
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_17: 864948280956720778
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_170: 5747744368896601935
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_171: 6946313030016629458
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_172: 5255591704389650722
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_173: -2316535308812599981
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_174: 7469059133519826573
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_175: -553124145735389829
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_176: 4820715047672761913
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_177: -2049747758650783400
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_178: -8063496963163494387
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_179: -41209244834986465
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_18: 305994529982583054
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_180: 7691048169920006476
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_181: 364577710785323894
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_182: 7026925218873825246
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_183: -8399236945848375683
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_184: -1786296475885443231
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_185: 5841212387309495861
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_186: 8870032725447899705
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_187: -4787637606328208748
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_188: -6258417581286374126
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_189: -7135563722863782146
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_19: -2934598509557501758
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_190: -1484414630812154961
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_191: 162384484967077735
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_192: 8454358165500463619
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_193: -639145584575018744
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_194: -6622417348193548244
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_195: -1567522434376543333
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_196: -5815126224789557527
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_197: 6274240435478669547
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_198: -3773977125702358199
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_199: 7462758040827252467
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_2: 8627469665910696123
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_20: 1631925260868293639
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_200: -7237816444363638519
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_201: 4590734802807568600
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_202: 7702622443340004710
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_203: 7570663312650615035
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_204: -3981106873346189877
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_205: -8589466777797623093
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_206: -8681607079447165573
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_207: -8248367126272932461
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_208: 859301951197523713
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_209: -2819650333779994661
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_21: -289578799080487539
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_210: -6494749718196522751
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_211: -6775138636397588852
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_212: 4235673468039142050
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_213: 3183488100900805975
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_214: -6855145512791328843
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_215: -5473333541531658472
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_216: -5590754282994825276
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_217: -1632016347110400953
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_218: -2430102187702194299
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_219: -2263319960527296402
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_22: -8811523420348699025
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_220: -3325213553048427096
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_221: 3798316436184228876
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_222: -1782928646268216394
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_223: 4984603642089922765
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_224: -9220972320343036549
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_225: 7816624292039407299
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_226: 5600324703674246630
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_227: 7232991907814798975
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_228: 8596604660339503751
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_229: -4825433196796583606
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_23: -3748597112550197545
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_230: -4466937238965321519
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_231: 4914471622724496510
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_232: 2688866275427085766
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_233: 4282240174183851665
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_234: 5356742952579096007
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_235: -6517586120860690807
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_236: 667048650705497556
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_24: 1293309042355258409
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_25: 2213491605831070108
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_26: 7539643723873280253
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_27: 1924759318338001378
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_28: 1473380308230743001
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_29: -1088141045412836477
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_3: 6569222552760698453
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_30: -8233105055017658530
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_31: 4926909664614821953
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_32: -3712165276304687784
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_33: 2409188607580797056
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_34: -2546829350894520540
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_35: 8543357637470233594
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_36: -4957282807872895666
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_37: -1355632738835988478
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_38: -2074041424245326085
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_39: -4176819908192797389
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_4: -8608100699326240501
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_40: -8677251886236331193
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_41: -3280940190428764202
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_42: -7437068292515103212
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_43: 4508419487139273067
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_44: 6432137156264487419
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_45: 7019343383373730628
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_46: -12046230067274859
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_47: 5081703608136736273
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_48: -8262983387129114763
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_49: -5283270135198689050
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_5: -3135955175248325156
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_50: -5561077897654997406
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_51: -2292737057263645798
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_52: 9077101226362022403
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_53: -1783930227065548364
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_54: 4063984761584357766
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_55: 4966603980461655759
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_56: 1551142683033662675
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_57: 823251679784886243
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_58: -1496101808571735986
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_59: -5126658181045225559
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_6: 8158919011654492084
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_60: 5523519631443962878
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_61: -941453022736837670
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_62: 314188329645907162
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_63: 1309769203853534235
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_64: -3821998089456152080
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_65: -5295215119004088849
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_66: -4117075158430249566
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_67: -6100506052148865703
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_68: 7051261267542288257
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_69: 3072860220865595248
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_7: -7749855865589052348
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_70: -2912821916983025570
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_71: -5375271184732596673
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_72: 3227543418075016013
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_73: -8876212631785935251
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_74: -8271109244314123736
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_75: 3199727827542961658
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_76: -2128015441612506285
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_77: -8995376577846815020
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_78: -3268499838005110323
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_79: -8694672081965814876
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_8: -8593043009231490610
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_80: -9095642568887553247
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_81: 7553411417672440010
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_82: 8279553612521082376
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_83: 3342586919123692048
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_84: 4210031785375381055
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_85: 3365147190703559096
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_86: -8203044995525513622
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_87: -3710930310607458380
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_88: 2062367303336224583
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_89: 6490310666521316432
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_9: -8000628438472121710
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_90: -4215595317191823800
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_91: 2247163375668458574
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_92: -6786372092573933924
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_93: -8990116211575268743
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_94: -8297316856579417572
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_95: -7973140013328758769
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_96: 5161574026273246353
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_97: 9110329991817249091
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_98: 8660488519334764379
+      Mobile - Arkanoid (iOS) - Player Character - Vaus_99: -7042331604193013734
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

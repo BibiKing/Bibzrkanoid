@@ -50,7 +50,7 @@ public class LevelGenerator : MonoBehaviour
     private List<string> specialLevels;
     private List<int> specialLevelsIndexes;
     private int nextSpecialLevel;
-    private System.Random random;
+    public System.Random random;
 
     private void Start()
     {
@@ -372,7 +372,6 @@ public class LevelGenerator : MonoBehaviour
         int numberOfSpecialLevels;
         numberOfSpecialLevels = random.Next(Math.Min(1, totalLevels-1),totalLevels/3);
 
-        Debug.Log(numberOfSpecialLevels);
 
         for (int i = 0; i < numberOfSpecialLevels; i++)
         {
@@ -392,8 +391,6 @@ public class LevelGenerator : MonoBehaviour
 
             specialLevels.Add(specialShapes.Keys.ElementAt(index));
         }
-        Debug.Log(string.Join(",", specialLevelsIndexes));
-        Debug.Log(string.Join(",", specialLevels));
 
     }
 

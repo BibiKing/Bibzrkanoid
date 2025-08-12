@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: de3ed37354b4f9f4896643b9c4118e3c
+guid: 76e3173e9c58e314f8350386851ab322
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7730486409907412771
-    second: preview_0
+      213: 9205251228253213742
+    second: SNES - Arkanoid_ Doh It Again - Enemies - Doh (First encounter)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: multiball
+      name: SNES - Arkanoid_ Doh It Again - Enemies - Doh (First encounter)_0
       rect:
         serializedVersion: 2
-        x: 396
-        y: 471
-        width: 154
-        height: 41
+        x: 0
+        y: 0
+        width: 2064
+        height: 2112
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dd0eb7c619bc7b490800000000000000
-      internalID: -7730486409907412771
+      spriteID: e24d248783f9fbf70800000000000000
+      internalID: 9205251228253213742
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b00f7a2d3174b284ab04f86fa7e6bbf7
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      multiball: -7730486409907412771
+      SNES - Arkanoid_ Doh It Again - Enemies - Doh (First encounter)_0: 9205251228253213742
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

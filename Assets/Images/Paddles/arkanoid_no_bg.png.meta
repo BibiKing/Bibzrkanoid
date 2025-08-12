@@ -1,0 +1,5018 @@
+fileFormatVersion: 2
+guid: ab559f3791bf79d4c8e8274d98dcfb24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 255898533510686467
+    second: arkanoid_no_bg_0
+  - first:
+      213: -1179082981820788844
+    second: arkanoid_no_bg_1
+  - first:
+      213: -993862081933162989
+    second: arkanoid_no_bg_2
+  - first:
+      213: 2195039820678443206
+    second: arkanoid_no_bg_3
+  - first:
+      213: -2240635052741691418
+    second: arkanoid_no_bg_4
+  - first:
+      213: -3141294789830733603
+    second: arkanoid_no_bg_5
+  - first:
+      213: 3675620242012389932
+    second: arkanoid_no_bg_6
+  - first:
+      213: 6174106935896642577
+    second: arkanoid_no_bg_7
+  - first:
+      213: 2523884558807781344
+    second: arkanoid_no_bg_8
+  - first:
+      213: 2868829751642207383
+    second: arkanoid_no_bg_9
+  - first:
+      213: -4871229876396412425
+    second: arkanoid_no_bg_10
+  - first:
+      213: -2436085980700069447
+    second: arkanoid_no_bg_11
+  - first:
+      213: 8662448748094348058
+    second: arkanoid_no_bg_12
+  - first:
+      213: -5809997488523534829
+    second: arkanoid_no_bg_13
+  - first:
+      213: -286132205206758708
+    second: arkanoid_no_bg_14
+  - first:
+      213: 4959584447928994694
+    second: arkanoid_no_bg_15
+  - first:
+      213: -3364837064800556934
+    second: arkanoid_no_bg_16
+  - first:
+      213: -2500045279649861981
+    second: arkanoid_no_bg_17
+  - first:
+      213: -7189649715492672627
+    second: arkanoid_no_bg_18
+  - first:
+      213: 7208634617302433977
+    second: arkanoid_no_bg_19
+  - first:
+      213: -1678790661830687468
+    second: arkanoid_no_bg_20
+  - first:
+      213: -6241855014395758729
+    second: arkanoid_no_bg_21
+  - first:
+      213: -2575286480674380931
+    second: arkanoid_no_bg_22
+  - first:
+      213: -3510013720988660521
+    second: arkanoid_no_bg_23
+  - first:
+      213: 6893799879726517822
+    second: arkanoid_no_bg_24
+  - first:
+      213: 8809564576268854339
+    second: arkanoid_no_bg_25
+  - first:
+      213: -1633001623379739258
+    second: arkanoid_no_bg_26
+  - first:
+      213: -7365163741177435209
+    second: arkanoid_no_bg_27
+  - first:
+      213: -4921600197778728960
+    second: arkanoid_no_bg_28
+  - first:
+      213: 6195380091117609901
+    second: arkanoid_no_bg_29
+  - first:
+      213: 1708459289931033307
+    second: arkanoid_no_bg_30
+  - first:
+      213: 4415930168562510424
+    second: arkanoid_no_bg_31
+  - first:
+      213: 6797735546953963311
+    second: arkanoid_no_bg_32
+  - first:
+      213: 5671521763381844625
+    second: arkanoid_no_bg_33
+  - first:
+      213: 607858818023370729
+    second: arkanoid_no_bg_34
+  - first:
+      213: -5772913268787331693
+    second: arkanoid_no_bg_35
+  - first:
+      213: 4933990909468070488
+    second: arkanoid_no_bg_36
+  - first:
+      213: 8534144230348121930
+    second: arkanoid_no_bg_37
+  - first:
+      213: -4295138656756446813
+    second: arkanoid_no_bg_38
+  - first:
+      213: -5950486950102960442
+    second: arkanoid_no_bg_39
+  - first:
+      213: -8005400787223825147
+    second: arkanoid_no_bg_40
+  - first:
+      213: -8219716353258791848
+    second: arkanoid_no_bg_41
+  - first:
+      213: 8220725179202539817
+    second: arkanoid_no_bg_42
+  - first:
+      213: -8000382790679188673
+    second: arkanoid_no_bg_43
+  - first:
+      213: 1246261539239119004
+    second: arkanoid_no_bg_44
+  - first:
+      213: 5345004940361098899
+    second: arkanoid_no_bg_45
+  - first:
+      213: -6891106252580826553
+    second: arkanoid_no_bg_46
+  - first:
+      213: -313861326982312010
+    second: arkanoid_no_bg_47
+  - first:
+      213: 3731421108803993087
+    second: arkanoid_no_bg_48
+  - first:
+      213: -4223288640234367459
+    second: arkanoid_no_bg_49
+  - first:
+      213: 7527053128988525678
+    second: arkanoid_no_bg_50
+  - first:
+      213: -6432592964599404788
+    second: arkanoid_no_bg_51
+  - first:
+      213: 5900048737067506071
+    second: arkanoid_no_bg_52
+  - first:
+      213: 6148151224224507996
+    second: arkanoid_no_bg_53
+  - first:
+      213: 3477264447662379546
+    second: arkanoid_no_bg_54
+  - first:
+      213: -1911345602484179389
+    second: arkanoid_no_bg_55
+  - first:
+      213: -5528705994236285334
+    second: arkanoid_no_bg_56
+  - first:
+      213: -2453962214064854444
+    second: arkanoid_no_bg_57
+  - first:
+      213: 69018968026169530
+    second: arkanoid_no_bg_58
+  - first:
+      213: 6854450930798264254
+    second: arkanoid_no_bg_59
+  - first:
+      213: 5859629462995014212
+    second: arkanoid_no_bg_60
+  - first:
+      213: -4804596329187751471
+    second: arkanoid_no_bg_61
+  - first:
+      213: -5210929952500531430
+    second: arkanoid_no_bg_62
+  - first:
+      213: -4470709758103759585
+    second: arkanoid_no_bg_63
+  - first:
+      213: -6786615400974078339
+    second: arkanoid_no_bg_64
+  - first:
+      213: 16506896840373558
+    second: arkanoid_no_bg_65
+  - first:
+      213: 8119351648315882579
+    second: arkanoid_no_bg_66
+  - first:
+      213: -2016651374398856943
+    second: arkanoid_no_bg_67
+  - first:
+      213: -2624041324037279360
+    second: arkanoid_no_bg_68
+  - first:
+      213: 720644575191315501
+    second: arkanoid_no_bg_69
+  - first:
+      213: 7817130816392217357
+    second: arkanoid_no_bg_70
+  - first:
+      213: -3270434964997459918
+    second: arkanoid_no_bg_71
+  - first:
+      213: -5039595022196797322
+    second: arkanoid_no_bg_72
+  - first:
+      213: -5506986679485610622
+    second: arkanoid_no_bg_73
+  - first:
+      213: 3770991400081560414
+    second: arkanoid_no_bg_74
+  - first:
+      213: 4417662193394553177
+    second: arkanoid_no_bg_75
+  - first:
+      213: -1424570438361520356
+    second: arkanoid_no_bg_76
+  - first:
+      213: 4971684541029240129
+    second: arkanoid_no_bg_77
+  - first:
+      213: 3039629308690114782
+    second: arkanoid_no_bg_78
+  - first:
+      213: 6817224257432537558
+    second: arkanoid_no_bg_79
+  - first:
+      213: 8150322862488463725
+    second: arkanoid_no_bg_80
+  - first:
+      213: -4547168269051109381
+    second: arkanoid_no_bg_81
+  - first:
+      213: -3451983210609082321
+    second: arkanoid_no_bg_82
+  - first:
+      213: 1647972038037838032
+    second: arkanoid_no_bg_83
+  - first:
+      213: -6693207352642738140
+    second: arkanoid_no_bg_84
+  - first:
+      213: 8430423692831792099
+    second: arkanoid_no_bg_85
+  - first:
+      213: 4994176802136934867
+    second: arkanoid_no_bg_86
+  - first:
+      213: -7374306647514117684
+    second: arkanoid_no_bg_87
+  - first:
+      213: 8391203751357117667
+    second: arkanoid_no_bg_88
+  - first:
+      213: -8428375653918162326
+    second: arkanoid_no_bg_89
+  - first:
+      213: 1125596231855634745
+    second: arkanoid_no_bg_90
+  - first:
+      213: 1530001342603911935
+    second: arkanoid_no_bg_91
+  - first:
+      213: -8700120311680655407
+    second: arkanoid_no_bg_92
+  - first:
+      213: 8564310750465836000
+    second: arkanoid_no_bg_93
+  - first:
+      213: -1862999496407644765
+    second: arkanoid_no_bg_94
+  - first:
+      213: 1829558222135656139
+    second: arkanoid_no_bg_95
+  - first:
+      213: -1753410288971743024
+    second: arkanoid_no_bg_96
+  - first:
+      213: 2751774689177346726
+    second: arkanoid_no_bg_97
+  - first:
+      213: 5407437198245460361
+    second: arkanoid_no_bg_98
+  - first:
+      213: 621120339509034955
+    second: arkanoid_no_bg_99
+  - first:
+      213: -6054316475439823315
+    second: arkanoid_no_bg_100
+  - first:
+      213: 7116621781725004565
+    second: arkanoid_no_bg_101
+  - first:
+      213: -556708937853895744
+    second: arkanoid_no_bg_102
+  - first:
+      213: -5945729744687087548
+    second: arkanoid_no_bg_103
+  - first:
+      213: 3198384698322305944
+    second: arkanoid_no_bg_104
+  - first:
+      213: -8447475616825916795
+    second: arkanoid_no_bg_105
+  - first:
+      213: 3276029589466094187
+    second: arkanoid_no_bg_106
+  - first:
+      213: 1800153542821374478
+    second: arkanoid_no_bg_107
+  - first:
+      213: 5179094561923974455
+    second: arkanoid_no_bg_108
+  - first:
+      213: 3225236161668423248
+    second: arkanoid_no_bg_109
+  - first:
+      213: 877324334128810834
+    second: arkanoid_no_bg_110
+  - first:
+      213: -8611278034616133805
+    second: arkanoid_no_bg_111
+  - first:
+      213: 6506827667534565519
+    second: arkanoid_no_bg_112
+  - first:
+      213: -4129972790831191891
+    second: arkanoid_no_bg_113
+  - first:
+      213: 6765101850602100969
+    second: arkanoid_no_bg_114
+  - first:
+      213: -1693214242579708555
+    second: arkanoid_no_bg_115
+  - first:
+      213: -7224880666918917055
+    second: arkanoid_no_bg_116
+  - first:
+      213: 9066296456173863100
+    second: arkanoid_no_bg_117
+  - first:
+      213: 404829547731051099
+    second: arkanoid_no_bg_118
+  - first:
+      213: -6879314211923680308
+    second: arkanoid_no_bg_119
+  - first:
+      213: 2904566459431629879
+    second: arkanoid_no_bg_120
+  - first:
+      213: 4262682147940074053
+    second: arkanoid_no_bg_121
+  - first:
+      213: -2036327752014709222
+    second: arkanoid_no_bg_122
+  - first:
+      213: -3162123675456740075
+    second: arkanoid_no_bg_123
+  - first:
+      213: 5205052203573173902
+    second: arkanoid_no_bg_124
+  - first:
+      213: 2405210589847445264
+    second: arkanoid_no_bg_125
+  - first:
+      213: 6709363413745096355
+    second: arkanoid_no_bg_126
+  - first:
+      213: 7263061183142049242
+    second: arkanoid_no_bg_127
+  - first:
+      213: 9095445960458296486
+    second: arkanoid_no_bg_128
+  - first:
+      213: -1962250466988767009
+    second: arkanoid_no_bg_129
+  - first:
+      213: -8277520999113283368
+    second: arkanoid_no_bg_130
+  - first:
+      213: -8630194458313892445
+    second: arkanoid_no_bg_131
+  - first:
+      213: -6025991345482802339
+    second: arkanoid_no_bg_132
+  - first:
+      213: 4148163515546768504
+    second: arkanoid_no_bg_133
+  - first:
+      213: -8211268501436591035
+    second: arkanoid_no_bg_134
+  - first:
+      213: 9083404541994122204
+    second: arkanoid_no_bg_135
+  - first:
+      213: 8966252807424212506
+    second: arkanoid_no_bg_136
+  - first:
+      213: -3706996775407459083
+    second: arkanoid_no_bg_137
+  - first:
+      213: -3550082893740374342
+    second: arkanoid_no_bg_138
+  - first:
+      213: 3567909255024974451
+    second: arkanoid_no_bg_139
+  - first:
+      213: -9087490447871391615
+    second: arkanoid_no_bg_140
+  - first:
+      213: 7452824641333469836
+    second: arkanoid_no_bg_141
+  - first:
+      213: 4983651756803575220
+    second: arkanoid_no_bg_142
+  - first:
+      213: 2899426022541693086
+    second: arkanoid_no_bg_143
+  - first:
+      213: -6820283607032960215
+    second: arkanoid_no_bg_144
+  - first:
+      213: -964875106476140929
+    second: arkanoid_no_bg_145
+  - first:
+      213: -4173356995178398429
+    second: arkanoid_no_bg_146
+  - first:
+      213: -4260846622403699887
+    second: arkanoid_no_bg_147
+  - first:
+      213: -4131222745538568454
+    second: arkanoid_no_bg_148
+  - first:
+      213: 97822706545365538
+    second: arkanoid_no_bg_149
+  - first:
+      213: -5714383961122932489
+    second: arkanoid_no_bg_150
+  - first:
+      213: 1429855048998289625
+    second: arkanoid_no_bg_151
+  - first:
+      213: -8515412614823017242
+    second: arkanoid_no_bg_152
+  - first:
+      213: 4439554764648771637
+    second: arkanoid_no_bg_153
+  - first:
+      213: -6971776905933088762
+    second: arkanoid_no_bg_154
+  - first:
+      213: -4400734289013480007
+    second: arkanoid_no_bg_155
+  - first:
+      213: 6499498703044859000
+    second: arkanoid_no_bg_156
+  - first:
+      213: -4803768982405951492
+    second: arkanoid_no_bg_157
+  - first:
+      213: -2214795989993749226
+    second: arkanoid_no_bg_158
+  - first:
+      213: 5034004917273703313
+    second: arkanoid_no_bg_159
+  - first:
+      213: 5360587128868872004
+    second: arkanoid_no_bg_160
+  - first:
+      213: 5824499739850872991
+    second: arkanoid_no_bg_161
+  - first:
+      213: -7201643639840560144
+    second: arkanoid_no_bg_162
+  - first:
+      213: 8135594257767717191
+    second: arkanoid_no_bg_163
+  - first:
+      213: -3339312982434051284
+    second: arkanoid_no_bg_164
+  - first:
+      213: -5791532424824672878
+    second: arkanoid_no_bg_165
+  - first:
+      213: -88300821960436786
+    second: arkanoid_no_bg_166
+  - first:
+      213: 7851094607626257412
+    second: arkanoid_no_bg_167
+  - first:
+      213: 3905730915122124872
+    second: arkanoid_no_bg_168
+  - first:
+      213: -1454113251584588537
+    second: arkanoid_no_bg_169
+  - first:
+      213: -5170273153745001596
+    second: arkanoid_no_bg_170
+  - first:
+      213: 7996292973707811119
+    second: arkanoid_no_bg_171
+  - first:
+      213: 1456176889235955893
+    second: arkanoid_no_bg_172
+  - first:
+      213: 7125808883812040791
+    second: arkanoid_no_bg_173
+  - first:
+      213: -6800766676892838679
+    second: arkanoid_no_bg_174
+  - first:
+      213: -6184255509403709327
+    second: arkanoid_no_bg_175
+  - first:
+      213: 4600287002003610053
+    second: arkanoid_no_bg_176
+  - first:
+      213: -2117410900701263988
+    second: arkanoid_no_bg_177
+  - first:
+      213: 2380470116536915819
+    second: arkanoid_no_bg_178
+  - first:
+      213: 8588861738018753473
+    second: arkanoid_no_bg_179
+  - first:
+      213: 4884666776001962832
+    second: arkanoid_no_bg_180
+  - first:
+      213: -4910305185576119191
+    second: arkanoid_no_bg_181
+  - first:
+      213: 8527103088491072008
+    second: arkanoid_no_bg_182
+  - first:
+      213: -7132219080559441056
+    second: arkanoid_no_bg_183
+  - first:
+      213: 3438641823289584903
+    second: arkanoid_no_bg_184
+  - first:
+      213: 2532753666621308287
+    second: arkanoid_no_bg_185
+  - first:
+      213: 688255576368755657
+    second: arkanoid_no_bg_186
+  - first:
+      213: -8391481413743012021
+    second: arkanoid_no_bg_187
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arkanoid_no_bg_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 232
+        width: 216
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307a2744c522d8300800000000000000
+      internalID: 255898533510686467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 188
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f0ddb664e03afe0800000000000000
+      internalID: -1179082981820788844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 212
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316c4a2c3b71532f0800000000000000
+      internalID: -993862081933162989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 265
+        width: 146
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0306b4619567e10800000000000000
+      internalID: 2195039820678443206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 269
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7fa0a7a4aa7e0e0800000000000000
+      internalID: -2240635052741691418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 269
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd09a5d2801e764d0800000000000000
+      internalID: -3141294789830733603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 269
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c224266c22d620330800000000000000
+      internalID: 3675620242012389932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 269
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114156fdb85dea550800000000000000
+      internalID: 6174106935896642577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_8
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 269
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efc4d552a3a60320800000000000000
+      internalID: 2523884558807781344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 269
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794b4bb957120d720800000000000000
+      internalID: 2868829751642207383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_10
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 269
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f13f1e7c3ae56cb0800000000000000
+      internalID: -4871229876396412425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_11
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 248
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1301e15b8413ed0800000000000000
+      internalID: -2436085980700069447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 231
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bd033ad33373870800000000000000
+      internalID: 8662448748094348058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 248
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e94ae111ebe5fa0800000000000000
+      internalID: -5809997488523534829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 248
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca1add7644770cf0800000000000000
+      internalID: -286132205206758708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_15
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 231
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b0c5447cbf3d440800000000000000
+      internalID: 4959584447928994694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 248
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78ae796482bd41d0800000000000000
+      internalID: -3364837064800556934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_17
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 248
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aee310601e0e4dd0800000000000000
+      internalID: -2500045279649861981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_18
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 248
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b22981dab393c90800000000000000
+      internalID: -7189649715492672627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_19
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 248
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b045efcdf63a0460800000000000000
+      internalID: 7208634617302433977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 235
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415c655a9ccb3b8e0800000000000000
+      internalID: -1678790661830687468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 231
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77733776fe97069a0800000000000000
+      internalID: -6241855014395758729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_22
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 231
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73a98c179eb24cd0800000000000000
+      internalID: -2575286480674380931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_23
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 231
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc49bb1e1de94fc0800000000000000
+      internalID: -3510013720988660521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_24
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 231
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ecab73772bbaf50800000000000000
+      internalID: 6893799879726517822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_25
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 231
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344ae5a9e4cd14a70800000000000000
+      internalID: 8809564576268854339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_26
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 231
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d70d0fca96659e0800000000000000
+      internalID: -1633001623379739258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_27
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 231
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb2886899ea9c990800000000000000
+      internalID: -7365163741177435209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_28
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 231
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00818e422b6f2bbb0800000000000000
+      internalID: -4921600197778728960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_29
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3a79b4e596af550800000000000000
+      internalID: 6195380091117609901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 214
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda2e812caaa5b710800000000000000
+      internalID: 1708459289931033307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 214
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a691a7719884d30800000000000000
+      internalID: 4415930168562510424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f279c39c678665e50800000000000000
+      internalID: 6797735546953963311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a954aaefa45be40800000000000000
+      internalID: 5671521763381844625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_34
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 211
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef2fd9df5c8f6800800000000000000
+      internalID: 607858818023370729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 214
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dbaced7fd72efa0800000000000000
+      internalID: -5772913268787331693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_36
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 214
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852d9db379e097440800000000000000
+      internalID: 4933990909468070488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_37
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 193
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4769df26fe5f6670800000000000000
+      internalID: 8534144230348121930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_38
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 193
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9cbf6f52a9464c0800000000000000
+      internalID: -4295138656756446813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_39
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 215
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6f38a55af9b6da0800000000000000
+      internalID: -5950486950102960442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_40
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 193
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50534e0066a17e090800000000000000
+      internalID: -8005400787223825147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_41
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 193
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c5a81d683bded80800000000000000
+      internalID: -8219716353258791848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 192
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9211a76cef1e51270800000000000000
+      internalID: 8220725179202539817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_43
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 195
+        width: 162
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b2b6e5d3ee8f090800000000000000
+      internalID: -8000382790679188673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 202
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c984497544c9b4110800000000000000
+      internalID: 1246261539239119004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_45
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 193
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3966ee89ca54d2a40800000000000000
+      internalID: 5345004940361098899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_46
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 202
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7425279bf5fdd50a0800000000000000
+      internalID: -6891106252580826553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_47
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 193
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf8c7839c0f4abf0800000000000000
+      internalID: -313861326982312010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_48
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 202
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdf7a18abba8c330800000000000000
+      internalID: 3731421108803993087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_49
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 184
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1653ee8b5dd365c0800000000000000
+      internalID: -4223288640234367459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 202
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e648ad6d0f6757860800000000000000
+      internalID: 7527053128988525678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 193
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c072060b7c6dab6a0800000000000000
+      internalID: -6432592964599404788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_52
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 202
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799966a011f21e150800000000000000
+      internalID: 5900048737067506071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_53
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 193
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58e841d6fe925550800000000000000
+      internalID: 6148151224224507996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_54
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 183
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12d2018799b14030800000000000000
+      internalID: 3477264447662379546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_55
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 183
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34eece02d498975e0800000000000000
+      internalID: -1911345602484179389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_56
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 183
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e29f9c0371643b0800000000000000
+      internalID: -5528705994236285334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_57
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 183
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aee623e56c1fdd0800000000000000
+      internalID: -2453962214064854444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_58
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 183
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0c6ffb26435f000800000000000000
+      internalID: 69018968026169530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_59
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 161
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf739c1ec6ef1f50800000000000000
+      internalID: 6854450930798264254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_60
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 184
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4421b3173f5915150800000000000000
+      internalID: 5859629462995014212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_61
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 175
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d94e9d2815a25db0800000000000000
+      internalID: -4804596329187751471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_62
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 184
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f33cf11de0fa7b0800000000000000
+      internalID: -5210929952500531430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_63
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 175
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f155a5e6929d4f1c0800000000000000
+      internalID: -4470709758103759585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_64
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 175
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7eaeb5ff3911d1a0800000000000000
+      internalID: -6786615400974078339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_65
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 184
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635b38a6fe4aa3000800000000000000
+      internalID: 16506896840373558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 175
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cb9545e4bbda070800000000000000
+      internalID: 8119351648315882579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_67
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 184
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1112729724a6304e0800000000000000
+      internalID: -2016651374398856943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_68
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 175
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081ffcc8158859bd0800000000000000
+      internalID: -2624041324037279360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_69
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 167
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2437994c6e300a00800000000000000
+      internalID: 720644575191315501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_70
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 167
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0341d18f070c7c60800000000000000
+      internalID: 7817130816392217357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_71
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 167
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2303f421ab41d92d0800000000000000
+      internalID: -3270434964997459918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_72
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 167
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670122a3703cf0ab0800000000000000
+      internalID: -5039595022196797322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_73
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 166
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285c372dac04393b0800000000000000
+      internalID: -5506986679485610622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_74
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 157
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e531ae4e2b0455430800000000000000
+      internalID: 3770991400081560414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_75
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 166
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95194feeb50be4d30800000000000000
+      internalID: 4417662193394553177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_76
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 148
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1760f7ebb8ea3ce0800000000000000
+      internalID: -1424570438361520356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_77
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 166
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d495bbfb8fef440800000000000000
+      internalID: 4971684541029240129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_78
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 157
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8275960ceee2a20800000000000000
+      internalID: 3039629308690114782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_79
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 166
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9417ac755ab9e50800000000000000
+      internalID: 6817224257432537558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_80
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 157
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69ae5f0673cb1170800000000000000
+      internalID: 8150322862488463725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_81
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 166
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffd74d1d8635e0c0800000000000000
+      internalID: -4547168269051109381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_82
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2088013f871810d0800000000000000
+      internalID: -3451983210609082321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_83
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 121
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8950756d5ced610800000000000000
+      internalID: 1647972038037838032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_84
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 144
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42862b9ff53fc13a0800000000000000
+      internalID: -6693207352642738140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_85
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 144
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb964daea1eef470800000000000000
+      internalID: 8430423692831792099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_86
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d94edc5751ee4540800000000000000
+      internalID: 4994176802136934867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_87
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 139
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc98e12cc2339a990800000000000000
+      internalID: -7374306647514117684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_88
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 139
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4f0957a5b837470800000000000000
+      internalID: 8391203751357117667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_89
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 148
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6248aa8ff4680b80800000000000000
+      internalID: -8428375653918162326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_90
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 139
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939f5482fcbee9f00800000000000000
+      internalID: 1125596231855634745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_91
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 148
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2e6c36d18ab3510800000000000000
+      internalID: 1530001342603911935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_92
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 148
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df1d17fba6f24780800000000000000
+      internalID: -8700120311680655407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_93
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 150
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3439b704b8ad670800000000000000
+      internalID: 8564310750465836000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_94
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 150
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a504ef14db4526e0800000000000000
+      internalID: -1862999496407644765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_95
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 150
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce7a467285e36910800000000000000
+      internalID: 1829558222135656139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_96
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 150
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d00354d1a2aaa7e0800000000000000
+      internalID: -1753410288971743024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_97
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 150
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2a3521084403620800000000000000
+      internalID: 2751774689177346726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_98
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 150
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98977a26b731b0b40800000000000000
+      internalID: 5407437198245460361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_99
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 150
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfb43f68a9ae9800800000000000000
+      internalID: 621120339509034955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_100
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 150
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d264d932e3fbafba0800000000000000
+      internalID: -6054316475439823315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_101
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 150
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513c6841ec153c260800000000000000
+      internalID: 7116621781725004565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_102
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 150
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbfeebab2c2648f0800000000000000
+      internalID: -556708937853895744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_103
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 150
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440c37d8c468c7da0800000000000000
+      internalID: -5945729744687087548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_104
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 150
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893cb86ffe1f26c20800000000000000
+      internalID: 3198384698322305944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_105
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 149
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5824152eea984ca80800000000000000
+      internalID: -8447475616825916795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_106
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 150
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a9bc1fd8bc67d20800000000000000
+      internalID: 3276029589466094187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_107
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 149
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a670d0c1e6bf810800000000000000
+      internalID: 1800153542821374478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_108
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 122
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735c2a56017dfd740800000000000000
+      internalID: 5179094561923974455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_109
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e9df4733752cc20800000000000000
+      internalID: 3225236161668423248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_110
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 140
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bcd8865d1ec2c00800000000000000
+      internalID: 877324334128810834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_111
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 139
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357d49480489e7880800000000000000
+      internalID: -8611278034616133805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_112
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 133
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80d41af945ec4a50800000000000000
+      internalID: 6506827667534565519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 132
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da86a76d0a36fa6c0800000000000000
+      internalID: -4129972790831191891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_114
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 132
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8d9724a4872ed50800000000000000
+      internalID: 6765101850602100969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_115
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 133
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575876e0e9e7088e0800000000000000
+      internalID: -1693214242579708555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_116
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 133
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ce5bfff411cbb90800000000000000
+      internalID: -7224880666918917055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_117
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 133
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb040a27794f1dd70800000000000000
+      internalID: 9066296456173863100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_118
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 132
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52671b245e3e9500800000000000000
+      internalID: 404829547731051099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_119
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 133
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc32ef32c24c780a0800000000000000
+      internalID: -6879314211923680308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_120
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 133
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734bfe84ec71f4820800000000000000
+      internalID: 2904566459431629879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_121
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 133
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5420e5234d6182b30800000000000000
+      internalID: 4262682147940074053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_122
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 133
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eb4eec2b28db3e0800000000000000
+      internalID: -2036327752014709222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_123
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 133
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5156c845541ed14d0800000000000000
+      internalID: -3162123675456740075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_124
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 133
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ed75fc66f0c3840800000000000000
+      internalID: 5205052203573173902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_125
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 121
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f5dd1c946016120800000000000000
+      internalID: 2405210589847445264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_126
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 121
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a657412a727c1d50800000000000000
+      internalID: 6709363413745096355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_127
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 121
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad53c1b2aa39bc460800000000000000
+      internalID: 7263061183142049242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_128
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 122
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acd0ea49e3893e70800000000000000
+      internalID: 9095445960458296486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_129
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 122
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd84ac2c89fa4c4e0800000000000000
+      internalID: -1962250466988767009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_130
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 122
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8240be186502d80800000000000000
+      internalID: -8277520999113283368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_131
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 122
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3add7a96dd36b3880800000000000000
+      internalID: -8630194458313892445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_132
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 130
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b5be06cc06f5ca0800000000000000
+      internalID: -6025991345482802339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_133
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 122
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874966e4dbc319930800000000000000
+      internalID: 4148163515546768504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_134
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 130
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54494889dc6bb0e80800000000000000
+      internalID: -8211268501436591035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_135
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 122
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbbab41e4cbe0e70800000000000000
+      internalID: 9083404541994122204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_136
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 130
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e7ed05c678e6c70800000000000000
+      internalID: 8966252807424212506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_137
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 116
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4e152c21a1e8cc0800000000000000
+      internalID: -3706996775407459083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_138
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 116
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab60a63da629bbec0800000000000000
+      internalID: -3550082893740374342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_139
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 116
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a97985092c38130800000000000000
+      internalID: 3567909255024974451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_140
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 116
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188ced2d59fb2e180800000000000000
+      internalID: -9087490447871391615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_141
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 116
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82a5f74680cd6760800000000000000
+      internalID: 7452824641333469836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_142
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 116
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd47884edc792540800000000000000
+      internalID: 4983651756803575220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_143
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 116
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e901f1e0b94dc3820800000000000000
+      internalID: 2899426022541693086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_144
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 116
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b616fd13c7951a0800000000000000
+      internalID: -6820283607032960215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_145
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 116
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f765fd9e3331c92f0800000000000000
+      internalID: -964875106476140929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_146
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 116
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dff7d9ce14516c0800000000000000
+      internalID: -4173356995178398429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_147
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 116
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b5435629e6ed4c0800000000000000
+      internalID: -4260846622403699887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_148
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 116
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afed8241dc2faa6c0800000000000000
+      internalID: -4131222745538568454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_149
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 116
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2229a9abb398b5100800000000000000
+      internalID: 97822706545365538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_150
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 115
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8f31f301e62b0b0800000000000000
+      internalID: -5714383961122932489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_151
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 116
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d087d3679dd7d310800000000000000
+      internalID: 1429855048998289625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_152
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 116
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e40899e75d23d980800000000000000
+      internalID: -8515412614823017242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_153
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 116
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53078c369877c9d30800000000000000
+      internalID: 4439554764648771637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_154
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 115
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608169497d54f3f90800000000000000
+      internalID: -6971776905933088762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_155
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 100
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b56870fa737de2c0800000000000000
+      internalID: -4400734289013480007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_156
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 100
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874d91572abd23a50800000000000000
+      internalID: 6499498703044859000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_157
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 100
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff47acdf85955db0800000000000000
+      internalID: -4803768982405951492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_158
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 100
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615867618c67341e0800000000000000
+      internalID: -2214795989993749226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_159
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 99
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1933bab0dc06cd540800000000000000
+      internalID: 5034004917273703313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_160
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 99
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f92c39791a46a40800000000000000
+      internalID: 5360587128868872004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_161
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 99
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f989a2467a7c4d050800000000000000
+      internalID: 5824499739850872991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_162
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 99
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb2a58f34f9e0c90800000000000000
+      internalID: -7201643639840560144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_163
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 99
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749d3fa8fdf67e070800000000000000
+      internalID: 8135594257767717191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_164
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 99
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b0b20f88068a1d0800000000000000
+      internalID: -3339312982434051284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_165
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 99
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d2b29c1f750afa0800000000000000
+      internalID: -5791532424824672878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_166
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 99
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec35ca9ceda46cef0800000000000000
+      internalID: -88300821960436786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_167
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 99
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4044c81e2f0b4fc60800000000000000
+      internalID: 7851094607626257412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_168
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 99
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8489d18e291f33630800000000000000
+      internalID: 3905730915122124872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_169
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 89
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705cc10b3b3f1dbe0800000000000000
+      internalID: -1454113251584588537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_170
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 89
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4836a4fb5ff7f38b0800000000000000
+      internalID: -5170273153745001596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_171
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 89
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f295ec9e71a88fe60800000000000000
+      internalID: 7996292973707811119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_172
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 89
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0ea056a21653410800000000000000
+      internalID: 1456176889235955893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_173
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 73
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75080f8fc65f3e260800000000000000
+      internalID: 7125808883812040791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_174
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 73
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e41d774db2de91a0800000000000000
+      internalID: -6800766676892838679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_175
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 73
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1705db9316c1d2aa0800000000000000
+      internalID: -6184255509403709327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_176
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 73
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9954ba7a087df30800000000000000
+      internalID: 4600287002003610053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_177
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 27
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87492c11027d92e0800000000000000
+      internalID: -2117410900701263988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_178
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 50
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b679d9e65f0290120800000000000000
+      internalID: 2380470116536915819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_179
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 50
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb4d87be34c13770800000000000000
+      internalID: 8588861738018753473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_180
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 50
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053efbd7d82d9c340800000000000000
+      internalID: 4884666776001962832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_181
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 27
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9641afa13771bdbb0800000000000000
+      internalID: -4910305185576119191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_182
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 27
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a85a8941b565670800000000000000
+      internalID: 8527103088491072008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_183
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 27
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bcdfac884450d90800000000000000
+      internalID: -7132219080559441056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_184
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 6
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d2af2058288bf20800000000000000
+      internalID: 3438641823289584903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_185
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 6
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7df78a6a06262320800000000000000
+      internalID: 2532753666621308287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_186
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 6
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c33428dccc2d8900800000000000000
+      internalID: 688255576368755657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arkanoid_no_bg_187
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 6
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b471e8a3d187b8b80800000000000000
+      internalID: -8391481413743012021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arkanoid_no_bg_0: 255898533510686467
+      arkanoid_no_bg_1: -1179082981820788844
+      arkanoid_no_bg_10: -4871229876396412425
+      arkanoid_no_bg_100: -6054316475439823315
+      arkanoid_no_bg_101: 7116621781725004565
+      arkanoid_no_bg_102: -556708937853895744
+      arkanoid_no_bg_103: -5945729744687087548
+      arkanoid_no_bg_104: 3198384698322305944
+      arkanoid_no_bg_105: -8447475616825916795
+      arkanoid_no_bg_106: 3276029589466094187
+      arkanoid_no_bg_107: 1800153542821374478
+      arkanoid_no_bg_108: 5179094561923974455
+      arkanoid_no_bg_109: 3225236161668423248
+      arkanoid_no_bg_11: -2436085980700069447
+      arkanoid_no_bg_110: 877324334128810834
+      arkanoid_no_bg_111: -8611278034616133805
+      arkanoid_no_bg_112: 6506827667534565519
+      arkanoid_no_bg_113: -4129972790831191891
+      arkanoid_no_bg_114: 6765101850602100969
+      arkanoid_no_bg_115: -1693214242579708555
+      arkanoid_no_bg_116: -7224880666918917055
+      arkanoid_no_bg_117: 9066296456173863100
+      arkanoid_no_bg_118: 404829547731051099
+      arkanoid_no_bg_119: -6879314211923680308
+      arkanoid_no_bg_12: 8662448748094348058
+      arkanoid_no_bg_120: 2904566459431629879
+      arkanoid_no_bg_121: 4262682147940074053
+      arkanoid_no_bg_122: -2036327752014709222
+      arkanoid_no_bg_123: -3162123675456740075
+      arkanoid_no_bg_124: 5205052203573173902
+      arkanoid_no_bg_125: 2405210589847445264
+      arkanoid_no_bg_126: 6709363413745096355
+      arkanoid_no_bg_127: 7263061183142049242
+      arkanoid_no_bg_128: 9095445960458296486
+      arkanoid_no_bg_129: -1962250466988767009
+      arkanoid_no_bg_13: -5809997488523534829
+      arkanoid_no_bg_130: -8277520999113283368
+      arkanoid_no_bg_131: -8630194458313892445
+      arkanoid_no_bg_132: -6025991345482802339
+      arkanoid_no_bg_133: 4148163515546768504
+      arkanoid_no_bg_134: -8211268501436591035
+      arkanoid_no_bg_135: 9083404541994122204
+      arkanoid_no_bg_136: 8966252807424212506
+      arkanoid_no_bg_137: -3706996775407459083
+      arkanoid_no_bg_138: -3550082893740374342
+      arkanoid_no_bg_139: 3567909255024974451
+      arkanoid_no_bg_14: -286132205206758708
+      arkanoid_no_bg_140: -9087490447871391615
+      arkanoid_no_bg_141: 7452824641333469836
+      arkanoid_no_bg_142: 4983651756803575220
+      arkanoid_no_bg_143: 2899426022541693086
+      arkanoid_no_bg_144: -6820283607032960215
+      arkanoid_no_bg_145: -964875106476140929
+      arkanoid_no_bg_146: -4173356995178398429
+      arkanoid_no_bg_147: -4260846622403699887
+      arkanoid_no_bg_148: -4131222745538568454
+      arkanoid_no_bg_149: 97822706545365538
+      arkanoid_no_bg_15: 4959584447928994694
+      arkanoid_no_bg_150: -5714383961122932489
+      arkanoid_no_bg_151: 1429855048998289625
+      arkanoid_no_bg_152: -8515412614823017242
+      arkanoid_no_bg_153: 4439554764648771637
+      arkanoid_no_bg_154: -6971776905933088762
+      arkanoid_no_bg_155: -4400734289013480007
+      arkanoid_no_bg_156: 6499498703044859000
+      arkanoid_no_bg_157: -4803768982405951492
+      arkanoid_no_bg_158: -2214795989993749226
+      arkanoid_no_bg_159: 5034004917273703313
+      arkanoid_no_bg_16: -3364837064800556934
+      arkanoid_no_bg_160: 5360587128868872004
+      arkanoid_no_bg_161: 5824499739850872991
+      arkanoid_no_bg_162: -7201643639840560144
+      arkanoid_no_bg_163: 8135594257767717191
+      arkanoid_no_bg_164: -3339312982434051284
+      arkanoid_no_bg_165: -5791532424824672878
+      arkanoid_no_bg_166: -88300821960436786
+      arkanoid_no_bg_167: 7851094607626257412
+      arkanoid_no_bg_168: 3905730915122124872
+      arkanoid_no_bg_169: -1454113251584588537
+      arkanoid_no_bg_17: -2500045279649861981
+      arkanoid_no_bg_170: -5170273153745001596
+      arkanoid_no_bg_171: 7996292973707811119
+      arkanoid_no_bg_172: 1456176889235955893
+      arkanoid_no_bg_173: 7125808883812040791
+      arkanoid_no_bg_174: -6800766676892838679
+      arkanoid_no_bg_175: -6184255509403709327
+      arkanoid_no_bg_176: 4600287002003610053
+      arkanoid_no_bg_177: -2117410900701263988
+      arkanoid_no_bg_178: 2380470116536915819
+      arkanoid_no_bg_179: 8588861738018753473
+      arkanoid_no_bg_18: -7189649715492672627
+      arkanoid_no_bg_180: 4884666776001962832
+      arkanoid_no_bg_181: -4910305185576119191
+      arkanoid_no_bg_182: 8527103088491072008
+      arkanoid_no_bg_183: -7132219080559441056
+      arkanoid_no_bg_184: 3438641823289584903
+      arkanoid_no_bg_185: 2532753666621308287
+      arkanoid_no_bg_186: 688255576368755657
+      arkanoid_no_bg_187: -8391481413743012021
+      arkanoid_no_bg_19: 7208634617302433977
+      arkanoid_no_bg_2: -993862081933162989
+      arkanoid_no_bg_20: -1678790661830687468
+      arkanoid_no_bg_21: -6241855014395758729
+      arkanoid_no_bg_22: -2575286480674380931
+      arkanoid_no_bg_23: -3510013720988660521
+      arkanoid_no_bg_24: 6893799879726517822
+      arkanoid_no_bg_25: 8809564576268854339
+      arkanoid_no_bg_26: -1633001623379739258
+      arkanoid_no_bg_27: -7365163741177435209
+      arkanoid_no_bg_28: -4921600197778728960
+      arkanoid_no_bg_29: 6195380091117609901
+      arkanoid_no_bg_3: 2195039820678443206
+      arkanoid_no_bg_30: 1708459289931033307
+      arkanoid_no_bg_31: 4415930168562510424
+      arkanoid_no_bg_32: 6797735546953963311
+      arkanoid_no_bg_33: 5671521763381844625
+      arkanoid_no_bg_34: 607858818023370729
+      arkanoid_no_bg_35: -5772913268787331693
+      arkanoid_no_bg_36: 4933990909468070488
+      arkanoid_no_bg_37: 8534144230348121930
+      arkanoid_no_bg_38: -4295138656756446813
+      arkanoid_no_bg_39: -5950486950102960442
+      arkanoid_no_bg_4: -2240635052741691418
+      arkanoid_no_bg_40: -8005400787223825147
+      arkanoid_no_bg_41: -8219716353258791848
+      arkanoid_no_bg_42: 8220725179202539817
+      arkanoid_no_bg_43: -8000382790679188673
+      arkanoid_no_bg_44: 1246261539239119004
+      arkanoid_no_bg_45: 5345004940361098899
+      arkanoid_no_bg_46: -6891106252580826553
+      arkanoid_no_bg_47: -313861326982312010
+      arkanoid_no_bg_48: 3731421108803993087
+      arkanoid_no_bg_49: -4223288640234367459
+      arkanoid_no_bg_5: -3141294789830733603
+      arkanoid_no_bg_50: 7527053128988525678
+      arkanoid_no_bg_51: -6432592964599404788
+      arkanoid_no_bg_52: 5900048737067506071
+      arkanoid_no_bg_53: 6148151224224507996
+      arkanoid_no_bg_54: 3477264447662379546
+      arkanoid_no_bg_55: -1911345602484179389
+      arkanoid_no_bg_56: -5528705994236285334
+      arkanoid_no_bg_57: -2453962214064854444
+      arkanoid_no_bg_58: 69018968026169530
+      arkanoid_no_bg_59: 6854450930798264254
+      arkanoid_no_bg_6: 3675620242012389932
+      arkanoid_no_bg_60: 5859629462995014212
+      arkanoid_no_bg_61: -4804596329187751471
+      arkanoid_no_bg_62: -5210929952500531430
+      arkanoid_no_bg_63: -4470709758103759585
+      arkanoid_no_bg_64: -6786615400974078339
+      arkanoid_no_bg_65: 16506896840373558
+      arkanoid_no_bg_66: 8119351648315882579
+      arkanoid_no_bg_67: -2016651374398856943
+      arkanoid_no_bg_68: -2624041324037279360
+      arkanoid_no_bg_69: 720644575191315501
+      arkanoid_no_bg_7: 6174106935896642577
+      arkanoid_no_bg_70: 7817130816392217357
+      arkanoid_no_bg_71: -3270434964997459918
+      arkanoid_no_bg_72: -5039595022196797322
+      arkanoid_no_bg_73: -5506986679485610622
+      arkanoid_no_bg_74: 3770991400081560414
+      arkanoid_no_bg_75: 4417662193394553177
+      arkanoid_no_bg_76: -1424570438361520356
+      arkanoid_no_bg_77: 4971684541029240129
+      arkanoid_no_bg_78: 3039629308690114782
+      arkanoid_no_bg_79: 6817224257432537558
+      arkanoid_no_bg_8: 2523884558807781344
+      arkanoid_no_bg_80: 8150322862488463725
+      arkanoid_no_bg_81: -4547168269051109381
+      arkanoid_no_bg_82: -3451983210609082321
+      arkanoid_no_bg_83: 1647972038037838032
+      arkanoid_no_bg_84: -6693207352642738140
+      arkanoid_no_bg_85: 8430423692831792099
+      arkanoid_no_bg_86: 4994176802136934867
+      arkanoid_no_bg_87: -7374306647514117684
+      arkanoid_no_bg_88: 8391203751357117667
+      arkanoid_no_bg_89: -8428375653918162326
+      arkanoid_no_bg_9: 2868829751642207383
+      arkanoid_no_bg_90: 1125596231855634745
+      arkanoid_no_bg_91: 1530001342603911935
+      arkanoid_no_bg_92: -8700120311680655407
+      arkanoid_no_bg_93: 8564310750465836000
+      arkanoid_no_bg_94: -1862999496407644765
+      arkanoid_no_bg_95: 1829558222135656139
+      arkanoid_no_bg_96: -1753410288971743024
+      arkanoid_no_bg_97: 2751774689177346726
+      arkanoid_no_bg_98: 5407437198245460361
+      arkanoid_no_bg_99: 621120339509034955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5200 @@
+fileFormatVersion: 2
+guid: 81af0df8d9e2c6842999b73ab88bde44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2224749933779273263
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_0
+  - first:
+      213: 622101124347699753
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_1
+  - first:
+      213: -6670897263384464195
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_2
+  - first:
+      213: 3926912399932126407
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_3
+  - first:
+      213: -7463510752128765883
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_4
+  - first:
+      213: 4585642763211785458
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_5
+  - first:
+      213: -8609698176316220928
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_6
+  - first:
+      213: -7434824395194092032
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_7
+  - first:
+      213: 3830409156283524335
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_8
+  - first:
+      213: -4916930963429361308
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_9
+  - first:
+      213: -3115006328683040597
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_10
+  - first:
+      213: 484507951024664959
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_11
+  - first:
+      213: -4323407453948325712
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_12
+  - first:
+      213: 8495312774663738296
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_13
+  - first:
+      213: -428008351796618008
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_14
+  - first:
+      213: -5102906244246357513
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_15
+  - first:
+      213: 6836976052200561100
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_16
+  - first:
+      213: -4799640332925048227
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_17
+  - first:
+      213: -669723558915535406
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_18
+  - first:
+      213: -4551853367828919460
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_19
+  - first:
+      213: -392505206427505923
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_20
+  - first:
+      213: 3723466911273925955
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_21
+  - first:
+      213: -2824680758214391485
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_22
+  - first:
+      213: -7374324252312311919
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_23
+  - first:
+      213: 6337076663234450273
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_24
+  - first:
+      213: -992342746928072404
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_25
+  - first:
+      213: 4231400260098004265
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_26
+  - first:
+      213: -6729599176342168244
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_27
+  - first:
+      213: 2551964322159300369
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_28
+  - first:
+      213: 923440134558643462
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_29
+  - first:
+      213: -1507896444751123658
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_30
+  - first:
+      213: 7424417800342832511
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_31
+  - first:
+      213: 2525502408673406043
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_32
+  - first:
+      213: -8925949300468745682
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_33
+  - first:
+      213: 2648093703263915605
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_34
+  - first:
+      213: 5201834906856674252
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_35
+  - first:
+      213: -2238161651844116649
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_36
+  - first:
+      213: -6878498288759579081
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_37
+  - first:
+      213: 8254684850657279613
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_38
+  - first:
+      213: -125325999403075588
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_39
+  - first:
+      213: -78803177090042005
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_40
+  - first:
+      213: 8972030871263918962
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_41
+  - first:
+      213: 762506673026600116
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_42
+  - first:
+      213: 2327174300387791469
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_43
+  - first:
+      213: -4728228253522490838
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_44
+  - first:
+      213: -5903289183070860936
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_45
+  - first:
+      213: 884233343481805533
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_46
+  - first:
+      213: 7175768431044667424
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_47
+  - first:
+      213: 3674466291751237308
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_48
+  - first:
+      213: -14637655135612727
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_49
+  - first:
+      213: -8452865664799283636
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_50
+  - first:
+      213: 8373760032332518814
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_51
+  - first:
+      213: -719605326252726491
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_52
+  - first:
+      213: -5931739706365962343
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_53
+  - first:
+      213: 4931435660982263976
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_54
+  - first:
+      213: -6514253741371441076
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_55
+  - first:
+      213: 3452217911707835373
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_56
+  - first:
+      213: -6698460734568086953
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_57
+  - first:
+      213: 2760522761283686934
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_58
+  - first:
+      213: 6850841486556292491
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_59
+  - first:
+      213: 5586185258051227680
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_60
+  - first:
+      213: -3586655833314160444
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_61
+  - first:
+      213: -5085531227254586001
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_62
+  - first:
+      213: -2712514726656522361
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_63
+  - first:
+      213: 3985460385435453677
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_64
+  - first:
+      213: 8500711915791433549
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_65
+  - first:
+      213: 5426957651530984011
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_66
+  - first:
+      213: -3779848812006470478
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_67
+  - first:
+      213: 7680351668491661986
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_68
+  - first:
+      213: -4122129519285288616
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_69
+  - first:
+      213: -6745817978618363439
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_70
+  - first:
+      213: -1420765443210366382
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_71
+  - first:
+      213: 7947019959209853359
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_72
+  - first:
+      213: -57722649647851799
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_73
+  - first:
+      213: 2139598764123798358
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_74
+  - first:
+      213: -3775396790627783083
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_75
+  - first:
+      213: -359425243918820771
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_76
+  - first:
+      213: -5989327619751114048
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_77
+  - first:
+      213: 7930070008714212085
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_78
+  - first:
+      213: -5241101441176234992
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_79
+  - first:
+      213: -4873721802929099845
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_80
+  - first:
+      213: 6280341818368539772
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_81
+  - first:
+      213: -8854889320580962506
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_82
+  - first:
+      213: -7461985796910442034
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_83
+  - first:
+      213: 7562832112951386104
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_84
+  - first:
+      213: -2681007404071132340
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_85
+  - first:
+      213: -3368426920507542643
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_86
+  - first:
+      213: 6910136418531424610
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_87
+  - first:
+      213: 3199855744031127368
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_88
+  - first:
+      213: 9208695538390150009
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_89
+  - first:
+      213: 1630936386017353448
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_90
+  - first:
+      213: 8915962609645175156
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_91
+  - first:
+      213: 5378607809948967566
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_92
+  - first:
+      213: -5217164154851975463
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_93
+  - first:
+      213: -4335958541387525042
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_94
+  - first:
+      213: -2558881838818776826
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_95
+  - first:
+      213: -5604009813451428453
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_96
+  - first:
+      213: 186961863523826295
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_97
+  - first:
+      213: 9139658173457352260
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_98
+  - first:
+      213: -22611003376071272
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_99
+  - first:
+      213: 6614637421771463169
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_100
+  - first:
+      213: -1320363770213455619
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_101
+  - first:
+      213: -6719832942350437494
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_102
+  - first:
+      213: 939916509616535560
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_103
+  - first:
+      213: 3553294550963235456
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_104
+  - first:
+      213: 327247510816104798
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_105
+  - first:
+      213: -4921753228125065488
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_106
+  - first:
+      213: -3092541118766430128
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_107
+  - first:
+      213: 5567789518368019665
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_108
+  - first:
+      213: 7907493635732705761
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_109
+  - first:
+      213: 8494005574893395709
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_110
+  - first:
+      213: 1675138476185702769
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_111
+  - first:
+      213: -2763352592588275289
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_112
+  - first:
+      213: 5877063508135972401
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_113
+  - first:
+      213: -3193885361661922104
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_114
+  - first:
+      213: -921998159523378809
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_115
+  - first:
+      213: 4840220005505494807
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_116
+  - first:
+      213: 2109891459425152232
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_117
+  - first:
+      213: -2825141382010559623
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_118
+  - first:
+      213: 3200690171178597590
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_119
+  - first:
+      213: -2792415801222227212
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_120
+  - first:
+      213: -4906062129822608023
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_121
+  - first:
+      213: -6794857565499318635
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_122
+  - first:
+      213: -2824936337823560974
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_123
+  - first:
+      213: 4097737579452600811
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_124
+  - first:
+      213: -6116212597733484539
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_125
+  - first:
+      213: 4497522619273928289
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_126
+  - first:
+      213: 7011563223955624956
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_127
+  - first:
+      213: 2755898699742669770
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_128
+  - first:
+      213: -1331060105334678669
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_129
+  - first:
+      213: 7800220196904958784
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_130
+  - first:
+      213: 4099665872058957742
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_131
+  - first:
+      213: 6743648678600570074
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_132
+  - first:
+      213: -125559327341792978
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_133
+  - first:
+      213: -8085474861155069234
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_134
+  - first:
+      213: 6718324750829362284
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_135
+  - first:
+      213: -4397126877174844863
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_136
+  - first:
+      213: -8584245348935105441
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_137
+  - first:
+      213: 3712666603184111788
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_138
+  - first:
+      213: -2273822370436370903
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_139
+  - first:
+      213: -1277386366521104894
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_140
+  - first:
+      213: 7364476846902463618
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_141
+  - first:
+      213: 8236264527708737650
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_142
+  - first:
+      213: -1642797067146921980
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_143
+  - first:
+      213: 1003037084282467595
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_144
+  - first:
+      213: 7562928238032213641
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_145
+  - first:
+      213: -2968985407281755338
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_146
+  - first:
+      213: 5711640388001751901
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_147
+  - first:
+      213: -6412956862998970844
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_148
+  - first:
+      213: 3085572831579408420
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_149
+  - first:
+      213: 5877954642796468944
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_150
+  - first:
+      213: -4470557030352589108
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_151
+  - first:
+      213: 7389207588236520208
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_152
+  - first:
+      213: 8168729943853513386
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_153
+  - first:
+      213: -1333413802762878170
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_154
+  - first:
+      213: 5202352917911071657
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_155
+  - first:
+      213: 7441247262567431979
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_156
+  - first:
+      213: 2492349641364474936
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_157
+  - first:
+      213: 852744031833059200
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_158
+  - first:
+      213: 5141117678196811187
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_159
+  - first:
+      213: 2344830647949203465
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_160
+  - first:
+      213: -7643547936523792716
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_161
+  - first:
+      213: 479453205664830069
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_162
+  - first:
+      213: 6354618517923887296
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_163
+  - first:
+      213: 9155602335133274092
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_164
+  - first:
+      213: 7400064338664983225
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_165
+  - first:
+      213: -2110698977107176422
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_166
+  - first:
+      213: 4819950252486967256
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_167
+  - first:
+      213: 1764223570309861736
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_168
+  - first:
+      213: 3205111228192117216
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_169
+  - first:
+      213: 9208782193619093196
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_170
+  - first:
+      213: -5793497881028599957
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_171
+  - first:
+      213: -6160871814560360061
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_172
+  - first:
+      213: -5574357362810658611
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_173
+  - first:
+      213: -5515818958797771435
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_174
+  - first:
+      213: -7205045013626022475
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_175
+  - first:
+      213: 4794427111760503783
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_176
+  - first:
+      213: -8554482142985355049
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_177
+  - first:
+      213: -5358553636220667529
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_178
+  - first:
+      213: -1650372433073715719
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_179
+  - first:
+      213: -7220687140545673952
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_180
+  - first:
+      213: -3369973879093360169
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_181
+  - first:
+      213: 5772570880097712303
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_182
+  - first:
+      213: -3026876138174572219
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_183
+  - first:
+      213: 7271022571531184213
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_184
+  - first:
+      213: 243505315477297135
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_185
+  - first:
+      213: 7506452777929248252
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_186
+  - first:
+      213: -5374908091806338822
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_187
+  - first:
+      213: -268343466996935296
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_188
+  - first:
+      213: 8957814938846120100
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_189
+  - first:
+      213: 4421939632047071094
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_190
+  - first:
+      213: -7067905112176508362
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_191
+  - first:
+      213: -713159985284835962
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_192
+  - first:
+      213: -2856545349613007237
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_193
+  - first:
+      213: -3097182934638872390
+    second: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d93303f8b91021e0800000000000000
+      internalID: -2224749933779273263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 232
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922ad133da522a800800000000000000
+      internalID: 622101124347699753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 232
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4f7da68463c63a0800000000000000
+      internalID: -6670897263384464195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 239
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4f706a5023f7630800000000000000
+      internalID: 3926912399932126407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 232
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5407e0aa3884c6890800000000000000
+      internalID: -7463510752128765883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 232
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f444102cc973af30800000000000000
+      internalID: 4585642763211785458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 232
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ad751ff15348880800000000000000
+      internalID: -8609698176316220928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 232
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0063c0d9a9232d890800000000000000
+      internalID: -7434824395194092032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 239
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4eea055d8582530800000000000000
+      internalID: 3830409156283524335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 232
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4697cabf65d83cbb0800000000000000
+      internalID: -4916930963429361308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0f0c18f3645c4d0800000000000000
+      internalID: -3115006328683040597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 218
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f717da71a6159b600800000000000000
+      internalID: 484507951024664959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 218
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b05228b3db2004c0800000000000000
+      internalID: -4323407453948325712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 218
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b39bad55f965e570800000000000000
+      internalID: 8495312774663738296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 219
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec1346fba86f0af0800000000000000
+      internalID: -428008351796618008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 218
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9b295aec5de29b0800000000000000
+      internalID: -5102906244246357513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 218
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc95441ee71d1ee50800000000000000
+      internalID: 6836976052200561100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 218
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a6d5afb80446db0800000000000000
+      internalID: -4799640332925048227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 219
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd0125b8f9a4b6f0800000000000000
+      internalID: -669723558915535406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b44ec8a7194d0c0800000000000000
+      internalID: -4551853367828919460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 201
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaa566289a8d8af0800000000000000
+      internalID: -392505206427505923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 201
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d37639d696ca330800000000000000
+      internalID: 3723466911273925955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 200
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34900c2f0d7bcc8d0800000000000000
+      internalID: -2824680758214391485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 200
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1976062d92329a990800000000000000
+      internalID: -7374324252312311919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 201
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163d18266a1d1f750800000000000000
+      internalID: 6337076663234450273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 201
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29bae1878d7a32f0800000000000000
+      internalID: -992342746928072404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 202
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92513ad1e14f8ba30800000000000000
+      internalID: 4231400260098004265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 202
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d1d5d3439ab92a0800000000000000
+      internalID: -6729599176342168244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 201
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f86c5b7066a6320800000000000000
+      internalID: 2551964322159300369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 201
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605f4b7e8e7b0dc00800000000000000
+      internalID: 923440134558643462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 200
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63be8843c20e21be0800000000000000
+      internalID: -1507896444751123658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 200
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75858537a4d80760800000000000000
+      internalID: 7424417800342832511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 201
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c2f5c5f036c0320800000000000000
+      internalID: 2525502408673406043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 152
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2af9662768a02480800000000000000
+      internalID: -8925949300468745682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 178
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e8ef2613befb420800000000000000
+      internalID: 2648093703263915605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 152
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc35b6b8941a03840800000000000000
+      internalID: 5201834906856674252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 152
+        width: 16
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f0eeff5d370f0e0800000000000000
+      internalID: -2238161651844116649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 201
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e5a5e004aaa80a0800000000000000
+      internalID: -6878498288759579081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 200
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7eb930f2288e8270800000000000000
+      internalID: 8254684850657279613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 200
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf77574eaa0c24ef0800000000000000
+      internalID: -125325999403075588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 201
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67306e8de808eef0800000000000000
+      internalID: -78803177090042005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 201
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b3683aa8e038c70800000000000000
+      internalID: 8972030871263918962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 202
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc8d9877c7f49a00800000000000000
+      internalID: 762506673026600116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 188
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62580142b8cb4020800000000000000
+      internalID: 2327174300387791469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 186
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a83d36475f16eb0800000000000000
+      internalID: -4728228253522490838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 185
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879c7a4d3cd431ea0800000000000000
+      internalID: -5903289183070860936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 186
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaf9c08a8d654c00800000000000000
+      internalID: 884233343481805533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 186
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02821e28e53759360800000000000000
+      internalID: 7175768431044667424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 185
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6bafacf935ef230800000000000000
+      internalID: 3674466291751237308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 185
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c01c45512ffbcff0800000000000000
+      internalID: -14637655135612727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 184
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46ea8b867361ba80800000000000000
+      internalID: -8452865664799283636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 184
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e951b812262953470800000000000000
+      internalID: 8373760032332518814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 185
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5272a36b4c27306f0800000000000000
+      internalID: -719605326252726491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 185
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9971afd2a2a3eada0800000000000000
+      internalID: -5931739706365962343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 186
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0aa851b9aff6440800000000000000
+      internalID: 4931435660982263976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 188
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40cbc87cb8b895a0800000000000000
+      internalID: -6514253741371441076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 186
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb169a66edb8ef20800000000000000
+      internalID: 3452217911707835373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 188
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752ca2ea3794a03a0800000000000000
+      internalID: -6698460734568086953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 172
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612d1b453d85f4620800000000000000
+      internalID: 2760522761283686934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 170
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8562b2e804131f50800000000000000
+      internalID: 6850841486556292491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 169
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020daa335ed168d40800000000000000
+      internalID: 5586185258051227680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 170
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c01ab3c583a93ec0800000000000000
+      internalID: -3586655833314160444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 170
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6585590b409c69b0800000000000000
+      internalID: -5085531227254586001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7874f954a363b5ad0800000000000000
+      internalID: -2712514726656522361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8854cca133f4730800000000000000
+      internalID: 3985460385435453677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 168
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fbdaed27898f570800000000000000
+      internalID: 8500711915791433549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 168
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4aa7961b3d605b40800000000000000
+      internalID: 5426957651530984011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc0caf28874b8bc0800000000000000
+      internalID: -3779848812006470478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a236867627169a60800000000000000
+      internalID: 7680351668491661986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 170
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85149dcca014bc6c0800000000000000
+      internalID: -4122129519285288616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 172
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d142011a4a0262a0800000000000000
+      internalID: -6745817978618363439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 170
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252bb406b5d684ce0800000000000000
+      internalID: -1420765443210366382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 172
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa184ab3c8c794e60800000000000000
+      internalID: 7947019959209853359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 156
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6de345e8de23ff0800000000000000
+      internalID: -57722649647851799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 154
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bb6796db161bd10800000000000000
+      internalID: 2139598764123798358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 153
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e2b703f981b9bc0800000000000000
+      internalID: -3775396790627783083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 154
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a19ec15a0130bf0800000000000000
+      internalID: -359425243918820771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 154
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca8c4d3342a1eca0800000000000000
+      internalID: -5989327619751114048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2b36958a44d0e60800000000000000
+      internalID: 7930070008714212085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01417eef10ed347b0800000000000000
+      internalID: -5241101441176234992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 152
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbba552a7df0d5cb0800000000000000
+      internalID: -4873721802929099845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 152
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c33efeb91482750800000000000000
+      internalID: 6280341818368539772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6372f51041d1d1580800000000000000
+      internalID: -8854889320580962506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec99428f373b17890800000000000000
+      internalID: -7461985796910442034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 154
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff5264bcb394f860800000000000000
+      internalID: 7562832112951386104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 156
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43e52878f52bcad0800000000000000
+      internalID: -2681007404071132340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 154
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83f84fff81f041d0800000000000000
+      internalID: -3368426920507542643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 156
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2693e00167cb5ef50800000000000000
+      internalID: 6910136418531424610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847f77b78db286c20800000000000000
+      internalID: 3199855744031127368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b287a6dcbdbcf70800000000000000
+      internalID: 9208695538390150009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 138
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eed2d3800042a610800000000000000
+      internalID: 1630936386017353448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 139
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471c09231ccdbbb70800000000000000
+      internalID: 8915962609645175156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 130
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82662a5e47a4aa40800000000000000
+      internalID: 5378607809948967566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 138
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de9527c7d8e897b0800000000000000
+      internalID: -5217164154851975463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 139
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4496c3fda493d3c0800000000000000
+      internalID: -4335958541387525042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 139
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609220f66860d7cd0800000000000000
+      internalID: -2558881838818776826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 139
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dac6714ce8a32b0800000000000000
+      internalID: -5604009813451428453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 126
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77af1e503d8389200800000000000000
+      internalID: 186961863523826295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 122
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446cb6d4fa696de70800000000000000
+      internalID: 9139658173457352260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 124
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d01c7896bafaff0800000000000000
+      internalID: -22611003376071272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 123
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a91b270b9ebcb50800000000000000
+      internalID: 6614637421771463169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 122
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8a12685202dade0800000000000000
+      internalID: -1320363770213455619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 121
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83fb39ca8b5eb2a0800000000000000
+      internalID: -6719832942350437494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 119
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808f73ae5114b0d00800000000000000
+      internalID: 939916509616535560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 119
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aae746196df4130800000000000000
+      internalID: 3553294550963235456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 121
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5123d390ed9a8400800000000000000
+      internalID: 327247510816104798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 123
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe297df38b62bbb0800000000000000
+      internalID: -4921753228125065488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 124
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05843aacc361515d0800000000000000
+      internalID: -3092541118766430128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 122
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4187a4113c44d40800000000000000
+      internalID: 5567789518368019665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e19285e09f0dbd60800000000000000
+      internalID: 7907493635732705761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 105
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe55b33115c0e570800000000000000
+      internalID: 8494005574893395709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 105
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17153ae91994f3710800000000000000
+      internalID: 1675138476185702769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 105
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a10f99357996a9d0800000000000000
+      internalID: -2763352592588275289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 105
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e0bd46f168f8150800000000000000
+      internalID: 5877063508135972401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 105
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c432dc7f2a0da3d0800000000000000
+      internalID: -3193885361661922104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 105
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7898b021f876433f0800000000000000
+      internalID: -921998159523378809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 105
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fe4ee437aeb2340800000000000000
+      internalID: 4840220005505494807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 105
+        width: 114
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecaaa98a17d74d10800000000000000
+      internalID: 2109891459425152232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 90
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973210d91e41bc8d0800000000000000
+      internalID: -2825141382010559623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 90
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc3f21b0c22b6c20800000000000000
+      internalID: 3200690171178597590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 90
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa16f6af985f39d0800000000000000
+      internalID: -2792415801222227212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 90
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9655de18c7a2aebb0800000000000000
+      internalID: -4906062129822608023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 90
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e990d7b01d3b1a0800000000000000
+      internalID: -6794857565499318635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 90
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa0fee2e5fcbc8d0800000000000000
+      internalID: -2824936337823560974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 90
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be19a062e961ed830800000000000000
+      internalID: 4097737579452600811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 90
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50893552c09de1ba0800000000000000
+      internalID: -6116212597733484539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 90
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e5b1b4ef86a6e30800000000000000
+      internalID: 4497522619273928289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 90
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf351147a931e4160800000000000000
+      internalID: 7011563223955624956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb6f1b144bee3620800000000000000
+      internalID: 2755898699742669770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 72
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b15dee2ef178de0800000000000000
+      internalID: -1331060105334678669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 72
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bf85611f2ff3c60800000000000000
+      internalID: 7800220196904958784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 73
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafbdd1c360f4e830800000000000000
+      internalID: 4099665872058957742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 74
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4f40a6eb0469d50800000000000000
+      internalID: 6743648678600570074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 75
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e213e8ff47ce14ef0800000000000000
+      internalID: -125559327341792978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 75
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec25084d37f9acf80800000000000000
+      internalID: -8085474861155069234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 74
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c16e204c84c3d50800000000000000
+      internalID: 6718324750829362284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 73
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142bba5f6644af2c0800000000000000
+      internalID: -4397126877174844863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f548cef1652aed880800000000000000
+      internalID: -8584245348935105441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 71
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0ce34ea9a068330800000000000000
+      internalID: 3712666603184111788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92eadcfe992c170e0800000000000000
+      internalID: -2273822370436370903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20625961edfc54ee0800000000000000
+      internalID: -1277386366521104894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 72
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cc5307ca0e33660800000000000000
+      internalID: 7364476846902463618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 72
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270da3a43f61d4270800000000000000
+      internalID: 8236264527708737650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 72
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40877a675cc9339e0800000000000000
+      internalID: -1642797067146921980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 71
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b053331f9e08bed00800000000000000
+      internalID: 1003037084282467595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 71
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9865ea1992be4f860800000000000000
+      internalID: 7562928238032213641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 71
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b07af908b0cc6d0800000000000000
+      internalID: -2968985407281755338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 72
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d536e9bdba2d34f40800000000000000
+      internalID: 5711640388001751901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 72
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42efa0dd5b99007a0800000000000000
+      internalID: -6412956862998970844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 72
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42803ea642822da20800000000000000
+      internalID: 3085572831579408420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 71
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daddb9da90b29150800000000000000
+      internalID: 5877954642796468944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce65b1211465f1c0800000000000000
+      internalID: -4470557030352589108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b657cd62dbb8660800000000000000
+      internalID: 7389207588236520208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 57
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa3c79aa982d5170800000000000000
+      internalID: 8168729943853513386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 57
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62347bb0633ce7de0800000000000000
+      internalID: -1333413802762878170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 57
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab6e446a68723840800000000000000
+      internalID: 5202352917911071657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 57
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ffd2bb5fe944760800000000000000
+      internalID: 7441247262567431979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 57
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c0a953bca969220800000000000000
+      internalID: 2492349641364474936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 57
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f6ebdcd2e85db00800000000000000
+      internalID: 852744031833059200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 57
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5e66d1a4be85740800000000000000
+      internalID: 5141117678196811187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90816750d038a8020800000000000000
+      internalID: 2344830647949203465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 42
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be44d326a9ace590800000000000000
+      internalID: -7643547936523792716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 41
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572131a762c57a600800000000000000
+      internalID: 479453205664830069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8f8f3bfd3203850800000000000000
+      internalID: 6354618517923887296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 40
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef0b5ab0db3f0f70800000000000000
+      internalID: 9155602335133274092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 41
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba892d0f4f42b660800000000000000
+      internalID: 7400064338664983225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 42
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a141fb9967a45b2e0800000000000000
+      internalID: -2110698977107176422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df3a8aa737e3e240800000000000000
+      internalID: 4819950252486967256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_168
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 45
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861d0bc6df7cb7810800000000000000
+      internalID: 1764223570309861736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1d10e3ea7da7c20800000000000000
+      internalID: 3205111228192117216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6cb986d9a2ccf70800000000000000
+      internalID: 9208782193619093196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_171
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 19
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fdf4a5f5c599fa0800000000000000
+      internalID: -5793497881028599957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_172
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 19
+        width: 73
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389d962f9bf208aa0800000000000000
+      internalID: -6160871814560360061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 19
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc066924387e3a2b0800000000000000
+      internalID: -5574357362810658611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_174
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 19
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d6e7b81efd373b0800000000000000
+      internalID: -5515818958797771435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_175
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 19
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b51f1cebb9820c90800000000000000
+      internalID: -7205045013626022475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_176
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 19
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3acf16e0a398240800000000000000
+      internalID: 4794427111760503783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_177
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 19
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d08fe580df584980800000000000000
+      internalID: -8554482142985355049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_178
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 19
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7797033dbd792a5b0800000000000000
+      internalID: -5358553636220667529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_179
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 19
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f54b832403b819e0800000000000000
+      internalID: -1650372433073715719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_180
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 19
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0254b817d47facb90800000000000000
+      internalID: -7220687140545673952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_181
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 19
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d98b42ac927b31d0800000000000000
+      internalID: -3369973879093360169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_182
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 19
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8fcfc81aa4c1050800000000000000
+      internalID: 5772570880097712303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_183
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 19
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5499ffc70306ef5d0800000000000000
+      internalID: -3026876138174572219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_184
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558a6f9518cd7e460800000000000000
+      internalID: 7271022571531184213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_185
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 113
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe791f55bca116300800000000000000
+      internalID: 243505315477297135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_186
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 114
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd87b7d7074c2860800000000000000
+      internalID: 7506452777929248252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_187
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0b287619d7865b0800000000000000
+      internalID: -5374908091806338822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_188
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085d9dbd907a64cf0800000000000000
+      internalID: -268343466996935296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_189
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a84c91f93d805c70800000000000000
+      internalID: 8957814938846120100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_190
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f136abaa2ed5d30800000000000000
+      internalID: 4421939632047071094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_191
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 145
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6324d827fb1c9ed90800000000000000
+      internalID: -7067905112176508362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_192
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685131995c85a16f0800000000000000
+      internalID: -713159985284835962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_193
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ec58f93238b58d0800000000000000
+      internalID: -2856545349613007237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_194
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8b270d7889405d0800000000000000
+      internalID: -3097182934638872390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_0: -2224749933779273263
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_1: 622101124347699753
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_10: -3115006328683040597
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_100: 6614637421771463169
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_101: -1320363770213455619
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_102: -6719832942350437494
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_103: 939916509616535560
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_104: 3553294550963235456
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_105: 327247510816104798
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_106: -4921753228125065488
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_107: -3092541118766430128
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_108: 5567789518368019665
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_109: 7907493635732705761
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_11: 484507951024664959
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_110: 8494005574893395709
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_111: 1675138476185702769
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_112: -2763352592588275289
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_113: 5877063508135972401
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_114: -3193885361661922104
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_115: -921998159523378809
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_116: 4840220005505494807
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_117: 2109891459425152232
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_118: -2825141382010559623
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_119: 3200690171178597590
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_12: -4323407453948325712
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_120: -2792415801222227212
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_121: -4906062129822608023
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_122: -6794857565499318635
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_123: -2824936337823560974
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_124: 4097737579452600811
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_125: -6116212597733484539
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_126: 4497522619273928289
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_127: 7011563223955624956
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_128: 2755898699742669770
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_129: -1331060105334678669
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_13: 8495312774663738296
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_130: 7800220196904958784
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_131: 4099665872058957742
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_132: 6743648678600570074
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_133: -125559327341792978
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_134: -8085474861155069234
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_135: 6718324750829362284
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_136: -4397126877174844863
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_137: -8584245348935105441
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_138: 3712666603184111788
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_139: -2273822370436370903
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_14: -428008351796618008
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_140: -1277386366521104894
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_141: 7364476846902463618
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_142: 8236264527708737650
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_143: -1642797067146921980
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_144: 1003037084282467595
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_145: 7562928238032213641
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_146: -2968985407281755338
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_147: 5711640388001751901
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_148: -6412956862998970844
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_149: 3085572831579408420
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_15: -5102906244246357513
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_150: 5877954642796468944
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_151: -4470557030352589108
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_152: 7389207588236520208
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_153: 8168729943853513386
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_154: -1333413802762878170
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_155: 5202352917911071657
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_156: 7441247262567431979
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_157: 2492349641364474936
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_158: 852744031833059200
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_159: 5141117678196811187
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_16: 6836976052200561100
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_160: 2344830647949203465
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_161: -7643547936523792716
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_162: 479453205664830069
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_163: 6354618517923887296
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_164: 9155602335133274092
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_165: 7400064338664983225
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_166: -2110698977107176422
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_167: 4819950252486967256
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_168: 1764223570309861736
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_169: 3205111228192117216
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_17: -4799640332925048227
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_170: 9208782193619093196
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_171: -5793497881028599957
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_172: -6160871814560360061
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_173: -5574357362810658611
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_174: -5515818958797771435
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_175: -7205045013626022475
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_176: 4794427111760503783
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_177: -8554482142985355049
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_178: -5358553636220667529
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_179: -1650372433073715719
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_18: -669723558915535406
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_180: -7220687140545673952
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_181: -3369973879093360169
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_182: 5772570880097712303
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_183: -3026876138174572219
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_184: 7271022571531184213
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_185: 243505315477297135
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_186: 7506452777929248252
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_187: -5374908091806338822
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_188: -268343466996935296
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_189: 8957814938846120100
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_19: -4551853367828919460
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_190: 4421939632047071094
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_191: -7067905112176508362
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_192: -713159985284835962
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_193: -2856545349613007237
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_194: -3097182934638872390
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_2: -6670897263384464195
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_20: -392505206427505923
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_21: 3723466911273925955
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_22: -2824680758214391485
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_23: -7374324252312311919
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_24: 6337076663234450273
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_25: -992342746928072404
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_26: 4231400260098004265
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_27: -6729599176342168244
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_28: 2551964322159300369
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_29: 923440134558643462
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_3: 3926912399932126407
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_30: -1507896444751123658
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_31: 7424417800342832511
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_32: 2525502408673406043
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_33: -8925949300468745682
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_34: 2648093703263915605
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_35: 5201834906856674252
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_36: -2238161651844116649
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_37: -6878498288759579081
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_38: 8254684850657279613
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_39: -125325999403075588
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_4: -7463510752128765883
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_40: -78803177090042005
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_41: 8972030871263918962
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_42: 762506673026600116
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_43: 2327174300387791469
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_44: -4728228253522490838
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_45: -5903289183070860936
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_46: 884233343481805533
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_47: 7175768431044667424
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_48: 3674466291751237308
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_49: -14637655135612727
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_5: 4585642763211785458
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_50: -8452865664799283636
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_51: 8373760032332518814
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_52: -719605326252726491
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_53: -5931739706365962343
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_54: 4931435660982263976
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_55: -6514253741371441076
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_56: 3452217911707835373
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_57: -6698460734568086953
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_58: 2760522761283686934
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_59: 6850841486556292491
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_6: -8609698176316220928
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_60: 5586185258051227680
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_61: -3586655833314160444
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_62: -5085531227254586001
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_63: -2712514726656522361
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_64: 3985460385435453677
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_65: 8500711915791433549
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_66: 5426957651530984011
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_67: -3779848812006470478
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_68: 7680351668491661986
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_69: -4122129519285288616
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_7: -7434824395194092032
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_70: -6745817978618363439
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_71: -1420765443210366382
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_72: 7947019959209853359
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_73: -57722649647851799
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_74: 2139598764123798358
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_75: -3775396790627783083
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_76: -359425243918820771
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_77: -5989327619751114048
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_78: 7930070008714212085
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_79: -5241101441176234992
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_8: 3830409156283524335
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_80: -4873721802929099845
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_81: 6280341818368539772
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_82: -8854889320580962506
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_83: -7461985796910442034
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_84: 7562832112951386104
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_85: -2681007404071132340
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_86: -3368426920507542643
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_87: 6910136418531424610
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_88: 3199855744031127368
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_89: 9208695538390150009
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_9: -4916930963429361308
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_90: 1630936386017353448
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_91: 8915962609645175156
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_92: 5378607809948967566
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_93: -5217164154851975463
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_94: -4335958541387525042
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_95: -2558881838818776826
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_96: -5604009813451428453
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_97: 186961863523826295
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_98: 9139658173457352260
+      Arcade - Arkanoid II_ Revenge of DOH - Enemies _ Bosses - Enemies_99: -22611003376071272
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

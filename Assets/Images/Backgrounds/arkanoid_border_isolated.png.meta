@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: de3ed37354b4f9f4896643b9c4118e3c
+guid: 6e6302e887ca60d48a8690ff0e651895
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7730486409907412771
-    second: preview_0
+      213: -1655931504896240492
+    second: arkanoid_border_isolated_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: multiball
+      name: arkanoid_border_isolated_0
       rect:
         serializedVersion: 2
-        x: 396
-        y: 471
-        width: 154
-        height: 41
+        x: 0
+        y: 0
+        width: 400
+        height: 440
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dd0eb7c619bc7b490800000000000000
-      internalID: -7730486409907412771
+      spriteID: 494184ed113f409e0800000000000000
+      internalID: -1655931504896240492
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b00f7a2d3174b284ab04f86fa7e6bbf7
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      multiball: -7730486409907412771
+      arkanoid_border_isolated_0: -1655931504896240492
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
