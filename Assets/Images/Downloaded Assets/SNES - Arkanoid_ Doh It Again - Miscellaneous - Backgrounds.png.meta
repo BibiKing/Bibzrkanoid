@@ -117,9 +117,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 512
-        height: 160
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,11 +134,1507 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f12cf19a9b4cc640b65efff7f5b94c3
+      internalID: -171641003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66baf470d71d18a4da9c53ab0a2408a4
+      internalID: -1037644814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64264bcf2b7f145448aebf31c35487bb
+      internalID: 2078812116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d05c4aba94d5c54ea1e63a90316a968
+      internalID: 1204860713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03410c475e19ab4e83154dabbcbd251
+      internalID: -873926983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e0227b98dac124ca3ce4cfbf5e7ed2
+      internalID: 999121501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c7c6aead1c7d044b36caeb924820a8
+      internalID: 1644653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d7b4cb555fb5442bed1643d8f67bf8
+      internalID: 583551102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5659835dd8d1bc54ba18178dbd0744f8
+      internalID: 1636428784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40215a4e7fc23824aa52de272d9a9964
+      internalID: -1702651589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25b79a0c5e2ff8479691eedbdfa056c
+      internalID: -1126756209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ec66679b36152488704dac48aff53f
+      internalID: 1948454506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5196594b7ae74a549b2e746b02210f69
+      internalID: 2071009531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5905f3abc89de4b8278983938ac26d
+      internalID: 1337542835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc57ce1dc1beae4da8eefbd63f23238
+      internalID: 1655544729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2968dae76ce7bea4098bd909cda4edac
+      internalID: 1205622496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a40c8c91398cca40a9814bf66c46709
+      internalID: 611420960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63aa7b9caa15f4408a09dc9eb003b84
+      internalID: 761727604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985614ec2cb07e14f97f387d9c6c7412
+      internalID: -2104867187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab69ae09985c0a441a6c10fcd310ced3
+      internalID: -783512005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9445c12d58d60e49b363e00d3dbaf11
+      internalID: 342649683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c63d2f61148cb342a1845b5dc38b25d
+      internalID: -1143262800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e88655aa13beb4ca35c98e75aa462c
+      internalID: -459413067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba1d6e7d4584a54697c61b064408265
+      internalID: 1418569172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e17a79c42e7544091d45cf7385bac7
+      internalID: 2010855228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1751cc0132b4d47499fa99221e686501
+      internalID: 894180594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2214ca9c32ef6b8409f06d21af13a0ea
+      internalID: 1242586283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136e26cfbf041674a8279b33996763e2
+      internalID: -1425183379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e210203e098464ebb2b4a516aca7f7
+      internalID: -1068873552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab276630e695b445a789dbc423ba7e6
+      internalID: -1564623170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e073aed27699d0e479127bcf23769dfa
+      internalID: -980215504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ced6ee87441a6340bac2d81d52d3915
+      internalID: -470692687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e859da8b92ad034083e9ea6adddbb95
+      internalID: 1439990461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4665682b70ec24db2e30c389a6e17d
+      internalID: -415986956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b733551c0dc7b9d4c890804a65206d95
+      internalID: 498480437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d912cbdb1eca445b133f37f28352bf
+      internalID: -1080265090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e3b0bcddf407c4b8a509487ec491d6
+      internalID: -1451613165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce240ac5139ae24caf7b01978835468
+      internalID: -153997130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8460011b1d2be7245a4180dcc7e683b0
+      internalID: -75199364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd33b71007645d340b233d566fc83df7
+      internalID: 911682685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05724e7a99a95645a1e91e7de7308ac
+      internalID: 1251055049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bcf097413067d4b92761757f17ab2d
+      internalID: 935783847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daae8941f8cd5046936becb805afaa8
+      internalID: -1994777662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad38ad6e62ce9d54b88013a82e89d616
+      internalID: 639075585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358106e322eb732479e379e16b5ac3f8
+      internalID: 260340600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96534c07d91de9499fdb01fe1909979
+      internalID: 1534628247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c79e46a834aba044915ec0053ec0b28
+      internalID: 1818903325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7266835d21c60af4eb1eb41ed515e483
+      internalID: -40283214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d6aac854cc33745815f29bf1bc3c9d
+      internalID: 266169434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c840febc7f8b7ab41b6f6b42b6a60a56
+      internalID: 1912515885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a73ca6bcecf294ab3d41e8ecfd8b95
+      internalID: -705196112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c2eeae14f34a44daa05c956fab1db3
+      internalID: -2030952724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51005f2a019d74b469f9c3a14abbe891
+      internalID: 2146632187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0f4f87eebe39448a98721dc6ca6c56
+      internalID: -1699372211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243a0feb339190044b8fbbde7c59ccac
+      internalID: -1562269270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e87dd57c7674c418fde582daea1c78
+      internalID: 1930364154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc649dcaca44de04db3f0be1664c176c
+      internalID: -1083628652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c452259dc2846b418dce49f3eb2c8af
+      internalID: 1516108966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3fdb5c57d045d4f850223b6ee3d0cc
+      internalID: 1669580687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820fc441756e9bc4b820f9e94c800c5c
+      internalID: 239598396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bf99bdb8ebbe94293d4d8d98e15154
+      internalID: -472574330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae84c52846d6c544bbb84cf448ddc194
+      internalID: -70043659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5030dca165de80b40aa0b5b41a9b1014
+      internalID: -201339090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1ab840cccfee941b05ec0e981b6be2
+      internalID: 2112529842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c961d9c5d98401a4088745e2c08e98de
+      internalID: 1624426261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1841a0f3b6eebde4183cdae9dc7c3c47
+      internalID: 569420206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0533b8405948334f8daffc69f798010
+      internalID: -685116520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccdbef090d8949449df723c16abca38
+      internalID: 125596027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 97fc9350cc5bad24bb7b3d8bc04899df
     internalID: 0
     vertices: []
     indices: 
@@ -146,9 +1642,79 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":16.0,"y":5.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_0: -5898354040184953513
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_1: -171641003
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_10: -1702651589
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_11: -1126756209
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_12: 1948454506
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_13: 2071009531
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_14: 1337542835
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_15: 1655544729
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_16: 1205622496
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_17: 611420960
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_18: 761727604
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_19: -2104867187
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_2: -1037644814
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_20: -783512005
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_21: 342649683
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_22: -1143262800
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_23: -459413067
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_24: 1418569172
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_25: 2010855228
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_26: 894180594
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_27: 1242586283
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_28: -1425183379
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_29: -1068873552
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_3: 2078812116
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_30: -1564623170
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_31: -980215504
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_32: -470692687
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_33: 1439990461
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_34: -415986956
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_35: 498480437
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_36: -1080265090
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_37: -1451613165
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_38: -153997130
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_39: -75199364
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_4: 1204860713
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_40: 911682685
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_41: 1251055049
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_42: 935783847
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_43: -1994777662
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_44: 639075585
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_45: 260340600
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_46: 1534628247
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_47: 1818903325
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_48: -40283214
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_49: 266169434
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_5: -873926983
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_50: 1912515885
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_51: -705196112
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_52: -2030952724
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_53: 2146632187
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_54: -1699372211
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_55: -1562269270
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_56: 1930364154
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_57: -1083628652
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_58: 1516108966
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_59: 1669580687
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_6: 999121501
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_60: 239598396
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_61: -472574330
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_62: -70043659
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_63: -201339090
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_64: 2112529842
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_65: 1624426261
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_66: 569420206
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_67: -685116520
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_68: 125596027
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_7: 1644653
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_8: 583551102
+      SNES - Arkanoid_ Doh It Again - Miscellaneous - Backgrounds_9: 1636428784
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
