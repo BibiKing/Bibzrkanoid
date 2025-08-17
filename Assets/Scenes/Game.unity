@@ -12741,7 +12741,7 @@ MonoBehaviour:
   maxLevels: 40
   maxLives: 10
   colorPaletteIndex: 1
-  currentLevel: 0
+  currentLevel: 35
 --- !u!1 &510440431
 GameObject:
   m_ObjectHideFlags: 0
@@ -21488,13 +21488,34 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   seed: 0
   effectiveSeed: 0
-  exportFilePath: 
   autoExportTxt: 0
-  exportFileName: campaign_export.txt
   autoExportHtml: 1
-  htmlExportFileName: campaign_export.html
   autoExportPng: 0
+  exportFilePath: 
+  exportFileName: campaign_export.txt
+  htmlExportFileName: campaign_export.html
   pngExportPrefix: level_
+  tQuad: 0.3
+  tHorizontal: 0.55
+  tVertical: 0.75
+  startBlocksEarly: 20
+  endDensityLate: 0.65
+  hardFracStart: 0.05
+  hardFracEnd: 0.35
+  hardCapStartT: 0.25
+  sprinkleStartT: 0.6666667
+  chanceFullIndLate: 0.5
+  chanceSprinkleLate: 0.45
+  sprinklePctMin: 0.01
+  sprinklePctMax: 0.03
+  ensureVerticalPassageOnSprinkle: 1
+  lateGameMotifStartT: 0.5
+  lateGameMotifChance: 0.75
+  allowSpecialComplement: 1
+  specialComplementTries: 60
+  specialComplementMinGap: 1
+  specialVisualDensityMin: 0.18
+  specialVisualDensityMax: 0.5
 --- !u!1 &1968804421
 GameObject:
   m_ObjectHideFlags: 0

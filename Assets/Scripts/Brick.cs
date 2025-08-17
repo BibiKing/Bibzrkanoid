@@ -21,7 +21,7 @@ public class Brick : MonoBehaviour
     public ParticleSystem downgradeEffect;
     public ParticleSystem unbreakableEffect;
 
-    public int points = 100;
+    private int points {get; set;}
     private bool isUnbreakable = false;
 
     private Sprite regularBrickSprite;
@@ -186,7 +186,7 @@ public class Brick : MonoBehaviour
         Destroy(root);
     }
 
-    public void Init(Transform containerTransform, Color color, int hitPoints, bool isIndest = false)
+    public void Init(Transform containerTransform, Color color, int hitPoints, bool isIndest = false, int points = 50)
     {
         this.transform.SetParent(containerTransform);
         Sprite sprite = null;
@@ -208,6 +208,7 @@ public class Brick : MonoBehaviour
         this.spriteRenderer.color = color;
         this.hitPoints = hitPoints;
         this.isUnbreakable = isIndest;
+        this.points = points;
     }
 
 }

@@ -1170,36 +1170,102 @@ public class LevelGenerator : MonoBehaviour
     }
     #endregion
 
-    [Header("Parâmetros")]
-    public int seed;
-    public int effectiveSeed;
-    private int runtimeSeed;
-    private int totalLevels, maxLives, rowCount, colCount;
+    // =======================
+    //  Tuning
+    // =======================
+    
+    [Header("Seed & Export")]
+    [Tooltip("Seed fixa para campanha. Se 0, usa seed de runtime.")]
+    [SerializeField] public int seed = 0;
+    [HideInInspector] public int effectiveSeed;
+    [HideInInspector] private int runtimeSeed;
+    [Tooltip("Exporta TXT automaticamente depois de gerar.")]
+    [SerializeField] private bool autoExportTxt = false;
+    [Tooltip("Exporta HTML automaticamente depois de gerar.")]
+    [SerializeField] private bool autoExportHtml = false;
+    [Tooltip("Largura da célula (px) no HTML exportado.")]
+    [SerializeField, Min(4)] private int htmlCellWidthPx = 24;   // exemplo: 24
+    [Tooltip("Altura da célula (px) no HTML exportado.")]
+    [SerializeField, Min(4)] private int htmlCellHeightPx = 12;  // exemplo: 12  (metade da largura)
+    [Tooltip("Espaço (px) entre células no HTML exportado.")]
+    [SerializeField, Range(0, 8)] private int htmlGapPx = 2;
+    [Tooltip("Exporta PNGs automaticamente depois de gerar.")]
+    [SerializeField] private bool autoExportPng = false;
+    [Tooltip("Nome/prefixo base para arquivos de export.")]
+    [SerializeField] private string exportFilePath = "";
+    [Tooltip("Nome do TXT de export.")]
+    [SerializeField] private string exportFileName = "campaign_export.txt";
+    [Tooltip("Nome do HTML de export.")]
+    [SerializeField] private string htmlExportFileName = "campaign_export.html";
+    [Tooltip("Prefixo de PNGs (um por nível).")]
+    [SerializeField] private string pngExportPrefix = "level_";
+    [HideInInspector] private string exportFileSeed;
+    [HideInInspector] private string pngFolder;
 
-    private List<int[,]> levels;
+    [Header("Progresso da Campanha & Simetria")]
+    [Tooltip("t < TQuad → simetria QUAD; t < THorizontal → Horizontal; t < TVertical → Vertical; senão None.")]
+    [SerializeField, Range(0f, 1f)] private float tQuad = 0.30f;
+    [SerializeField, Range(0f, 1f)] private float tHorizontal = 0.55f;
+    [SerializeField, Range(0f, 1f)] private float tVertical = 0.75f;
+
+    [Header("Orçamento de Blocos (destrutíveis)")]
+    [Tooltip("Blocos alvo no início da campanha (nível 0%).")]
+    [SerializeField, Min(1)] private int startBlocksEarly = 20;
+    [Tooltip("Densidade alvo no fim da campanha, como fração do grid.")]
+    [SerializeField, Range(0.1f, 0.95f)] private float endDensityLate = 0.65f;
+
+    [Header("Dureza (hard) – Fração dentro dos destrutíveis")]
+    [Tooltip("Fração mínima de hard no começo.")]
+    [SerializeField, Range(0f, 0.5f)] private float hardFracStart = 0.05f;
+    [Tooltip("Fração máxima de hard no fim.")]
+    [SerializeField, Range(0f, 0.75f)] private float hardFracEnd = 0.35f;
+
+    [Header("Dureza (hard) – Teto Progressivo de Vidas")]
+    [Tooltip("Marco a partir do qual o teto sobe acima de 3 (ex.: 0.25).")]
+    [SerializeField, Range(0f, 1f)] private float hardCapStartT = 0.25f;
+
+    [Header("Indestrutíveis (sprinkle tardio)")]
+    [Tooltip("A partir deste t (progresso), permitem sprinkle caso não haja padrão integral.")]
+    [SerializeField, Range(0f, 1f)] private float sprinkleStartT = 2f / 3f; // ~0.6667
+    [Tooltip("Chance de ter padrão integral quando já for fim de campanha.")]
+    [SerializeField, Range(0f, 1f)] private float chanceFullIndLate = 0.50f;
+    [Tooltip("Chance de aplicar sprinkle quando não houver integral.")]
+    [SerializeField, Range(0f, 1f)] private float chanceSprinkleLate = 0.45f;
+    [Tooltip("Percentual mínimo do grid para sprinkle de -1.")]
+    [SerializeField, Range(0f, 0.10f)] private float sprinklePctMin = 0.01f;
+    [Tooltip("Percentual máximo do grid para sprinkle de -1.")]
+    [SerializeField, Range(0f, 0.10f)] private float sprinklePctMax = 0.03f;
+    [Tooltip("Ao usar sprinkle, garantir corredor vertical? (padrão integral já cuida sozinho)")]
+    [SerializeField] private bool ensureVerticalPassageOnSprinkle = true;
+
+    [Header("Simetria tardia / Motivos finais")]
+    [Tooltip("A partir deste t, os níveis podem forçar um 'motif' visual tardio.")]
+    [SerializeField, Range(0f, 1f)] private float lateGameMotifStartT = 0.70f;
+    [Tooltip("Chance de gerar motivo tardio num nível não-especial.")]
+    [SerializeField, Range(0f, 1f)] private float lateGameMotifChance = 0.55f;
+
+    [Header("Complemento de especiais vazios")]
+    [Tooltip("Permite complementar especiais vazios mantendo um 'gap' visual.")]
+    [SerializeField] private bool allowSpecialComplement = true;
+    [Tooltip("Tentativas máx. de inserir complementos sem encostar no desenho original.")]
+    [SerializeField, Min(0)] private int specialComplementTries = 60;
+    [Tooltip("Distância mínima (em células) entre complementos e a forma original.")]
+    [SerializeField, Min(0)] private int specialComplementMinGap = 1;
+    [Tooltip("Densidade visual mínima de especiais (nível 0).")]
+    [SerializeField, Range(0f, 1f)] private float specialVisualDensityMin = 0.18f;
+    [Tooltip("Densidade visual máxima de especiais (nível 1).")]
+    [SerializeField, Range(0f, 1f)] private float specialVisualDensityMax = 0.32f;
+
+    // Random usado pelo projeto inteiro
     public System.Random random;
 
+    //Lista de leveis e limites para geração
+    private List<int[,]> levels;
+    private int totalLevels, maxLives, rowCount, colCount;
+
+
+
     // ======================= CONFIG / CAMPANHA / EXPORT =======================
-
-    [Header("Exportação")]
-    public string exportFilePath;
-    private string exportFileSeed;
-    private string pngFolder;
-
-    [Header("ExportaçãoTxt")]
-    public bool autoExportTxt = false;
-    public string exportFileName = "campaign_export.txt"; // salvo em Application.persistentDataPath
-
-    // ==== Exportação HTML (visual) ====
-    [Header("Exportação HTML")]
-    public bool autoExportHtml = false;
-    public string htmlExportFileName = "campaign_export.html"; // salvo em Application.persistentDataPath
-
-    // ==== Exportação PNG (visual) ====
-    [Header("Exportação PNG")]
-    public bool autoExportPng = false;
-    public string pngExportPrefix = "level_";  // cada nível vira "level_1.png", "level_2.png", ...
-
 
 
     // Conjuntos de controle (consistência por campanha)
@@ -1691,14 +1757,21 @@ public class LevelGenerator : MonoBehaviour
 
         // Complementação opcional “sem encostar” (caso fique muito vazio);
         // alvo visual: densidade moderada escalando com t
-        int cur = CountDestructible(outGrid);
-        int targetVisual = Mathf.RoundToInt(rowCount * colCount * Mathf.Lerp(0.18f, 0.32f, t));
-        if (cur < targetVisual)
-            ComplementSpecialWithoutTouching(outGrid, targetVisual, rng);
+        if (allowSpecialComplement)
+        {
+            int cur = CountDestructible(outGrid);
+            int targetVisual = Mathf.RoundToInt(
+                rowCount * colCount * Mathf.Lerp(specialVisualDensityMin, specialVisualDensityMax, t)
+            );
+
+            if (cur < targetVisual)
+                ComplementSpecialWithoutTouching(outGrid, targetVisual, rng, specialComplementTries, specialComplementMinGap);
+        }
 
         usedSpecialLevelNames.Add(name);
         return true;
     }
+
 
     // ======================== BASE SIMÉTRICA E BLIT ===========================
 
@@ -1912,11 +1985,11 @@ public class LevelGenerator : MonoBehaviour
     [MethodImpl(MethodImplOptions.AggressiveInlining)]
     private int GetProgressiveHardCap(float t)
     {
-        int maxLives = Mathf.Max(3, BricksManager.Instance.maxLives);
-        if (t <= 0.25f) return 3;
-        float u = Mathf.Clamp01((t - 0.25f) / 0.75f);
-        float s = u * u * (3f - 2f * u);
-        return Mathf.Clamp(Mathf.RoundToInt(Mathf.Lerp(3f, maxLives, s)), 3, maxLives);
+        int maxLivesCap = Mathf.Max(3, BricksManager.Instance.maxLives);
+        if (t <= hardCapStartT) return 3;                     // antes do marco, teto = 3
+        float u = Mathf.Clamp01((t - hardCapStartT) / Mathf.Max(0.0001f, 1f - hardCapStartT));
+        float s = u * u * (3f - 2f * u);                      // smoothstep
+        return Mathf.Clamp(Mathf.RoundToInt(Mathf.Lerp(3f, maxLivesCap, s)), 3, maxLivesCap);
     }
 
     private int RandomWeightedHardLife(System.Random rng, int min, int max)
@@ -2127,7 +2200,10 @@ public class LevelGenerator : MonoBehaviour
 
     // ===================== COMPLEMENTO DE ESPECIAL (SEM ENCOSTAR) ==============
 
-    private void ComplementSpecialWithoutTouching(int[,] grid, int targetDestructible, System.Random rng)
+    private void ComplementSpecialWithoutTouching(int[,] grid, int target, System.Random rng)
+    => ComplementSpecialWithoutTouching(grid, target, rng, specialComplementTries, specialComplementMinGap);
+
+    private void ComplementSpecialWithoutTouching(int[,] grid, int target, System.Random rng, int maxTries, int minGap)
     {
         int placed = CountDestructible(grid);
         int R = grid.GetLength(0), C = grid.GetLength(1);
@@ -2146,7 +2222,7 @@ public class LevelGenerator : MonoBehaviour
         }
 
         int tries = 0;
-        while (placed < targetDestructible && tries++ < 300)
+        while (placed < target && tries++ < 300)
         {
             var pat = GetRandomBasicShape(preferSmall: true, rng: rng);
             int h = HeightOf(pat), w = WidthOf(pat);
@@ -2168,7 +2244,7 @@ public class LevelGenerator : MonoBehaviour
                     {
                         grid[oy + r, ox + c] = 1;
                         placed++;
-                        if (placed >= targetDestructible) return;
+                        if (placed >= target) return;
                     }
         }
     }
@@ -2239,26 +2315,36 @@ public class LevelGenerator : MonoBehaviour
     {
         try
         {
-            var sb = new System.Text.StringBuilder(1 << 18); // ~256KB inicial
+            var sb = new System.Text.StringBuilder(1 << 18); // ~256KB
+
+            // Variáveis vindas do Inspector
+            int cellW = Mathf.Max(4, htmlCellWidthPx);
+            int cellH = Mathf.Max(4, htmlCellHeightPx);
+            int gap = Mathf.Clamp(htmlGapPx, 0, 8);
 
             // Cabeçalho + CSS
             sb.AppendLine("<!DOCTYPE html><html lang=\"pt-br\"><head><meta charset=\"utf-8\">");
             sb.AppendLine("<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">");
             sb.AppendLine("<title>Campanha - Export</title>");
-            sb.AppendLine(@"<style>
-            :root { --cell: 18px; --gap: 2px; --bg: #121212; --fg:#e0e0e0; --grid:#2a2a2a; }
-            body { background: var(--bg); color: var(--fg); font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 24px; }
-            h1, h2, h3 { margin: 0.5rem 0; }
-            .meta { opacity:.8; margin-bottom:12px; }
-            .levels { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px,1fr)); gap: 16px; }
-            .card { background: #1b1b1b; border: 1px solid #2c2c2c; border-radius: 12px; padding: 12px; box-shadow: 0 6px 20px rgba(0,0,0,.25); }
-            .grid { display: grid; gap: var(--gap); background: var(--grid); padding: var(--gap); border-radius: 8px; }
-            .cell { width: var(--cell); height: var(--cell); display:flex; align-items:center; justify-content:center;
-                    font-size: 12px; line-height: 1; border-radius: 3px; color: #111; font-weight: 700; }
-            .legend { display:flex; gap:10px; flex-wrap: wrap; margin-top:8px; }
-            .chip { display:flex; align-items:center; gap:6px; font-size:12px; padding: 2px 6px; background:#202020; border:1px solid #2c2c2c; border-radius:6px; }
-            .box { width:14px; height:14px; border-radius:3px; border:1px solid #0006; }
-            .footer { margin-top: 24px; opacity:.7; font-size: 12px; }
+            sb.AppendLine($@"<style>
+            :root {{
+                --cellw: {cellW}px; 
+                --cellh: {cellH}px; 
+                --gap: {gap}px; 
+                --bg: #121212; --fg:#e0e0e0; --grid:#2a2a2a; 
+            }}
+            body {{ background: var(--bg); color: var(--fg); font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 24px; }}
+            h1, h2, h3 {{ margin: 0.5rem 0; }}
+            .meta {{ opacity:.8; margin-bottom:12px; }}
+            .levels {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(320px,1fr)); gap: 16px; }}
+            .card {{ background: #1b1b1b; border: 1px solid #2c2c2c; border-radius: 12px; padding: 12px; box-shadow: 0 6px 20px rgba(0,0,0,.25); }}
+            .grid {{ display: grid; gap: var(--gap); background: var(--grid); padding: var(--gap); border-radius: 8px; }}
+            .cell {{ width: var(--cellw); height: var(--cellh); display:flex; align-items:center; justify-content:center;
+                     font-size: 12px; line-height: 1; border-radius: 3px; color: #111; font-weight: 700; }}
+            .legend {{ display:flex; gap:10px; flex-wrap: wrap; margin-top:8px; }}
+            .chip {{ display:flex; align-items:center; gap:6px; font-size:12px; padding: 2px 6px; background:#202020; border:1px solid #2c2c2c; border-radius:6px; }}
+            .box {{ width:14px; height:14px; border-radius:3px; border:1px solid #0006; }}
+            .footer {{ margin-top: 24px; opacity:.7; font-size: 12px; }}
         </style>");
             sb.AppendLine("</head><body>");
 
@@ -2283,8 +2369,8 @@ public class LevelGenerator : MonoBehaviour
                 sb.AppendLine("<div class=\"card\">");
                 sb.AppendLine($"<h3>Nível {li + 1}</h3>");
 
-                // grade
-                sb.AppendLine($"<div class=\"grid\" style=\"grid-template-columns: repeat({colCount}, var(--cell));\">");
+                // grade (usa var(--cellw) para as colunas)
+                sb.AppendLine($"<div class=\"grid\" style=\"grid-template-columns: repeat({colCount}, var(--cellw));\">");
                 for (int r = 0; r < rowCount; r++)
                 {
                     for (int c = 0; c < colCount; c++)
@@ -2292,9 +2378,7 @@ public class LevelGenerator : MonoBehaviour
                         int v = lvl[r, c];
                         string bg = HtmlColorForValue(v);
                         string label = HtmlLabelForValue(v);
-                        // borda leve para visualizar células vazias
                         string border = (v == 0) ? "border:1px dashed #0006; color:#999;" : "border:1px solid #0006;";
-                        // contraste do texto sobre células escuras
                         string txtColor = (v == -1 || v >= 3) ? "color:#e8e8e8;" : "color:#111;";
                         sb.Append($"<div class=\"cell\" style=\"background:{bg}; {border} {txtColor}\">{label}</div>");
                     }
@@ -2405,14 +2489,14 @@ public class LevelGenerator : MonoBehaviour
     {
         int grid = rowCount * colCount;
 
-        int startBlocks = Mathf.Clamp(20, 1, grid);
-        int endBlocks = Mathf.Clamp(Mathf.RoundToInt(grid * 0.65f), startBlocks, grid);
+        int startBlocks = Mathf.Clamp(startBlocksEarly, 1, grid);
+        int endBlocks = Mathf.Clamp(Mathf.RoundToInt(grid * endDensityLate), startBlocks, grid);
         int totalDestructible = Mathf.RoundToInt(Mathf.Lerp(startBlocks, endBlocks, t));
 
-        float hardFrac = Mathf.SmoothStep(0.05f, 0.35f, t);
+        float hardFrac = Mathf.SmoothStep(hardFracStart, hardFracEnd, t);
         int hardCount = Mathf.Clamp(Mathf.RoundToInt(totalDestructible * hardFrac), 0, totalDestructible);
 
-        // decidimos -1 fora daqui (integral único ou sprinkle tardio)
+        // -1 é decidido fora daqui (padrão integral único ou sprinkle tardio)
         return (totalDestructible, hardCount, 0);
     }
 
@@ -2442,10 +2526,10 @@ public class LevelGenerator : MonoBehaviour
 
             // Simetria progressiva
             SymmetryMode sym =
-                (t < 0.30f) ? SymmetryMode.Quad :
-                (t < 0.55f) ? SymmetryMode.Horizontal :
-                (t < 0.75f) ? SymmetryMode.Vertical :
-                              SymmetryMode.None;
+                (t < tQuad) ? SymmetryMode.Quad :
+                (t < tHorizontal) ? SymmetryMode.Horizontal :
+                (t < tVertical) ? SymmetryMode.Vertical :
+                                    SymmetryMode.None;
 
             int SymToHint(SymmetryMode m) =>
                 (m == SymmetryMode.Quad) ? 3 :
@@ -2469,14 +2553,12 @@ public class LevelGenerator : MonoBehaviour
             // Nível normal: base simétrica + ajuste fino
             grid = GenerateSymmetricBaseWithMode(rowCount, colCount, targets.totalDestructible, sym, levelRng);
 
-            // Checagem: se estamos no late game, gerar motivos no lugar do normal
-            bool isLateGame = t >= 0.70f; // só deixa de lado especiais integrais, que já tratamos acima
-            if (isLateGame)
+            // Late-game motif para reforçar leitura visual nos níveis finais
+            if (t >= lateGameMotifStartT && levelRng.NextDouble() < lateGameMotifChance &&
+                !TryGetPlannedSpecialForIndex(levelIndex, out _)) // não sobrescreve especial integral
             {
                 GenerateLateGameMotifLevel(levelIndex, t, levelRng, ref grid, targets.totalDestructible);
-
-                // Ajuste fino para bater meta de blocos, mas respeitando o desenho dos motivos
-                AdjustDestructibleCount(grid, targets.totalDestructible, levelRng);
+                AdjustDestructibleCountFine(grid, targets.totalDestructible, sym, levelRng);
             }
             else
             {
@@ -2489,19 +2571,20 @@ public class LevelGenerator : MonoBehaviour
             PostProcessLives(grid, t, levelRng);
 
             // Indestrutível integral (1 pattern no fim da campanha) OU sprinkle tardio seguro
-            bool lateCampaign = levelIndex >= (int)(totalLevels * 2f / 3f);
+            bool lateCampaign = t >= sprinkleStartT;
             bool placedFullInd = false;
-            if (lateCampaign && levelRng.NextDouble() < 0.5) // chance de ter integral
+
+            if (lateCampaign && levelRng.NextDouble() < chanceFullIndLate)
                 placedFullInd = TryPlaceOneIndestructiblePattern(grid, t, levelRng);
 
-            if (lateCampaign && !placedFullInd && levelRng.NextDouble() < 0.45)
+            if (lateCampaign && !placedFullInd && levelRng.NextDouble() < chanceSprinkleLate)
             {
-                int sprinkle = Mathf.RoundToInt(rowCount * colCount * Mathf.Lerp(0.01f, 0.03f, t)); // 1–3%
+                float pct = Mathf.Lerp(sprinklePctMin, sprinklePctMax, (float)levelRng.NextDouble());
+                int sprinkle = Mathf.RoundToInt(rowCount * colCount * pct);
                 SprinkleIndestructiblesSafe(grid, sprinkle, levelRng);
             }
 
-            if(!placedFullInd) 
-            // failsafe de jogabilidade            
+            if (!placedFullInd && ensureVerticalPassageOnSprinkle)
                 EnsureVerticalPassage(grid, levelRng);
 
             levels.Add(grid);        }
